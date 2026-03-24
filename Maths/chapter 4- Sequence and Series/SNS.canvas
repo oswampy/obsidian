@@ -1,0 +1,123 @@
+{
+	"nodes":[
+		{
+			"id":"8eb9065f639aef7e",
+			"type":"file",
+			"file":"Maths/chapter 4- Sequence and Series/H.P.md",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1440,
+			"y":150,
+			"width":680,
+			"height":480,
+			"color":"2"
+		},
+		{
+			"id":"83af26a3da07c4ef",
+			"type":"file",
+			"file":"Maths/chapter 4- Sequence and Series/A.P.md",
+			"styleAttributes":{"border":"dotted"},
+			"x":-760,
+			"y":-410,
+			"width":620,
+			"height":460,
+			"color":"5"
+		},
+		{"id":"83a745a2993dee42","type":"file","file":"Maths/chapter 4- Sequence and Series/A.G.P.md","x":-220,"y":280,"width":820,"height":420,"color":"4"},
+		{"id":"270966af5777eb78","type":"file","file":"Maths/chapter 4- Sequence and Series/G.P.md","x":600,"y":-410,"width":640,"height":460,"color":"3"},
+		{"id":"5e784ccc2dac343a","type":"file","file":"Maths/chapter 4- Sequence and Series/H.M.md","x":-2080,"y":850,"width":800,"height":590},
+		{"id":"7019d73c6a3ef267","type":"file","file":"Maths/chapter 4- Sequence and Series/A.M-G.M-H.M inequality.md","x":-1110,"y":2000,"width":1780,"height":880},
+		{"id":"15f43fcb62bf9e5e","type":"file","file":"Maths/chapter 4- Sequence and Series/G.M.md","x":600,"y":850,"width":840,"height":590},
+		{"id":"0500693fc3a59d7f","type":"file","file":"Maths/chapter 4- Sequence and Series/A.M.md","x":-870,"y":850,"width":840,"height":590},
+		{"id":"1ca80422836beecf","type":"file","file":"Maths/chapter 4- Sequence and Series/Special Series.md","x":2240,"y":90,"width":1080,"height":800,"color":"#e766f0"}
+	],
+	"edges":[
+		{
+			"id":"769e053fa74326ba",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"83af26a3da07c4ef",
+			"fromSide":"right",
+			"toNode":"83a745a2993dee42",
+			"toSide":"top"
+		},
+		{
+			"id":"2fa6fa3b835fbee9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"270966af5777eb78",
+			"fromSide":"left",
+			"toNode":"83a745a2993dee42",
+			"toSide":"top"
+		},
+		{
+			"id":"baa2ca004ca5b2e1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"83af26a3da07c4ef",
+			"fromSide":"left",
+			"toNode":"8eb9065f639aef7e",
+			"toSide":"top"
+		},
+		{
+			"id":"e915a71372de3986",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"83af26a3da07c4ef",
+			"fromSide":"bottom",
+			"toNode":"0500693fc3a59d7f",
+			"toSide":"top"
+		},
+		{
+			"id":"5d6f819579ddc59d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"270966af5777eb78",
+			"fromSide":"bottom",
+			"toNode":"15f43fcb62bf9e5e",
+			"toSide":"top"
+		},
+		{
+			"id":"d9a5927acf8cc11c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8eb9065f639aef7e",
+			"fromSide":"bottom",
+			"toNode":"5e784ccc2dac343a",
+			"toSide":"top"
+		},
+		{
+			"id":"8c7dce10cfadae9f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5e784ccc2dac343a",
+			"fromSide":"bottom",
+			"toNode":"7019d73c6a3ef267",
+			"toSide":"top"
+		},
+		{
+			"id":"91a0ffa82611764d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0500693fc3a59d7f",
+			"fromSide":"bottom",
+			"toNode":"7019d73c6a3ef267",
+			"toSide":"top"
+		},
+		{
+			"id":"fc7c0abd1590f7b1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"15f43fcb62bf9e5e",
+			"fromSide":"bottom",
+			"toNode":"7019d73c6a3ef267",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"bac4457e46e74470"
+	}
+}

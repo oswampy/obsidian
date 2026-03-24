@@ -1,0 +1,64 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiBadgeMinus",
+      "LiChartLine",
+      "LiQuote",
+      "LiFrame",
+      "LiArrowUpRight"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Chemistry": {
+    "iconName": "LiBeaker",
+    "iconColor": "#52e647"
+  },
+  "Physics": {
+    "iconName": "LiScale3d",
+    "iconColor": "#b22be3"
+  },
+  "Maths": {
+    "iconName": "LiSquareRadical",
+    "iconColor": "#3b92e3"
+  },
+  "Quotes.md": {
+    "iconName": "LiQuote",
+    "iconColor": "#3a0fe6"
+  },
+  "Pictures": {
+    "iconName": "LiFrame",
+    "iconColor": "#f1e237"
+  },
+  "Physics/chapter 1 - Units and Dimensions": "LiSignature",
+  "Physics/chapter 2 - Motion in a Straight Line": "LiArrowUpRight",
+  "Chemistry/chapter 1 - Basic Concepts": "LiRat",
+  "Chemistry/chapter 2 - Structure of atom": "LiAtom",
+  "Chemistry/chapter 3 - Periodic table": "LiTableCellsMerge",
+  "Physics/Miscellaneous": "LiBadgeMinus",
+  "Physics/chapter 3 - Motion in a Plane": "LiChartLine"
+}

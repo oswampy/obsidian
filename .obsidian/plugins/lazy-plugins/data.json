@@ -1,0 +1,74 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "3d-graph": {
+        "startupType": "long"
+      },
+      "advanced-canvas": {
+        "startupType": "long"
+      },
+      "obsidian-advanced-uri": {
+        "startupType": "instant"
+      },
+      "collapsible-code-blocks": {
+        "startupType": "disabled"
+      },
+      "obsidian-desmos": {
+        "startupType": "long"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-hider": {
+        "startupType": "short"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "instant"
+      },
+      "obsidian-latex-suite": {
+        "startupType": "instant"
+      },
+      "make-md": {
+        "startupType": "instant"
+      },
+      "obsidian-minimal-settings": {
+        "startupType": "instant"
+      },
+      "omnisearch": {
+        "startupType": "instant"
+      },
+      "quick-latex": {
+        "startupType": "instant"
+      },
+      "obsidian-quickshare": {
+        "startupType": "disabled"
+      },
+      "share-note": {
+        "startupType": "disabled"
+      },
+      "smart-random-note": {
+        "startupType": "short"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "obsidian-tasks-plugin": {
+        "startupType": "disabled"
+      },
+      "typewriter-mode": {
+        "startupType": "instant"
+      },
+      "obsidian-git": {
+        "startupType": "instant"
+      }
+    }
+  }
+}

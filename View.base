@@ -1,0 +1,22 @@
+formulas:
+  form: |+
+    x+y=2
+
+views:
+  - type: table
+    name: Table
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder != "Excalidraw"
+        - file.folder != "Pictures"
+        - file.inFolder("Chemistry")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC

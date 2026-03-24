@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "-[\"sticker\":] -path:Excalidraw  -[\"aliases\":] ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 3467979
+      }
+    },
+    {
+      "query": "path:Excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Chemistry  ",
+      "color": {
+        "a": 1,
+        "rgb": 5432903
+      }
+    },
+    {
+      "query": "path:Maths  ",
+      "color": {
+        "a": 1,
+        "rgb": 3904227
+      }
+    },
+    {
+      "query": "path:Physics  ",
+      "color": {
+        "a": 1,
+        "rgb": 11676643
+      }
+    },
+    {
+      "query": "file:Quotes",
+      "color": {
+        "a": 1,
+        "rgb": 15346218
+      }
+    },
+    {
+      "query": "[\"aliases\":Trigonometry]",
+      "color": {
+        "a": 1,
+        "rgb": 14729247
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.19739583333333,
+  "lineSizeMultiplier": 1.50364583333333,
+  "collapse-forces": true,
+  "centerStrength": 0.4375,
+  "repelStrength": 13.4375,
+  "linkStrength": 0.833333333333333,
+  "linkDistance": 89,
+  "scale": 0.0705816756704677,
+  "close": false
+}

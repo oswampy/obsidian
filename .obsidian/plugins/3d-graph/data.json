@@ -1,0 +1,28 @@
+{
+  "filters": {
+    "doShowOrphans": true,
+    "doShowAttachments": false
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "Chemistry",
+        "color": "#1ce96a"
+      },
+      {
+        "query": "Physics",
+        "color": "#780ce4"
+      },
+      {
+        "query": "Maths",
+        "color": "#1a9bdb"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 5,
+    "linkThickness": 4,
+    "particleSize": 4,
+    "particleCount": 5
+  }
+}
