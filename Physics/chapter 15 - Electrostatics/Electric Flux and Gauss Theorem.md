@@ -59,6 +59,52 @@ $$\Phi = \frac{E \pi R^2 \sqrt{3}}{2}$$
 
 > **Note:** Always be careful to identify if the given angle is with the _surface_ or the _normal_ to the surface. Gauss’s law specifically uses the angle with the normal.
 
+#Q 
+This image explains a more complex application of electric flux, calculating the flux through a circular cross-section from an electric field $\vec{E}$ that is not uniform across the surface.
+
+---
+
+## Electric Flux through a Circular Cross-Section
+
+The problem involves finding the total electric flux passing through a circular area by considering a small differential element (a ring) and then integrating.
+![[Pasted image 20260331163746.png]]
+### 1. Differential Element
+
+To find the flux, we consider a small ring at radius $r$ with thickness $dr$.
+
+- **Differential Area ($ds$):** $ds = 2\pi r \, dr$
+    
+- **Electric Field ($E$):** The field at that point is given as $E = \frac{\sqrt{2}k\lambda}{r}$
+    
+- **Angle:** The field makes an angle of $45^\circ$ with the area vector (normal to the surface).
+    
+
+### 2. Differential Flux ($d\phi$)
+
+The flux through the tiny ring element is:
+
+$$d\phi = E \cdot ds \cdot \cos \theta$$
+
+$$d\phi = \left( \frac{\sqrt{2}k\lambda}{r} \right) (2\pi r \, dr) \cos 45^\circ$$
+
+### 3. Integration for Total Flux ($\Phi$)
+
+Since $\cos 45^\circ = \frac{1}{\sqrt{2}}$, the $\sqrt{2}$ terms cancel out, and the $r$ in the denominator cancels with the $r$ in the numerator:
+
+$$\Phi = \int d\phi = \int_0^R k\lambda 2\pi \, dr$$
+
+Taking the constants out of the integral:
+
+$$\Phi = k\lambda 2\pi \int_0^R dr$$
+
+$$\Phi = k\lambda 2\pi [r]_0^R = k\lambda 2\pi R$$
+
+### 4. Final Result in terms of Permittivity ($\varepsilon_0$)
+
+
+$$\Phi = \left( \frac{1}{4\pi\varepsilon_0} \right) \lambda 2\pi R$$
+
+$$\Phi = \frac{\lambda}{2\varepsilon_0} R$$
 
 
 
