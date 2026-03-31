@@ -310,52 +310,41 @@ $$\Omega = 2\pi(1 - \cos\theta)$$
 #Derivation 
 	To understand how we get the formula $\Omega = 2\pi(1 - \cos\theta)$, we have to use a little bit of calculus. We find the total solid angle of a cone by integrating thin "rings" across the surface of a sphere.
 
-Imagine a sphere of radius $R$. We want to find the solid angle $\Omega$ of a cone with semi-vertical angle $\theta$.
+	Imagine a sphere of radius $R$. We want to find the solid angle $\Omega$ of a cone with semi-vertical angle $\theta$.
+	
+	### 1. Set up the Differential Element
+	
+	We take a small elemental ring on the surface of the sphere at an angle $\phi$ from the axis, with a thickness $d\phi$.
+	
+	- **Radius of the ring:** $r = R \sin\phi$
+	    
+	- **Circumference of the ring:** $2\pi r = 2\pi R \sin\phi$
+	    
+	- **Width of the ring:** $dl = R \, d\phi$
+	    
+	- **Area of this small ring ($dA$):**
+	    $$dA = (2\pi R \sin\phi)(R \, d\phi) = 2\pi R^2 \sin\phi \, d\phi$$    
+	
+	### 2. Relate Area to Solid Angle
+	
+	Recall the definition of a solid angle: $d\Omega = \frac{dA}{R^2}$.
+	
+	Substituting our $dA$:
+	
+	$$d\Omega = \frac{2\pi R^2 \sin\phi \, d\phi}{R^2} = 2\pi \sin\phi \, d\phi$$
+	
+	### 3. Integrate over the Angle
+	
+	To find the total solid angle $\Omega$ for the cone, we integrate $\phi$ from $0$ (the center axis) to $\theta$ (the edge of the cone):
+	
+	$$\Omega = \int_0^\theta 2\pi \sin\phi \, d\phi$$
+	
+	Taking the constant $2\pi$ outside:
+	
+	$$\Omega = 2\pi \int_0^\theta \sin\phi \, d\phi$$
+	$$\boxed{\Omega = 2\pi (1 - \cos\theta)}$$
 
-### 1. Set up the Differential Element
 
-We take a small elemental ring on the surface of the sphere at an angle $\phi$ from the axis, with a thickness $d\phi$.
-
-- **Radius of the ring:** $r = R \sin\phi$
-    
-- **Circumference of the ring:** $2\pi r = 2\pi R \sin\phi$
-    
-- **Width of the ring:** $dl = R \, d\phi$
-    
-- **Area of this small ring ($dA$):**
-    $$dA = (2\pi R \sin\phi)(R \, d\phi) = 2\pi R^2 \sin\phi \, d\phi$$    
-
-### 2. Relate Area to Solid Angle
-
-Recall the definition of a solid angle: $d\Omega = \frac{dA}{R^2}$.
-
-Substituting our $dA$:
-
-$$d\Omega = \frac{2\pi R^2 \sin\phi \, d\phi}{R^2} = 2\pi \sin\phi \, d\phi$$
-
-### 3. Integrate over the Angle
-
-To find the total solid angle $\Omega$ for the cone, we integrate $\phi$ from $0$ (the center axis) to $\theta$ (the edge of the cone):
-
-$$\Omega = \int_0^\theta 2\pi \sin\phi \, d\phi$$
-
-Taking the constant $2\pi$ outside:
-
-$$\Omega = 2\pi \int_0^\theta \sin\phi \, d\phi$$
-$$\boxed{\Omega = 2\pi (1 - \cos\theta)}$$
-
-
-
-Where:
-
-- **$\Omega$**: Solid angle in **Steradians**.
-    
-- **$\theta$**: Semi-vertex angle in **Radians**.
-    
-- **$A$**: The surface area of the spherical cap at the base of the cone.
-    
-- **$R$**: The radius (slant height) from the vertex to the surface.
-    
 
 ### Combined Mathematical Expression
 
