@@ -241,3 +241,54 @@ A point charge $Q$ is placed at the **center** of a cube. Because the cube is a 
     Solving for $\phi$, we get:
     
     $$\phi = \frac{Q}{6\varepsilon_0}$$
+
+
+# Solid Angle
+The image provides a detailed explanation of the **Solid Angle**, the three-dimensional counterpart to a standard 2D angle.
+
+---
+
+## Solid Angle ($\Omega$)
+
+A solid angle measures how large an object appears to an observer looking from a specific point. It is essentially an **angle in 3D**.
+
+### Units
+
+- **Steradian (sr):** The SI unit of a solid angle.
+    
+
+---
+
+### Mathematical Definition
+![[Pasted image 20260331165843.png]]
+The solid angle $\Omega$ subtended by a surface area $A$ at a distance $r$ from a point is defined as the ratio of the area to the square of the radius:
+
+$$\Omega = \frac{A}{r^2} \text{ (Steradian)}$$
+
+From the diagram, we can see that for the same solid angle $\Omega$, the area increases as the distance increases:
+
+$$\Omega = \frac{A_1}{r_1^2} = \frac{A_2}{r_2^2}$$
+
+$$A_1 = \Omega r_1^2$$
+
+---
+
+### Comparison: 2D Angle vs. 3D Solid Angle
+
+|**Feature**|**2D Angle (θ)**|**3D Solid Angle (Ω)**|
+|---|---|---|
+|**Geometry**|Circle / Arc|Sphere / Surface Area|
+|**Formula**|$\theta = \frac{\text{Arc Length}}{r}$|$\Omega = \frac{\text{Area}}{r^2}$|
+|**Full Rotation**|$\theta = \frac{2\pi r}{r} = 2\pi$ radians|$\Omega = \frac{4\pi r^2}{r^2} = 4\pi$ steradians|
+|**Unit**|Radian|Steradian|
+
+---
+
+### Solid Angle of a Complete Sphere
+
+For a complete sphere, the total surface area is $4\pi r^2$. Plugging this into the formula:
+
+$$\Omega_{total} = \frac{4\pi r^2}{r^2} = 4\pi \text{ steradians}$$
+
+
+
