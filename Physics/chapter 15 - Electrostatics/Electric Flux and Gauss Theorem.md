@@ -156,7 +156,7 @@ This image illustrates a classic physics problem: calculating the **electric flu
 ### **The Problem: Charge at the Vertex**
 
 When a charge $Q$ is placed at vertex **A**, it is not fully "inside" the cube. To use Gauss's Law ($\Phi = \frac{Q_{enclosed}}{\varepsilon_0}$), we must determine how much of that charge is actually contained within the volume of the cube.
-
+![[Pasted image 20260331164816.png]]
 ### **The Symmetry Argument**
 
 To "enclose" a charge sitting on a corner, we imagine placing identical cubes around it until the charge is at the center of a larger, symmetrical shape.
@@ -185,9 +185,6 @@ To "enclose" a charge sitting on a corner, we imagine placing identical cubes ar
     Substituting the value of $Q_{in}$:
     
     $$\Phi = \frac{Q/8}{\varepsilon_0} = \frac{Q}{8\varepsilon_0}$$
-    
-
----
 
 ### **Key Takeaway**
 
