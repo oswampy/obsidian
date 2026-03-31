@@ -309,18 +309,15 @@ The solid angle $\Omega$ subtended by a cone with a semi-vertex angle $\theta$ i
 $$\Omega = 2\pi(1 - \cos\theta)$$
 #Derivation 
 	To understand how we get the formula $\Omega = 2\pi(1 - \cos\theta)$, we have to use a little bit of calculus. We find the total solid angle of a cone by integrating thin "rings" across the surface of a sphere.
-
 	Imagine a sphere of radius $R$. We want to find the solid angle $\Omega$ of a cone with semi-vertical angle $\theta$.
 	
-	### 1. Set up the Differential Element
+ 1. Set up the Differential Element
 	
-	We take a small elemental ring on the surface of the sphere at an angle $\phi$ from the axis, with a thickness $d\phi$.
-	
-	- **Radius of the ring:** $r = R \sin\phi$
+We take a small elemental ring on the surface of the sphere at an angle $\phi$ from the axis, with a thickness $d\phi$.
+		- **Radius of the ring:** $r = R \sin\phi$
+	    	- **Circumference of the ring:** $2\pi r = 2\pi R \sin\phi$
 	    
-	- **Circumference of the ring:** $2\pi r = 2\pi R \sin\phi$
-	    
-	- **Width of the ring:** $dl = R \, d\phi$
+- **Width of the ring:** $dl = R \, d\phi$
 	    
 	- **Area of this small ring ($dA$):**
 	    $$dA = (2\pi R \sin\phi)(R \, d\phi) = 2\pi R^2 \sin\phi \, d\phi$$    
