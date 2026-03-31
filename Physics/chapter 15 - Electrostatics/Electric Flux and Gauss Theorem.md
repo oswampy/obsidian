@@ -108,9 +108,90 @@ $$\Phi = \frac{\lambda}{2\varepsilon_0} R$$
 
 
 
+#Q 
+## Flux Through a Quarter-Face of a Cube
+
+This problem builds on the principle that a charge $Q$ at the center of a cube distributes its flux equally across all surfaces.
+
+### 1. Total Flux through the Cube
+
+By Gauss's Law, the total flux ($\Phi_{total}$) emanating from the charge $Q$ enclosed by the cube is:
+
+$$\Phi_{total} = \frac{Q}{\varepsilon_0}$$
+
+### 2. Flux through One Full Face
+
+A cube has 6 identical faces. Due to the charge being at the exact center ("mid"), the flux through any **one full face** is exactly one-sixth of the total flux:
+
+$$\Phi_{face} = \frac{\Phi_{total}}{6} = \frac{Q}{6\varepsilon_0}$$
+
+### 3. Flux through the Shaded Area
+
+The problem asks to find the flux through a specific shaded region on one of the faces.
+
+- Looking at the diagram, the face is divided into **4 equal quadrants** (triangular or rectangular sectors formed by the lines from the center).
+    
+- The shaded area represents exactly **one-fourth** of that single face.
+    
+
+**Calculation:**
+
+$$\Phi_{shaded} = \frac{\Phi_{face}}{4}$$
+
+$$\Phi_{shaded} = \left( \frac{Q}{6\varepsilon_0} \right) \div 4$$
+
+$$\Phi_{shaded} = \frac{Q}{24\varepsilon_0}$$
 
 
+|**Component**|**Flux Value**|
+|---|---|
+|**Entire Cube (6 faces)**|$\frac{Q}{\varepsilon_0}$|
+|**One Full Face**|$\frac{Q}{6\varepsilon_0}$|
+|**One Quarter of a Face**|$\frac{Q}{24\varepsilon_0}$|
 
+This image illustrates a classic physics problem: calculating the **electric flux** through a cube when a point charge is placed exactly at one of its **vertices (corners)**.
+
+---
+
+### **The Problem: Charge at the Vertex**
+
+When a charge $Q$ is placed at vertex **A**, it is not fully "inside" the cube. To use Gauss's Law ($\Phi = \frac{Q_{enclosed}}{\varepsilon_0}$), we must determine how much of that charge is actually contained within the volume of the cube.
+
+### **The Symmetry Argument**
+
+To "enclose" a charge sitting on a corner, we imagine placing identical cubes around it until the charge is at the center of a larger, symmetrical shape.
+
+- A vertex is shared by **8 identical cubes** meeting at that single point.
+    
+- By symmetry, the total flux from charge $Q$ divides equally among these 8 cubes.
+    
+
+### **Mathematical Derivation**
+
+1. **Enclosed Charge ($Q_{in}$):**
+    
+    Since the charge is shared equally by 8 cubes, the portion of the charge inside our specific cube is:
+    
+    $$Q_{in} = \frac{Q}{8}$$
+    
+2. **Applying Gauss's Law:**
+    
+    The total flux $\Phi$ passing through the surfaces of this single cube is:
+    
+    $$\Phi = \frac{Q_{in}}{\varepsilon_0}$$
+    
+3. **Final Calculation:**
+    
+    Substituting the value of $Q_{in}$:
+    
+    $$\Phi = \frac{Q/8}{\varepsilon_0} = \frac{Q}{8\varepsilon_0}$$
+    
+
+---
+
+### **Key Takeaway**
+
+While the total flux through the cube is $\frac{Q}{8\varepsilon_0}$, it's worth noting that the flux through the **three faces touching the vertex A** is actually **zero**. This is because the electric field lines from the charge at the corner are parallel to those surfaces (the angle between the field and the area vector is $90^\circ$, so $\cos 90^\circ = 0$). Therefore, the entire $\frac{Q}{8\varepsilon_0}$ flux passes only through the **three opposite faces**.
 
 
 
