@@ -289,6 +289,91 @@ $$A_1 = \Omega r_1^2$$
 For a complete sphere, the total surface area is $4\pi r^2$. Plugging this into the formula:
 
 $$\Omega_{total} = \frac{4\pi r^2}{r^2} = 4\pi \text{ steradians}$$
+This image illustrates the mathematical relationship between a **solid angle** (3D) and a **plane angle** (2D), specifically within the context of a cone.
 
+---
+
+### Relation between Solid Angle and 2D Angle
+
+When you have a cone with a circular base, the "width" of the cone can be described in two ways:
+
+1. **Plane Angle ($\theta$):** Known as the **semi-vertex angle**. It is the angle from the central axis to the edge of the cone.
+    
+2. **Solid Angle ($\Omega$):** The 3D "opening" of the cone, measured in steradians.
+    
+
+### The Formula
+
+The solid angle $\Omega$ subtended by a cone with a semi-vertex angle $\theta$ is given by:
+
+$$\Omega = 2\pi(1 - \cos\theta)$$
+#Derivation 
+	To understand how we get the formula $\Omega = 2\pi(1 - \cos\theta)$, we have to use a little bit of calculus. We find the total solid angle of a cone by integrating thin "rings" across the surface of a sphere.
+
+Imagine a sphere of radius $R$. We want to find the solid angle $\Omega$ of a cone with semi-vertical angle $\theta$.
+
+### 1. Set up the Differential Element
+
+We take a small elemental ring on the surface of the sphere at an angle $\phi$ from the axis, with a thickness $d\phi$.
+
+- **Radius of the ring:** $r = R \sin\phi$
+    
+- **Circumference of the ring:** $2\pi r = 2\pi R \sin\phi$
+    
+- **Width of the ring:** $dl = R \, d\phi$
+    
+- **Area of this small ring ($dA$):**
+    $$dA = (2\pi R \sin\phi)(R \, d\phi) = 2\pi R^2 \sin\phi \, d\phi$$    
+
+### 2. Relate Area to Solid Angle
+
+Recall the definition of a solid angle: $d\Omega = \frac{dA}{R^2}$.
+
+Substituting our $dA$:
+
+$$d\Omega = \frac{2\pi R^2 \sin\phi \, d\phi}{R^2} = 2\pi \sin\phi \, d\phi$$
+
+### 3. Integrate over the Angle
+
+To find the total solid angle $\Omega$ for the cone, we integrate $\phi$ from $0$ (the center axis) to $\theta$ (the edge of the cone):
+
+$$\Omega = \int_0^\theta 2\pi \sin\phi \, d\phi$$
+
+Taking the constant $2\pi$ outside:
+
+$$\Omega = 2\pi \int_0^\theta \sin\phi \, d\phi$$
+$$\boxed{\Omega = 2\pi (1 - \cos\theta)}$$
+
+
+
+Where:
+
+- **$\Omega$**: Solid angle in **Steradians**.
+    
+- **$\theta$**: Semi-vertex angle in **Radians**.
+    
+- **$A$**: The surface area of the spherical cap at the base of the cone.
+    
+- **$R$**: The radius (slant height) from the vertex to the surface.
+    
+
+### Combined Mathematical Expression
+
+From the definition of a solid angle ($\Omega = \frac{A}{R^2}$), we can relate the area of the spherical cap directly to the semi-vertex angle:
+
+$$\Omega = \frac{A}{R^2} = 2\pi(1 - \cos\theta)$$
+
+---
+
+### Symmetry Check
+
+- **If $\theta = 90^\circ$ ($\pi/2$ rad):** The cone becomes a hemisphere.
+    
+    $$\Omega = 2\pi(1 - \cos 90^\circ) = 2\pi(1 - 0) = 2\pi \text{ steradians.}$$
+    
+- **If $\theta = 180^\circ$ ($\pi$ rad):** The cone closes to form a complete sphere.
+    
+    $$\Omega = 2\pi(1 - \cos 180^\circ) = 2\pi(1 - (-1)) = 4\pi \text{ steradians.}$$
+    
 
 
