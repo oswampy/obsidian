@@ -191,7 +191,10 @@ Toluene + X2 in presence of FeCl3/AlCl3 and dark room -> o-halotoluene/p-halotol
 - If one form is **dextrorotatory** (d), then the other form is **laevorotatory** (-).
 - The process by which a racemic mixture is obtained is called **racemisation.**
 - Tertiary alkyl halides undergo substitution by SN1 mechanism. It is because the tertiary carbonium ion formed is more stable.
-
+ex:
+-
+	![[Pasted image 20260402170233.png]]
+	![[Pasted image 20260402170303.png]]
 ### SN2 Reaction (1 step)
 - The rate of such reactions depend upon the concentration of alkyl halide as well as nucleophile.
 - Thus it is a second order reaction. It is important to know that the term two (2) describes that the order of reaction is 2.
