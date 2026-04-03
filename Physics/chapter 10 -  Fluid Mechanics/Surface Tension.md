@@ -53,9 +53,10 @@ $\Delta U = TA$
 
 **Angle of contact:** The angle between the tangent to the liquid surface and solid surface submerged in the liquid at the point of contact.
 
-| $\theta_c$       | $\theta_c$       | $\theta_c$     |
-| ---------------- | ---------------- | -------------- |
-| obtuse -> convex | acute -> concave | Right -> Plane |
+| $\theta_c$       | $\theta_c$       | $\theta_c$                |
+| ---------------- | ---------------- | ------------------------- |
+| obtuse -> convex | acute -> concave | Right -> Plane            |
+| mercury in glass | water in glass   | water in silver container |
 
 $\frac{Fa}{F_c} < \frac{F_c}{\sqrt{2}}$ $\qquad$ $\frac{Fa}{F_c} > \frac{F_c}{\sqrt{2}}$ $\qquad$ $\frac{Fa}{F_c} = \frac{F_c}{\sqrt{2}}$
 
