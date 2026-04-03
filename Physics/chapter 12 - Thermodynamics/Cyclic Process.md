@@ -20,7 +20,6 @@ In cyclic process $\Delta u$ will be $0$ because it is dir prop to $T_i$ and $T_
 
 ---
 
-**
 
 $\Delta Q = \Delta W$
 ![[Pasted image 20251208163922.png]]
@@ -31,13 +30,3 @@ From $B \to A$ volume decreases so work is negative and heat is $-ve$
 $W_{net} = |W_1 - W_2|$
 
 Work done in cyclic process will be area under enclosed curve. If path is clockwise work done will be $+ve$ and vice versa.
-
----
-
-**Image 3:**
-
-c) i) Find work done ii) Draw $P-T$ and $P-V$ graph For
-
-[Multiple P-V diagrams showing different thermodynamic processes with labeled points $P_0$, $P_f$, $V_0$, $2V_0$, and $V$]
-
-A) i) $W = P_0 V_0$ ii) [Shows corresponding diagrams with labeled axes]

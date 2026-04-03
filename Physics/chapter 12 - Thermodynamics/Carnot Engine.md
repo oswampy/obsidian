@@ -91,3 +91,8 @@ Defined as ratio work done by the system to heat absorbed by system
     
 - $\eta = 1 - \frac{T_C}{T_H}$
     
+#Q
+- **The Temperature Limit:** A Carnot engine operates between a hot reservoir at **$500\text{ K}$** and a cold reservoir at **$300\text{ K}$**. What is its maximum theoretical efficiency?
+    a) 0.4
+- **Work Output:** If a heat engine has an efficiency of **$40\%$** and it absorbs **$5000\text{ J}$** of heat from the boiler, how much useful work does it perform?
+	a)2000J
