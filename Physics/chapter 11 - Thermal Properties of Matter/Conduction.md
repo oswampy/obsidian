@@ -38,7 +38,7 @@ The '-ve' sign shows from high to low temp
 
 If temperature of a cross-section at any point in the conductor remains constant with time, the conductor is said to be in steady state.
 
-Temperature of two different position may vary.
+**Temperature of two different position may vary.**
 
 If any conductor is in steady state, it means no heat is absorbed or emitted from any surface except its two ends. For any conductor in steady state, $\frac{dT}{dx} = 0$ is constant.
 

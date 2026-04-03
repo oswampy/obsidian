@@ -65,9 +65,9 @@ $$V_{rms} = \sqrt{\frac{3nRT}{m}}$$
 
 $$V_{rms} = \sqrt{\frac{3RT}{M}}$$
 
-$$K = \frac{R}{N_A} \quad mN_A = M$$
+$$k = \frac{R}{N_A} \quad mN_A = M$$
 
-$$V_{rms} = \sqrt{\frac{3KT}{m}} = \sqrt{\frac{3RT}{m}} = \sqrt{\frac{3P}{\rho}}$$
+$$\boxed{V_{rms} = \sqrt{\frac{3kT}{m}} = \sqrt{\frac{3RT}{m}} = \sqrt{\frac{3P}{\rho}}}$$
 
 # Mean Free Path of a Gas
 
@@ -85,7 +85,7 @@ $$\frac{dN(v)}{dv}$$
 
 $$T_2 > T_1$$
 
-[Graph showing distribution curves at two temperatures with $V_{mp}$, $V_{rms}$ marked]
+
 
 ---
 
