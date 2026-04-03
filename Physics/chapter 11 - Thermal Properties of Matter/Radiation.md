@@ -199,3 +199,47 @@ $$t = 10 \ln 2 - \ln 3$$
 $$= \frac{\ln 3 - \ln 4}{t}$$
 
 $$t = 14.06  \min$$
+
+OR
+
+### The Shortcut Formula
+
+$$\frac{T_1 - T_2}{t} = K \left( \frac{T_1 + T_2}{2} - T_s \right)$$
+
+**Where:**
+- $T_1$ = Initial temperature
+- $T_2$ = Final temperature
+- $T_s$ = Surrounding temperature ($20^\circ\text{C}$)
+- $t$ = Time taken
+- $K$ = Cooling constant
+
+---
+
+### Step 1: Find the Constant ($K$) for the first 10 minutes
+
+The body cools from $40^\circ\text{C}$ to $35^\circ\text{C}$ in $10\text{ min}$:
+
+$$\frac{40 - 35}{10} = K \left( \frac{40 + 35}{2} - 20 \right)$$
+
+$$\frac{5}{10} = K (37.5 - 20)$$
+
+$$0.5 = K(17.5) \implies K = \frac{0.5}{17.5} = \frac{1}{35}$$
+
+### Step 2: Find the time ($t'$) to cool from $35^\circ\text{C}$ to $30^\circ\text{C}$
+
+Now we use the same formula for the next stage:
+
+$$\frac{35 - 30}{t'} = K \left( \frac{35 + 30}{2} - 20 \right)$$
+
+$$\frac{5}{t'} = \frac{1}{35} (32.5 - 20)$$
+
+$$\frac{5}{t'} = \frac{1}{35} (12.5)$$
+
+### Step 3: Solve for $t'$
+
+$$5 \times 35 = 12.5 \times t'$$
+
+$$175 = 12.5 \times t'$$
+
+$$t' = \frac{175}{12.5} = \mathbf{14 \text{ minutes}}$$
+

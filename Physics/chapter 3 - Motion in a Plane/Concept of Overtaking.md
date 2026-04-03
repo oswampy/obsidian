@@ -39,7 +39,6 @@ Extended object motion
 	$V_{AB} = 0\hat{i}$
 	$a_{AB} = 1$
 	$S = x + 800$
-	$S = ut+\frac{1}{2}at^2$
 	$x+800 = ut + \frac{1}{2}at^2$
 	$x = 450m$
 	Total distance travelled to overtake = 400+400+450
