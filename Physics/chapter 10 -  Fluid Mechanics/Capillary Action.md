@@ -17,7 +17,7 @@ $P = P_o$
 
 $\frac{P}{-2T} + \frac{R_c}{3}gh = P_i$
 
-$h = \frac{2T}{3gR_c}$
+$$h = \frac{2T}{3gR_c}$$
 
 relation between radius of capillary (r) and Radius of curvature of surface (Rc)
 
