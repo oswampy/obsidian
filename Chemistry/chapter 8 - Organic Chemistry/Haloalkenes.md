@@ -164,6 +164,30 @@ Toluene + X2 in presence of FeCl3/AlCl3 and dark room -> o-halotoluene/p-halotol
 - Weaker the leaving nucleophile, more facile is the nucleophilic substitution reaction.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### SN1 Reactions (2 Steps)
 
 - It is a first order substitution reaction.
