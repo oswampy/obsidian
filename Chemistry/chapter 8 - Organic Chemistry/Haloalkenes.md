@@ -163,6 +163,141 @@ Toluene + X2 in presence of FeCl3/AlCl3 and dark room -> o-halotoluene/p-halotol
 - The atom or group (X in present example) is called leaving group.
 - Weaker the leaving nucleophile, more facile is the nucleophilic substitution reaction.
 
+### 1. Nucleophilic Substitution of Alkyl Halides
+
+**General Reaction for Alcohol Formation:**
+
+- $R-X \xrightarrow[\text{Moist } Ag_2O]{\text{aq. } KOH / \text{aq. } NaOH} R-OH \quad (S_N2)$
+    
+- Example: $C_2H_5Br + \text{aq. } NaOH \longrightarrow C_2H_5OH + NaBr$
+    
+- Example: $C_2H_5I + \text{moist } AgOH \longrightarrow C_2H_5OH + AgI$
+    
+- Reaction with Water: $R-X \xrightarrow{H_2O} R-OH \quad (H_2O \rightarrow S_N1)$
+    
+
+**2. Substitution by $-OR$ group (Ether Formation):**
+
+- **Williamson Synthesis:** $R_1-X + R_2O^-Na^+ \xrightarrow{\text{dry ether}} R_1OR_2 + NaX$
+    
+- Example: $CH_3-Cl + C_2H_5O^-Na^+ \xrightarrow{\text{dry ether}} CH_3-O-C_2H_5 + NaCl$
+    
+- **Mechanism:** $S_N2$ (using a weak nucleophile).
+    
+- **Condition:** Alkyl halide should be $1^\circ$ and sodium alkoxide should be $3^\circ$.
+    
+
+---
+
+### 2. Substitution by Cyanide and Isocyanide Groups
+
+**3. Substitution by $-CN$ group:**
+
+- $R-X \xrightarrow{CN^-} R-CN$ (Alkane cyanide / Alkane nitrile)
+    
+- Example: $C_2H_5Br + KCN \longrightarrow C_2H_5CN + KBr$
+    
+
+**4. Substitution by $-NC$ group:**
+
+- $R-X \xrightarrow{NC^-} R-N^+ \equiv C^-$
+    
+- Example: $R-X + AgCN \longrightarrow R-NC + AgX$
+    
+
+**Explanation of Ambident Nucleophile ($CN$):**
+
+- **Using $KCN / NaCN$:** The bond is predominately **ionic**. Attack occurs from the $C^-$ side of $CN^-$.
+    
+- **Using $AgCN$:** The bond is predominately **covalent**. Attack occurs from the $N$ side of $CN$.
+    
+
+---
+
+### 3. Substitution by Nitrite and Nitro Groups
+
+**5. Substitution by $O-N=O$:**
+
+- $R-X \xrightarrow{O-NO^-} R-O-N=O$ (Alkyl nitrite)
+    
+- Note: If $R-X$ is $1^\circ$, $S_N2$ is preferred.
+    
+- Example: $C_2H_5Br + K-O-N=O \longrightarrow C_2H_5-O-N=O + KBr$
+    
+- **Comparison:**
+    
+    - $C_2H_5Br \xrightarrow{KNO_2 \text{ (ionic)}} C_2H_5-O-N=O$ (Nitrite)
+        
+    - $C_2H_5Br \xrightarrow{AgNO_2 \text{ (covalent)}} C_2H_5-NO_2$ (Nitro)
+        
+
+---
+
+### 4. Substitution by Amine Group
+
+**6. Substitution by $-NH_2$ group:**
+
+- **Hoffman Ammonolysis:**
+    
+    1. $R-X \xrightarrow{NH_3} R-NH_2$ ($1^\circ$ amine)
+        
+    2. $R-NH_2 \xrightarrow{R-X} R-NH-R$ ($2^\circ$ amine)
+        
+    3. $R_2NH \xrightarrow{R-X} R_3N$ ($3^\circ$ amine)
+        
+    4. $R_3N \xrightarrow{R-X} [R_4N^+]X^-$ (Quaternary ammonium salt)
+        
+
+---
+
+### 5. Reaction with Metals
+
+**7. Reaction with $Mg$ (Grignard Reagent):**
+
+- $R-X + Mg \xrightarrow{\text{dry ether}} R-Mg-X$
+    
+- **Mechanism:** $R-X \longrightarrow R^\bullet + X^-$
+    
+- $R^\bullet + Mg^{\bullet+} + X^- \rightleftharpoons R^{\delta-}-Mg^{\delta+}-X^{\delta-}$
+    
+- The bond is 50% ionic and 50% covalent.
+    
+- **Note:** Dry ether solvates the Grignard reagent and shifts equilibrium forward. Reaction involves racemization ($S_N1$).
+    
+
+**8. Reaction with $Li$ (Gilman's Reagent):**
+
+- $R-X + 2Li \xrightarrow{\text{dry ether}} R-Li + LiX$
+    
+- $2R-Li + CuI \longrightarrow R_2CuLi + LiI$ (Gilman's Reagent)
+    
+
+---
+
+### 6. Reactivity of Aryl Halides
+
+**9. Comparison of Reactivity:**
+
+Alkyl halides are more reactive than aryl halides because:
+
+1. **Resonance:** Keeps the $X$ in the ring.
+    
+2. **Partial Double Bond Character:** The $C-X$ bond develops partial double bond character, making it harder to leave.
+    
+
+**10. Substitution by $-OH$ (Dow's Process):**
+
+- $\text{Chlorobenzene} \xrightarrow[623K]{2NaOH} \text{Sodium Phenoxide} \xrightarrow{H^+} \text{Phenol}$
+    
+- **Mechanism (Benzyne Mechanism):**
+    
+    1. $OH^-$ abstracts a proton from the ortho position.
+        
+    2. Elimination of $Cl^-$ leads to a **Benzyne** intermediate.
+        
+    3. $NaOH$ attacks the benzyne to form sodium phenoxide.
+        
+    4. Acidification yields Phenol.
 
 
 
@@ -173,19 +308,7 @@ Toluene + X2 in presence of FeCl3/AlCl3 and dark room -> o-halotoluene/p-halotol
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 ### SN1 Reactions (2 Steps)
@@ -197,7 +320,7 @@ Toluene + X2 in presence of FeCl3/AlCl3 and dark room -> o-halotoluene/p-halotol
 - It involves the ionisation of alkyl halide to produce a carbocation.
 - The energy required for the ionisation is obtained through solvation of halide ion with the proton of protic solvent.
 
-**First step**
+	**First step**
 
 - The first step is the rate determining step. Since in the rate determining step (slow step) only one molecule undergoes a covalency change, the order of reaction is one.
 
@@ -371,35 +494,6 @@ In cyclic systems, the groups eliminated must be **anti-periplanar**.
         
     - Results in **only one product** because the Saytzeff position is sterically or geometrically blocked.
         
-
----
-
-## $E_1$ Elimination
-
-The $E_1$ mechanism is a multi-step process involving a carbocation intermediate.
-
-**Mechanism:**
-
-1. **Step 1 (RDS):** $R-CH(X)-CH_3 \xrightarrow{slow} R-CH^+-CH_3$ (Carbocation formation).
-    
-2. **Step 2:** $R-CH^+-CH_3 \xrightarrow{fast, B/H^+} R-CH=CH_2$ (Proton removal).
-    
-
-**Important Points:**
-
-- **Unimolecular:** Rate depends only on the substrate. $Order = 1$.
-    
-- **Intermediate:** $C^+$ formation $\rightarrow \uparrow C^+ \text{ stability} \rightarrow \uparrow \text{Rate}$.
-    
-- **Competition:**
-    
-    - $S_N1$: Favored at low temperatures ($< 20^\circ C$, exothermic).
-        
-    - $E_1$: Favored at high temperatures ($> 50^\circ C$, endothermic).
-        
-- **Base:** Weak bases are used (e.g., $CH_3OH, C_2H_5OH, H_2O$).
-    
-- **Solvent:** Polar Protic.
     
 
 ---
@@ -440,50 +534,16 @@ Given three cyclohexyl iodides with different degrees of unsaturation/conjugatio
 
 ## E1 vs E2 Comparison Table
 
-|Basis|E1 Reaction|E2 Reaction|
-|---|---|---|
-|Base|Weak bases work|Strong base required|
-|Solvent|Good ionizing solvent|Wide variety of solvents|
-|Substrate|3° > 2°|3° > 2° > 1°|
-|Leaving group|Good one required|Good one required|
-|Kinetics|First order, k₁[RX]|Second order, k₂[RX][B⁻]|
-## Reactions with Metals
+| Basis         | E1 Reaction           | E2 Reaction              |
+| ------------- | --------------------- | ------------------------ |
+| Base          | Weak bases work       | Strong base required     |
+| Solvent       | Good ionizing solvent | Wide variety of solvents |
+| Substrate     | 3° > 2°               | 3° > 2° > 1°             |
+| Leaving group | Good one required     | Good one required        |
+| Kinetics      | First order, k₁[RX]   | Second order, k₂[RX][B⁻] |
 
-- Most organic chlorides, bromides and iodides react with certain metals to give compounds containing carbon-metal bonds.
-- Such compounds are known as organo-metallic compounds.
-- An important class of **organo-metallic** compounds discovered by Victor Grignard in 1900 is alkyl magnesium halide, RMgX, referred as **Grignard Reagents.**
-- These reagents are obtained by the reaction of haloalkanes with magnesium metal in dry ether.
 
----
 
-## Grignard Reagent (R-Mg-X)
-
-- In the Grignard reagent, the carbon-magnesium bond is covalent but highly polar, with carbon pulling electrons from electropositive magnesium; the magnesium halogen bond is essentially ionic.
-- Grignard reagents are highly reactive and react with any source of proton to give hydrocarbons. Even water, alcohols, amines are sufficiently acidic to convert them to corresponding hydrocarbons.
-- It is therefore necessary to avoid even traces of moisture from a Grignard reagent. That is why reaction is carried out in dry ether.
-- On the other hand, this could be considered as one of the methods for converting halides to hydrocarbons.
-
----
-
-## Fittig Reaction
-
-- Aryl halides also give analogous compounds when treated with sodium in dry ether, in which two aryl groups are joined together.
-- **It is called Fittig reaction.**
-
-**Reaction:**
-
-C₆H₅Cl + 2Na + ClC₆H₅ → C₆H₅-C₆H₅ + 2NaCl
-
-(Biphenyl)
-
----
-
-# Haloarene
-
-- The organohalogen compounds in which the halogen atom (F, Cl, Br or I) is directly attached to an aromatic ring are called the haloarenes.
-- When hydrogen atoms attached to benzene rings are replaced by halogen atoms, compounds that are formed are known as haloarenes or aryl halides.
-
-Examples: Chlorobenzene, Bromobenzene, Iodobenzene
 
 ---
 
