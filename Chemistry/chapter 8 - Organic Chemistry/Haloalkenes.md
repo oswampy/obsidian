@@ -94,13 +94,18 @@ Toluene + X2 in presence of FeCl3/AlCl3 and dark room -> o-halotoluene/p-halotol
 
 - When a **primary aromatic amine** dissolved or suspended in cold aqueous mineral acid, is treated with sodium nitrite, a **diazonium salt** is formed. Mixing the solution of freshly prepared diazonium salt with cuprous chloride or cuprous bromide results in the replacement of the diazonium group by -Cl or -Br.
     
-- Replacement of the diazonium group by iodine does not require the presence of cuprous halide and is done simply by shaking the diazonium salt with potassium iodide.
- 
-	- ![[Pasted image 20260319191021.png]]
+- Replacement of the diazonium group by iodine does not require the presence of cuprous halide and is done simply by shaking the diazonium salt with potassium iodide 
 
 
+---
 
 
+| **Reagent**          | **Nature of Bond** | **Nucleophilic Site** | **Major Product**         |
+| -------------------- | ------------------ | --------------------- | ------------------------- |
+| **KCN / NaCN**       | Ionic              | Carbon ($C$)          | Alkyl Cyanide ($R-CN$)    |
+| **AgCN**             | Covalent           | Nitrogen ($N$)        | Alkyl Isocyanide ($R-NC$) |
+| **$KNO_2 / NaNO_2$** | Ionic              | Oxygen ($O$)          | Alkyl Nitrite ($R-ONO$)   |
+| **$AgNO_2$**         | Covalent           | Nitrogen ($N$)        | Nitroalkane ($R-NO_2$)    |
 
 # Physical Properties
 
