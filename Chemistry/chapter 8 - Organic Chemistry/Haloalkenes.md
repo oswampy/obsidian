@@ -98,7 +98,26 @@ Toluene + X2 in presence of FeCl3/AlCl3 and dark room -> o-halotoluene/p-halotol
 
 
 ---
+### Special Nucleophiles
+![[Pasted image 20260428172840.png]]
+## 1. Cyanide vs. Isocyanide Formation
 
+In the first reaction set, the cyanide ion ($CN^-$) is the nucleophile.
+
+- **With KCN/NaCN (Ionic):** These salts are predominantly ionic. In solution, the free $CN^-$ ion is available. While both C and N have lone pairs, the **C-C bond** is much stronger and more stable than a C-N bond. Therefore, the carbon atom attacks the alkyl group, forming an **Alkyl Cyanide ($R-CN$)**.
+    
+- **With AgCN (Covalent):** Silver cyanide is primarily covalent. The silver atom is bonded to the carbon ($Ag-C \equiv N$), meaning the lone pair on Carbon is not freely available. The nitrogen atom, however, has its lone pair free to act as a nucleophile. This results in the formation of an **Alkyl Isocyanide ($R-NC$)**.
+    
+
+---
+
+## 2. Nitrite vs. Nitroalkane Formation
+
+The second set involves the nitrite ion ($NO_2^-$).
+
+- **With $KNO_2$ / $NaNO_2$ (Ionic):** Being ionic, the $NO_2^-$ ion is free. The oxygen atom carries a negative charge and is more electronegative, but it is the more reactive site in this ionic state. The oxygen attacks the alkyl group, forming an **Alkyl Nitrite ($R-O-N=O$)**.
+    
+- **With $AgNO_2$ (Covalent):** Like the silver cyanide example, the $Ag-O$ bond is covalent. This "locks" the oxygen's electrons in a bond with Silver. The lone pair on the **Nitrogen** atom is now the primary nucleophile available for attack. This results in a **Nitroalkane ($R-NO_2$)**.
 
 | **Reagent**          | **Nature of Bond** | **Nucleophilic Site** | **Major Product**         |
 | -------------------- | ------------------ | --------------------- | ------------------------- |
