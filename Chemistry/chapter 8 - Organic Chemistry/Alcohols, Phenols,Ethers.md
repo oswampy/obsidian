@@ -271,8 +271,8 @@ $$PhOH + Na^+NH_2^- \longrightarrow NH_3 + PhO^-Na^+$$
 Phenol ($pKa \approx 10$) is acidic enough to react with **Sodamide** ($NaNH_2$), which is an extremely strong base. The amide ion ($NH_2^-$) abstracts a proton from phenol to form ammonia and sodium phenoxide.
 ### **b. Reaction with $NaHCO_3$:**
 
-**No RXN** (No Reaction)
-Phenol is a **weaker acid** than carbonic acid ($H_2CO_3$, $pKa \approx 6.4$). Therefore, sodium bicarbonate ($NaHCO_3$) is not a strong enough base to deprotonate phenol, resulting in no reaction. This is often used as a laboratory test to distinguish phenols from carboxylic acids.
+-**No RXN** (No Reaction)
+	Phenol is a **weaker acid** than carbonic acid ($H_2CO_3$, $pKa \approx 6.4$). Therefore, sodium bicarbonate ($NaHCO_3$) is not a strong enough base to deprotonate phenol, resulting in no reaction. This is often used as a laboratory test to distinguish phenols from carboxylic acids.
 
 ---
 
@@ -302,19 +302,19 @@ Conc. HNO₃ → picric acid
 ### 5. Kolbe Reaction
 
 Phenoxide + CO₂+NaOH → salicylic acid
-salicylic acid+
+salicylic acid+CH3COOCOCH3-> aspirin (MOP)
 
 ---
 
 ### 6. Reimer–Tiemann Reaction
 
-Phenol + CHCl₃ + NaOH → salicylaldehyde
+Phenol + CHCl₃ + NaOH → salicylaldehyde (ortho major because of H-bonding)
 
 ---
 
 ### 7. Oxidation
 
-Phenol → quinone
+Phenol +Na2cr2o7→ quinone (no tautomerism)
 
 ---
 
@@ -339,7 +339,7 @@ CH₃–O–CH₃ → methoxymethane
 ## Preparation
 
 ### 1. Williamson Ether Synthesis
-
+SN2-
 R–O⁻ + R′X → R–O–R′
 
 Best for primary halides
@@ -348,7 +348,7 @@ Best for primary halides
 
 ### 2. Dehydration of Alcohols
 
-2ROH → R–O–R + H₂O
+2ROH +conc h2so4 at (413K)→ R–O–R + H₂O
 
 ---
 
@@ -377,7 +377,57 @@ HI > HBr > HCl
 Mechanism:
 
 - SN1 or SN2 depending on structure
+
+The image illustrates the cleavage of ethers using excess hydrogen halide ($HX$). Here is the transcription of the notes and an explanation of the underlying chemical principles.
+
+---
+
+## **B. Reaction with excess $HX$**
+
+### **1. Cleavage of Anisole (Methyl Phenyl Ether)**
+
+In the first reaction, an alkyl aryl ether reacts with excess $HX$.
+
+**Equation:**
+
+$$Ph-O-CH_3 \xrightarrow{\text{Excess } HX} PhOH + CH_3X$$
+
+**Explanation:**
+
+Even with **excess** $HX$, the reaction stops at **Phenol** ($PhOH$) and methyl halide ($CH_3X$). This is because the $C_{sp^2}-O$ bond in phenol has partial double-bond character due to resonance, making it extremely difficult to break. Consequently, phenol does not react further to form a halobenzene.
+
+---
+
+### **2. Cleavage of Aliphatic Ethers**
+
+In the second reaction, a simple aliphatic ether (Ethyl Methyl Ether) is treated with excess $HX$.
+
+**Equation:**
+
+$$CH_3-O-CH_2CH_3 \xrightarrow{\text{Excess } HX} CH_3X + CH_3CH_2X$$
+
+**Explanation:**
+
+Unlike the aryl example, both carbon-oxygen bonds in an aliphatic ether are single bonds ($C_{sp^3}-O$). When $HX$ is in **excess**:
+
+1. The ether is first cleaved into an alcohol and an alkyl halide.
     
+2. The resulting alcohol then reacts with the remaining $HX$ to form a **second alkyl halide**.
+    
+3. The final products are two alkyl halides and water ($H_2O$).
+    
+
+---
+
+### **Key Rule for Ether Cleavage**
+
+- **With 1 equivalent of $HX$:** You get one alcohol and one alkyl halide. The halide usually attacks the smaller/less hindered alkyl group (via $S_N2$).
+    
+- **With excess $HX$:**
+    
+    - **Aliphatic ethers:** Yield **two alkyl halides**.
+        
+    - **Aryl ethers:** Yield **one phenol and one alkyl halide** (phenol remains unreacted).
 
 ---
 
