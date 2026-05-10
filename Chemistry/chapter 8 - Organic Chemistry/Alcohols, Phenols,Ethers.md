@@ -264,7 +264,16 @@ Electron-donating groups ↓ acidity
 ArOH + Na → ArONa + H₂
 ArOH+NaOH->ArONa + H2O
 
-## with NaNH2
+
+### **a. Reaction with $NaNH_2$:**
+
+$$PhOH + Na^+NH_2^- \longrightarrow NH_3 + PhO^-Na^+$$
+Phenol ($pKa \approx 10$) is acidic enough to react with **Sodamide** ($NaNH_2$), which is an extremely strong base. The amide ion ($NH_2^-$) abstracts a proton from phenol to form ammonia and sodium phenoxide.
+### **b. Reaction with $NaHCO_3$:**
+
+**No RXN** (No Reaction)
+Phenol is a **weaker acid** than carbonic acid ($H_2CO_3$, $pKa \approx 6.4$). Therefore, sodium bicarbonate ($NaHCO_3$) is not a strong enough base to deprotonate phenol, resulting in no reaction. This is often used as a laboratory test to distinguish phenols from carboxylic acids.
+
 ---
 
 ### 2. Electrophilic Substitution
@@ -275,9 +284,10 @@ Positions: ortho & para
 
 ---
 
-### 3. Bromination
-
-Phenol + Br₂ → 2,4,6-tribromophenol (white ppt)
+### 3. Halgonation
+-Bromination
+Phenol + Br₂/h20 → 2,4,6-tribromophenol (white ppt)
+Phenol + Br₂/CS2 → para or ortho bromophenol
 
 ---
 
@@ -291,7 +301,8 @@ Conc. HNO₃ → picric acid
 
 ### 5. Kolbe Reaction
 
-Phenoxide + CO₂ → salicylic acid
+Phenoxide + CO₂+NaOH → salicylic acid
+salicylic acid+
 
 ---
 
