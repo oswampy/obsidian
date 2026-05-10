@@ -378,13 +378,9 @@ Mechanism:
 
 - SN1 or SN2 depending on structure
 
-The image illustrates the cleavage of ethers using excess hydrogen halide ($HX$). Here is the transcription of the notes and an explanation of the underlying chemical principles.
+#### ** Reaction with excess $HX$**
 
----
-
-## **B. Reaction with excess $HX$**
-
-### **1. Cleavage of Anisole (Methyl Phenyl Ether)**
+ **1. Cleavage of Anisole (Methyl Phenyl Ether)**
 
 In the first reaction, an alkyl aryl ether reacts with excess $HX$.
 
@@ -398,7 +394,7 @@ Even with **excess** $HX$, the reaction stops at **Phenol** ($PhOH$) and methyl 
 
 ---
 
-### **2. Cleavage of Aliphatic Ethers**
+#### **2. Cleavage of Aliphatic Ethers**
 
 In the second reaction, a simple aliphatic ether (Ethyl Methyl Ether) is treated with excess $HX$.
 
@@ -416,10 +412,7 @@ Unlike the aryl example, both carbon-oxygen bonds in an aliphatic ether are sing
     
 3. The final products are two alkyl halides and water ($H_2O$).
     
-
----
-
-### **Key Rule for Ether Cleavage**
+ **Key Rule for Ether Cleavage** ----
 
 - **With 1 equivalent of $HX$:** You get one alcohol and one alkyl halide. The halide usually attacks the smaller/less hindered alkyl group (via $S_N2$).
     
