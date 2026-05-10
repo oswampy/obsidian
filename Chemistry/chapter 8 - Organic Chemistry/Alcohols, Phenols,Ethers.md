@@ -153,19 +153,13 @@ Order:
 Alcohol → Alkene
 
 Conditions:
-
 - Conc. H₂SO₄
-    
 - 443 K
-    
 
-Mechanism:
-
+Mechanism
 - 2° & 3° → E1
     
 - 1° → E2
-    
-
 ---
 
 ### 4. Oxidation
