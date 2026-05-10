@@ -198,10 +198,47 @@ Reagent: ZnCl₂ + HCl
 
 - 3° → immediate turbidity
     
-- 2° → few minutes
+- 2° → few minutes (~5mins)
     
 - 1° → no turbidity
     
+
+---
+
+### **7. Victor Meyer Test**
+
+The general sequence of reagents used is:
+
+1. **$Red P / I_2$**: Converts Alcohol to Alkyl Iodide.
+    
+2. **$AgNO_2$**: Converts Alkyl Iodide to Nitroalkane.
+    
+3. **$HNO_2$** (Nitrous acid): Reacts with the $\alpha$-hydrogen of the nitroalkane.
+    
+4. **$NaOH$** (Base): Added to observe the final color.
+
+ **1. Primary Alcohol ($1^\circ$) → Red Color**
+$$R-CH_2-OH \xrightarrow{P/I_2} R-CH_2-I \xrightarrow{AgNO_2} R-CH_2-NO_2 \xrightarrow{HNO_2} R-C(=NOH)-NO_2$$
+
+The product is **Nitrolic acid**, which dissolves in $NaOH$ to give a **Blood Red** coloration.
+
+ **2. Secondary Alcohol ($2^\circ$) → Blue Color**
+
+$$R_2CH-OH \xrightarrow{P/I_2} R_2CH-I \xrightarrow{AgNO_2} R_2CH-NO_2 \xrightarrow{HNO_2} R_2C(NO)-NO_2$$
+
+The product is **Pseudonitrole**. It does not react with $NaOH$ but exhibits a characteristic **Blue** color in the solution.
+
+ **3. Tertiary Alcohol ($3^\circ$) → Colorless**
+
+$$R_3C-OH \xrightarrow{P/I_2} R_3C-I \xrightarrow{AgNO_2} R_3C-NO_2 \xrightarrow{HNO_2} \text{No Reaction}$$
+
+Since the tertiary nitroalkane has **no $\alpha$-hydrogen**, it cannot react with nitrous acid ($HNO_2$). The solution remains **Colorless**.
+
+|**Alcohol Type**|**Final Product with HNO2​**|**Color with NaOH**|
+|---|---|---|
+|**Primary ($1^\circ$)**|Nitrolic Acid|**Red**|
+|**Secondary ($2^\circ$)**|Pseudonitrole|**Blue**|
+|**Tertiary ($3^\circ$)**|No Reaction|**Colorless**|
 
 ---
 
@@ -429,6 +466,20 @@ Unlike the aryl example, both carbon-oxygen bonds in an aliphatic ether are sing
 Ethers form peroxides on storage
 
 (dangerous)
+
+---
+
+## **3. Electrophilic Substitution Reactions**
+
+**Note:** Always para-product is major
+
+
+|**Electrophile (E+)**|**Reaction Type**|**Products (Ortho + Para)**|
+|---|---|---|
+|**$NO_2^+$**|**Nitration**|$o$-nitroanisole + $p$-nitroanisole|
+|**$X^+$**|**Halogenation**|$o$-haloanisole + $p$-haloanisole|
+|**$R^+$**|**Friedel-Crafts Alkylation**|$o$-alkylanisole + $p$-alkylanisole|
+|**$R\overset{+}{C}O$**|**Friedel-Crafts Acylation**|$o$-acetylanisole + $p$-acetylanisole|
 
 ---
 
