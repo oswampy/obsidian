@@ -354,7 +354,47 @@ Phenol + CHCl₃ + NaOH → salicylaldehyde (ortho major because of H-bonding)
 Phenol +Na2cr2o7→ quinone (no tautomerism)
 
 ---
+### Test for Phenol
+The image outlines two classic laboratory tests used to identify **Phenol**. Here is the transcription and the chemical explanation for each.
 
+---
+
+## **Test of Phenol**
+
+### **a. $FeCl_3$ Test **
+
+This is a characteristic test for compounds containing the enolic or phenolic $-OH$ group.
+
+**Equation:**
+
+$$6PhOH + FeCl_3 \longrightarrow [Fe(OPh)_6]^{3-} + 3H^+ + 3HCl$$
+
+**Observation:**
+
+When neutral ferric chloride is added to phenol, a **violet/purple coloration** is observed due to the formation of the iron-phenoxide coordination complex.
+
+---
+
+### **b. Bromine Water Test**
+
+This reaction demonstrates the high reactivity of the phenol ring toward electrophilic substitution in aqueous media.
+
+**Equation:**
+
+$$C_6H_5OH \xrightarrow[H_2O]{Br_2} \text{2,4,6-tribromophenol} + 3HBr$$
+
+**Observation:**
+
+Phenol reacts rapidly with bromine water to form a **white precipitate** of **2,4,6-tribromophenol**.
+
+**Key Note:**
+
+The $-OH$ group is highly activating. In water, phenol ionizes to the phenoxide ion ($PhO^-$), which is even more reactive, leading to trisubstitution (substitution at both ortho positions and the para position) even without a catalyst like $FeBr_3$.
+
+|**Test**|**Reagent**|**Result**|
+|---|---|---|
+|**Ferric Chloride**|Neutral $FeCl_3$|**Violet/Purple color**|
+|**Bromine Water**|$Br_2 / H_2O$|**White precipitate**|
 
 
 ---
