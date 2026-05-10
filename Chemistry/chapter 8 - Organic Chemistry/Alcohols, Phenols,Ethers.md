@@ -261,8 +261,10 @@ Electron-donating groups ↓ acidity
 
 ### 1. With Na
 
-2ArOH + 2Na → 2ArONa + H₂
+ArOH + Na → ArONa + H₂
+ArOH+NaOH->ArONa + H2O
 
+## with NaNH2
 ---
 
 ### 2. Electrophilic Substitution
