@@ -368,14 +368,11 @@ Phenol + CHCl₃ + NaOH → salicylaldehyde (ortho major because of H-bonding)
 Phenol +Na2cr2o7→ quinone (no tautomerism)
 
 ---
-### Test for Phenol
-The image outlines two classic laboratory tests used to identify **Phenol**. Here is the transcription and the chemical explanation for each.
 
----
 
 ## **Test of Phenol**
 
-### **a. $FeCl_3$ Test **
+### a. $FeCl_3$ Test 
 
 This is a characteristic test for compounds containing the enolic or phenolic $-OH$ group.
 
