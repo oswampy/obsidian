@@ -90,9 +90,12 @@ Mechanism:
 Reducing agents:
 
 - NaBH₄
-    
 - LiAlH₄
-    
+- 
+- **Bouveault–Blanc** reduction of an ester to two alcohols is:
+
+$$RCOOR' + 4[H] \xrightarrow{Na, \text{ ethanol}} RCH_2OH + R'OH$$
+
 
 ---
 
@@ -175,6 +178,23 @@ R₂CHOH → R₂CO
 #### Tertiary alcohol
 
 No oxidation (no α-H)
+
+
+ **Common Oxidizing Agents and Their Products**
+
+|Reagent|Category|Primary ($1^\circ$) Alcohol|Secondary ($2^\circ$) Alcohol|Common Solvent / Notes|
+|---|---|---|---|---|
+|PCC (Pyridinium chlorochromate)|Mild|Aldehyde|Ketone|DCM ($CH_2Cl_2$); anhydrous conditions prevent over-oxidation.|
+|PDC (Pyridinium dichromate)|Mild|Aldehyde|Ketone|Similar to PCC; slightly more stable for storage.|
+|DMP (Dess-Martin Periodinane)|Mild|Aldehyde|Ketone|Very mild, non-toxic, and works at room temperature.|
+|Swern (DMSO + Oxalyl Chloride)|Mild|Aldehyde|Ketone|Requires low temp ($-78^\circ C$); avoids toxic heavy metals.|
+|Collins Reagent ($CrO_3 \cdot 2Py$)|Mild|Aldehyde|Ketone|Good for acid-sensitive substrates.|
+|TPAP / Ley-Griffith|Mild|Aldehyde|Ketone|Catalytic reagent used with NMO as a co-oxidant.|
+|MnO$_2$|Selective|Aldehyde|Ketone|Only works on allylic and benzylic alcohols.|
+|Jones Reagent ($CrO_3$ in $H_2SO_4$)|Strong|Carboxylic Acid|Ketone|Acetone/Water solvent; very fast and acidic.|
+|KMnO$_4$ (Potassium Permanganate)|Strong|Carboxylic Acid|Ketone|Usually basic ($KOH$) or acidic; very vigorous.|
+|Na$_2$Cr$_2$O$_7$ (Sodium Dichromate)|Strong|Carboxylic Acid|Ketone|Standard chromic acid oxidation.|
+|Ag$_2$O (Tollens' Reagent)|Specific|N/A|N/A|Specifically oxidizes Aldehydes to Carboxylic Acids.|
 
 ---
 
