@@ -470,7 +470,7 @@ Mechanism:
 
 - SN1 or SN2 depending on structure
 
-#### ** Reaction with excess $HX$**
+####  Reaction with excess $HX$
 
  **1. Cleavage of Anisole (Methyl Phenyl Ether)**
 
