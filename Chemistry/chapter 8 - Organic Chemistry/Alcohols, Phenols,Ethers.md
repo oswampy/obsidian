@@ -335,7 +335,7 @@ Positions: ortho & para
 
 ---
 
-### 3. Halgonation
+### 3. Halogenation
 -Bromination
 Phenol + Br₂/h20 → 2,4,6-tribromophenol (white ppt)
 Phenol + Br₂/CS2 → para or ortho bromophenol
@@ -353,7 +353,7 @@ Conc. HNO₃ → picric acid
 ### 5. Kolbe Reaction
 
 Phenoxide + CO₂+NaOH → salicylic acid
-salicylic acid+CH3COOCOCH3-> aspirin (MOP)
+salicylic acid+CH3COOCOCH3(ethanoic anyhydride)-> aspirin (MOP)
 
 ---
 
