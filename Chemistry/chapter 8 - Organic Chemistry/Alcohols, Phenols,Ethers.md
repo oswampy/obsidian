@@ -253,42 +253,6 @@ Since the tertiary nitroalkane has **no $\alpha$-hydrogen**, it cannot react wit
 |**Primary ($1^\circ$)**|Nitrolic Acid|**Red**|
 |**Secondary ($2^\circ$)**|Pseudonitrole|**Blue**|
 
----
-### 8.Reaction with Grignard Reagent
-Got it. Let’s keep it simple and focus purely on the reaction products for the synthesis of alcohols using a Grignard reagent ($RMgX$).
-
- **The General Reaction**
-
-The Grignard reagent ($RMgX$) acts as a nucleophile, attacking the carbonyl carbon. After adding water or dilute acid ($H_3O^+$), the oxygen becomes an alcohol group.
-
----
-
- **1. To get a Primary ($1^\circ$) Alcohol**
-
-React with **Formaldehyde**:
-
-$$HCHO + RMgX \xrightarrow{H_3O^+} R-CH_2-OH$$
-
- **2. To get a Secondary ($2^\circ$) Alcohol**
-
-React with **any other Aldehyde** (like Acetaldehyde):
-
-$$R'CHO + RMgX \xrightarrow{H_3O^+} R'-CH(OH)-R$$
-
- **3. To get a Tertiary ($3^\circ$) Alcohol**
-
-React with a **Ketone** (like Acetone):
-
-$$R'COR'' + RMgX \xrightarrow{H_3O^+} R_3C-OH$$
-
-
-|**Carbonyl Source**|**Product**|
-|---|---|
-|**Formaldehyde**|$1^\circ$ Alcohol|
-|**Aldehyde**|$2^\circ$ Alcohol|
-|**Ketone**|$3^\circ$ Alcohol|
-
-**Important:** If you react $RMgX$ with an **already existing** alcohol or phenol, you just get an **alkane ($R-H$)** and the reaction fails to build the carbon chain.
 
 ---
 
@@ -326,7 +290,7 @@ ArN₂⁺ + H₂O → ArOH + N₂
 
 Industrial method
 
-Cumene → cumene hydroperoxide → phenol + acetone
+Cumene → cumene hydroperoxide ->(using acid)→ phenol + acetone
 
 ---
 
