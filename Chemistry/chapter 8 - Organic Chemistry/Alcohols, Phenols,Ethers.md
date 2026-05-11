@@ -64,7 +64,7 @@ CH₂=CH₂ + H₂O → CH₃CH₂OH
 
 Anti-Markovnikov addition
 
-Alkene → alcohol (–OH to less substituted carbon)
+Alkene +BH3 +H2O2→ alcohol (–OH to less substituted carbon)
 
 ---
 
