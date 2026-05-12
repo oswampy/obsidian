@@ -110,7 +110,23 @@ With carbonyl:
 - Aldehyde → 2° alcohol
     
 - Ketone → 3° alcohol
-    
+
+---
+### 6.Oxymercuration--Demercuration:}$
+
+$RCH=CH_2 \xrightarrow[\mathrm{H_2O}]{\mathrm{Hg(OAc)_2}} RCH(OH)-CH_2HgOAc \xrightarrow{\mathrm{NaBH_4}} RCH(OH)-CH_3$`
+
+$\textbf{Overall:}\ RCH=CH_2 \xrightarrow[\mathrm{1.\ Hg(OAc)_2,\ H_2O}]{\mathrm{2.\ NaBH_4}} RCH(OH)-CH_3$`
+
+$\bullet\ \text{Markovnikov addition}$`
+
+$\bullet\ \text{No carbocation rearrangement}$`
+
+$\bullet\ \text{Intermediate: mercurinium ion}$`
+
+$\bullet\ \text{OH goes to more substituted carbon}$
+
+$\textbf{Example:}\ CH_2=CH_2 \xrightarrow[\mathrm{1.\ Hg(OAc)_2,\ H_2O}]{\mathrm{2.\ NaBH_4}} CH_3CH_2OH$
 
 ---
 
