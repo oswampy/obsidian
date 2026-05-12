@@ -91,7 +91,7 @@ Reducing agents:
 
 - NaBH₄
 - LiAlH₄
-- 
+
 - **Bouveault–Blanc** reduction of an ester to two alcohols is:
 
 $$RCOOR' + 4[H] \xrightarrow{Na, \text{ ethanol}} RCH_2OH + R'OH$$
@@ -112,19 +112,11 @@ With carbonyl:
 - Ketone → 3° alcohol
 
 ---
-### 6.Oxymercuration--Demercuration:}$
+### 6.Oxymercuration--Demercuration:
 
 $RCH=CH_2 \xrightarrow[\mathrm{H_2O}]{\mathrm{Hg(OAc)_2}} RCH(OH)-CH_2HgOAc \xrightarrow{\mathrm{NaBH_4}} RCH(OH)-CH_3$`
 
-$\textbf{Overall:}\ RCH=CH_2 \xrightarrow[\mathrm{1.\ Hg(OAc)_2,\ H_2O}]{\mathrm{2.\ NaBH_4}} RCH(OH)-CH_3$`
-
-$\bullet\ \text{Markovnikov addition}$`
-
-$\bullet\ \text{No carbocation rearrangement}$`
-
-$\bullet\ \text{Intermediate: mercurinium ion}$`
-
-$\bullet\ \text{OH goes to more substituted carbon}$
+$\textbf{Overall:}\ RCH=CH_2 \xrightarrow[\mathrm{1.\ Hg(OAc)_2,\ H_2O}]{\mathrm{2.\ NaBH_4}} RCH(OH)-CH_3$
 
 $\textbf{Example:}\ CH_2=CH_2 \xrightarrow[\mathrm{1.\ Hg(OAc)_2,\ H_2O}]{\mathrm{2.\ NaBH_4}} CH_3CH_2OH$
 
@@ -154,7 +146,15 @@ $\textbf{Example:}\ CH_2=CH_2 \xrightarrow[\mathrm{1.\ Hg(OAc)_2,\ H_2O}]{\mathr
 
 ### 1. Reaction with Metals
 
-2ROH + 2Na → 2RONa + H₂
+
+$2ROH+2Na\rightarrow2RONa+H_2\uparrow$
+
+$ROH+NaH\rightarrow RONa+H_2\uparrow$
+
+$ROH+NaNH_2\rightarrow RONa+NH_3$
+
+$RCH_2OH+NaOCl\rightarrow RCHO$
+
 
 ---
 
@@ -473,7 +473,6 @@ Best for primary halides
 
 ## Chemical Reactions
 
----
 
 ### 1. Cleavage with HX
 
