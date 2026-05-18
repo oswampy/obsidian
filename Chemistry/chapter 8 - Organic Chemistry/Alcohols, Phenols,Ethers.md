@@ -112,7 +112,7 @@ With carbonyl:
 - Ketone → 3° alcohol
 
 ---
-### 6.Oxymercuration--Demercuration:
+### 6.Oxymercuration-Demercuration:
 
 $RCH=CH_2 \xrightarrow[\mathrm{H_2O}]{\mathrm{Hg(OAc)_2}} RCH(OH)-CH_2HgOAc \xrightarrow{\mathrm{NaBH_4}} RCH(OH)-CH_3$`
 
@@ -133,9 +133,8 @@ $\textbf{Example:}\ CH_2=CH_2 \xrightarrow[\mathrm{1.\ Hg(OAc)_2,\ H_2O}]{\mathr
 
 ### Solubility
 
-- Lower alcohols → soluble in water
     
-- Solubility ↓ with chain length
+- Solubility ↓ with $\uparrow$ chain length
     
 
 ---
