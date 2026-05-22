@@ -49,7 +49,10 @@
     _(where $K$ is the dielectric constant, $K > 1$)_
     
 - **Potential Difference ($V$):** Decreases because $V = E \cdot d$.
-    
+	$$V=\frac{V_{0}}{K}$$
+-  relationship between the induced surface charge density ($\sigma_i$) and the free surface charge density ($\sigma$) on the capacitor plates:
+
+$$\sigma_i = \sigma \left(1 - \frac{1}{K}\right)$$
 - **Capacitance ($C$):** **Increases.** Since $C = \frac{Q}{V}$ and voltage decreases for a given charge, the capacity to store charge rises:
     
     $$C = K \cdot C_0$$
