@@ -80,3 +80,45 @@ $$K = \infty$$
 When a metal is placed in an external electric field, its free electrons move instantly to the surface until they create an internal induced electric field that exactly equals and cancels out the external field.
 
 Since the net electric field inside a metal is zero ($E = 0$), and the relationship is defined as $E = \frac{E_0}{K}$, the value of $K$ must be infinity to reduce the internal field to zero.
+
+
+
+## Capacitor partially filled with dielectric slab
+
+
+- $d$ = Total separation distance between the capacitor plates.
+- $t$ = Thickness of the dielectric slab inserted between the plates.
+- $(d - t)$ = The remaining distance filled with air/vacuum.
+- $E_0$ = Electric field in the air region ($E_0 = \frac{\sigma}{\varepsilon_0} = \frac{Q}{A\varepsilon_0}$).
+- $\frac{E_0}{K}$ = Reduced electric field inside the dielectric slab due to polarization.
+
+### Derivation Steps for Potential Difference ($\Delta V$)
+
+
+- The total potential difference between the plates is the sum of the potentials across the air region and the dielectric region ($\Delta V = E_1d_1 + E_2d_2$):
+	
+	$$\Delta V = E_0(d - t) + \left(\frac{E_0}{K}\right)t$$
+	
+	Factor out the external field $E_0$:
+	
+	$$\Delta V = E_0 \left(d - t + \frac{t}{K}\right)$$
+	
+	Substitute $E_0 = \frac{Q}{A\varepsilon_0}$ into the equation:
+	
+	$$\Delta V = \frac{Q}{A\varepsilon_0} \left(d - t + \frac{t}{K}\right)$$
+
+### Final Capacitance Formula
+
+Using the fundamental definition of capacitance ($C = \frac{Q}{\Delta V}$), substituting the value of $\Delta V$ yields the final boxed equation:
+
+$$C = \frac{\varepsilon_0 A}{d - t + \frac{t}{K}}$$
+
+#### **Special Case**
+
+If you insert a **conducting/metal slab** instead of a dielectric:
+
+- Since $K = \infty$ for metals, the term $\frac{t}{K}$ becomes $\frac{t}{\infty} = 0$.
+    
+- The capacitance formula simplifies directly to:
+    
+    $$C = \frac{\varepsilon_0 A}{d - t}$$
