@@ -54,9 +54,29 @@
 
 $$\sigma_i = \sigma \left(1 - \frac{1}{K}\right)$$
 - **Capacitance ($C$):** **Increases.** Since $C = \frac{Q}{V}$ and voltage decreases for a given charge, the capacity to store charge rises:
-    
+#Derivation 
     $$C = K \cdot C_0$$
     $$C = \frac{Q}{V_{0}}K $$
     $$C = \frac{Q}{E_{0}d}K $$
     $E_{0}=\frac{Q}{A\varepsilon_{0}}$
-    $$C = \frac{\varepsilon_{0}A}{d}K $$
+    $$\boxed{C = \frac{\varepsilon_{0}A}{d}K} $$
+
+### Advantages of dielectric
+
+
+- **Increases Capacitance:** It reduces the internal electric field and voltage, multiplying the charge-storing capacity by the dielectric constant ($C = K \cdot C_0$).
+    
+- **Prevents Electrical Breakdown:** It acts as a superior insulator compared to air, allowing the capacitor to handle much higher operating voltages without sparking.
+    
+- **Mechanical Support:** It serves as a physical spacer that keeps the oppositely charged plates from pulling together and short-circuiting, allowing them to be placed closer together.
+
+***Note:*** ------
+For metals (and all perfect conductors), the dielectric constant is **infinite**:
+
+$$K = \infty$$
+ $$\sigma_{i}=\sigma\ (otherwise\ \sigma_{i}<\sigma)$$
+ Why?
+
+When a metal is placed in an external electric field, its free electrons move instantly to the surface until they create an internal induced electric field that exactly equals and cancels out the external field.
+
+Since the net electric field inside a metal is zero ($E = 0$), and the relationship is defined as $E = \frac{E_0}{K}$, the value of $K$ must be infinity to reduce the internal field to zero.
