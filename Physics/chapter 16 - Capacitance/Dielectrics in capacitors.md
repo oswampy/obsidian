@@ -56,3 +56,7 @@ $$\sigma_i = \sigma \left(1 - \frac{1}{K}\right)$$
 - **Capacitance ($C$):** **Increases.** Since $C = \frac{Q}{V}$ and voltage decreases for a given charge, the capacity to store charge rises:
     
     $$C = K \cdot C_0$$
+    $$C = \frac{Q}{V_{0}}K $$
+    $$C = \frac{Q}{E_{0}d}K $$
+    $E_{0}=\frac{Q}{A\varepsilon_{0}}$
+    $$C = \frac{\varepsilon_{0}A}{d}K $$
