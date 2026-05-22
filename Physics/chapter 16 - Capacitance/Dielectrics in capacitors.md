@@ -122,3 +122,49 @@ If you insert a **conducting/metal slab** instead of a dielectric:
 - The capacitance formula simplifies directly to:
     
     $$C = \frac{\varepsilon_0 A}{d - t}$$
+
+
+## Graph of dielectric against distance x
+![[Pasted image 20260522205755.png]]
+Here is the explanation of the graphs shown on the board, which plot the **Electric Field ($E$)** and **Electric Potential ($V$)** as a function of distance ($x$) across a two-region capacitor setup.
+
+### **1. Physical Setup**
+
+- From $x = 0$ to $x = d$: An **air/vacuum region** with an electric field of $E_0$.
+    
+- From $x = d$ to $x = 2d$: A **dielectric slab region** of thickness $d$ and dielectric constant $K$, where the electric field is reduced to $\frac{E_0}{K}$.
+    
+
+### **2. Graph 1: Electric Field vs. Distance ($E$ vs. $x$)**
+
+The electric field is uniform within each distinct region but drops at the boundary:
+
+- **Region 1 (Air, $0 \le x < d$):** The field stays completely constant at its maximum value, $E_0$.
+    
+- **Region 2 (Dielectric, $d \le x \le 2d$):** Because of polarization, the net electric field drops instantly to a lower constant value, $\frac{E_0}{K}$.
+    
+
+The graph shows a step-down behavior at $x = d$.
+
+### **3. Graph 2: Electric Potential vs. Distance ($V$ vs. $x$)**
+
+The relationship between potential and electric field is defined by the gradient formula:
+
+$$E = -\frac{dV}{dx}$$
+
+This means the **slope** of the $V$ vs. $x$ graph represents the magnitude of the electric field ($|\text{slope}| = E$).
+
+- **Region 1 ($0 \le x < d$):** The field $E_0$ is large, so the potential drops quickly with a steep, downward linear slope. The angle of this slope is labeled $\theta_1$.
+    
+- **Region 2 ($d \le x \le 2d$):** The field $\frac{E_0}{K}$ is smaller, so the potential drops more gradually with a gentler, downward linear slope. The angle of this slope is labeled $\theta_2$.
+    
+
+Since $E_0 > \frac{E_0}{K}$, the first line is steeper than the second line, which gives the boxed conclusion:
+
+$$\theta_1 > \theta_2$$
+
+### **4. Total Potential Difference ($\Delta V$)**
+
+The total voltage drop across the system is the sum of the drops across both sections (equivalent to the area under the $E$ vs. $x$ graph):
+
+$$\Delta V = E_0d + \frac{E_0}{K}d$$
