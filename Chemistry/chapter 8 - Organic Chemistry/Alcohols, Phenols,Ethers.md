@@ -649,7 +649,7 @@ Deprotonation followed by the breakdown of the hemiacetal intermediate yields ph
 
 $$\text{Ph}-\overset{\dots}{\text{O}}-\text{CH}(\text{OH})-\text{CH}_3 \longrightarrow \text{PhOH} + \text{CH}_3\text{CHO}$$
 ---
-### 3. Auto oxidation
+## 3. Auto oxidation
 
 Ethers form peroxides on storage
 
@@ -670,7 +670,56 @@ Ethers form peroxides on storage
 |**$R\overset{+}{C}O$**|**Friedel-Crafts Acylation**|$o$-acetylanisole + $p$-acetylanisole|
 
 ---
+## **5. Reaction with $\text{PCl}_5$**
 
+When an ether is heated with phosphorus pentachloride ($\text{PCl}_5$), the $\text{C}-\text{O}$ bonds are cleaved, converting both alkyl groups into their respective alkyl chlorides along with the formation of phosphorus oxychloride ($\text{POCl}_3$).
+
+### **Reaction Trick / Alignment Diagram**
+
+The note uses a handy structural alignment trick to remember how the bonds break:
+
+Plaintext
+
+```
+  R ──┼── O ──┼── R'
+      │       │
+ Cl ──┼──PCl₃─┼── Cl
+```
+
+### **Overall Chemical Equation**
+
+$$\text{R}-\text{O}-\text{R}' + \text{PCl}_5 \xrightarrow{\Delta} \text{R}-\text{Cl} + \text{R}'-\text{Cl} + \text{POCl}_3$$
+
+- **$\text{R}-\text{Cl}$**: Alkyl chloride from the first group.
+    
+- **$\text{R}'-\text{Cl}$**: Alkyl chloride from the second group.
+    
+- **$\text{POCl}_3$**: Phosphorus oxychloride (byproduct).
+---
+## **6. Ring Opening of Epoxide**
+
+### **In Acidic Medium**
+
+When an asymmetric epoxide undergoes ring opening under acidic conditions, the regioselectivity is governed by carbocation stability, making it **similar to an $\text{S}_\text{N}1$ pathway** (though it proceeds without actual carbocation rearrangement).
+![[Pasted image 20260523085753.png]]
+### **Reaction Mechanism**
+
+**Step 1: Protonation of the Epoxide Oxygen**
+
+The lone pair on the oxygen atom attacks a proton ($\text{H}^+$), creating a positively charged protonated epoxide (oxonium ion intermediate).
+
+$$\text{Epoxide} \xrightarrow{\text{H}^+} \text{Protonated Epoxide intermediate}$$
+
+**Step 2: Regioselective Nucleophilic Attack ($\text{Nu}^-$)**
+
+- Due to the positive charge on the oxygen, the $\text{C}-\text{O}$ bonds become highly polarized, developing partial positive charges ($\delta+$) on the ring carbons.
+    
+- The more substituted carbon (left side, with an alkyl group providing a $+\text{I}$ inductive effect) can handle the positive charge much better, making it **more stable** ($\text{more stable } \delta+$).
+    
+- The nucleophile ($\text{Nu}^-$) selectively attacks this **more substituted, more stable carbon**, opening the three-membered ring.
+    
+
+---
 # IMPORTANT COMPARISONS
 
 |Property|Alcohol|Phenol|Ether|
