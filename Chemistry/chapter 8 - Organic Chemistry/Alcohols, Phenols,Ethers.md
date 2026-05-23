@@ -579,12 +579,55 @@ The iodide ion ($\text{I}^-$) attacks the less hindered methyl carbon ($\text{CH
 
 $$\text{I}^- + \text{CH}_3-\overset{+}{\text{O}}(\text{H})-\text{C}(\text{Me})_3 \longrightarrow \text{CH}_3-\text{I} + \text{Me}_3\text{C}-\text{OH}$$
 
-### **Products**
+#### **Products**
 
-$$\text{CH}_3-\text{I} + \text{Me}_3\text{C}-\text{OH}$$
+	$$\text{CH}_3-\text{I} + \text{Me}_3\text{C}-\text{OH}$$
 ---
 
-### 2. Auto oxidation
+## **2. Hydrolysis of Ether**
+
+Ethers are generally stable and inert toward neutral or basic conditions because the alkoxide ion ($-\text{OR}$) is a poor leaving group. Therefore, hydrolysis requires acid catalysis to protonate the oxygen and create a better leaving group.
+
+### **Reaction Conditions Summary**
+
+- **Neutral water:**
+    
+    $$\text{R}_1-\text{O}-\text{R}_2 \xrightarrow{\text{H}_2\text{O}} \text{No reaction}$$
+    
+- **Basic conditions:**
+    
+    $$\text{R}_1-\text{O}-\text{R}_2 \xrightarrow{\text{OH}^-/\text{H}_2\text{O}} \text{No reaction}$$
+    
+- **Acidic conditions (Acid-catalyzed hydrolysis):**
+    
+    $$\text{R}_1-\text{O}-\text{R}_2 \xrightarrow{\text{H}^+/\text{H}_2\text{O}} \text{Reaction occurs } (\checkmark)$$
+    
+
+### **Initial Step: Protonation of Ether**
+
+The lone pair on the ether oxygen attacks a proton ($\text{H}^+$) to form a protonated ether (oxonium ion):
+
+$$\text{R}_1-\ddot{\text{O}}-\text{R}_2 \xrightarrow{\text{H}^+} \text{R}_1-\overset{+}{\text{O}}(\text{H})-\text{R}_2$$
+
+### **Reaction Mechanism Dependences**
+
+The reaction pathway changes depending on the nature of the alkyl groups ($\text{R}_1$ and $\text{R}_2$):
+
+### **Case 1: $\text{S}_\text{N}2$ Pathway**
+
+- **Condition:** If **both** $\text{R}_1$ and $\text{R}_2$ are primary ($1^\circ$) or methyl groups.
+    
+- **Behavior:** The water molecule ($\text{H}_2\text{O}$) acts as a nucleophile and attacks the less sterically hindered carbon atom, displacing the other group as an alcohol in a single concerted step.
+    
+
+### **Case 2: $\text{S}_\text{N}1$ Pathway**
+
+- **Condition:** If **either** $\text{R}_1$ or $\text{R}_2$ is a secondary ($2^\circ$) or tertiary ($3^\circ$) alkyl group.
+    
+- **Behavior:** The protonated ether leaves first to generate a relatively stable carbocation ($2^\circ$ or $3^\circ$), which is then quickly attacked by the water molecule.
+
+---
+### 3. Auto oxidation
 
 Ethers form peroxides on storage
 
@@ -592,7 +635,7 @@ Ethers form peroxides on storage
 
 ---
 
-## **3. Electrophilic Substitution Reactions**
+## **4. Electrophilic Substitution Reactions**
 
 **Note:** Always para-product is major
 
