@@ -626,6 +626,28 @@ The reaction pathway changes depending on the nature of the alkyl groups ($\text
     
 - **Behavior:** The protonated ether leaves first to generate a relatively stable carbocation ($2^\circ$ or $3^\circ$), which is then quickly attacked by the water molecule.
 
+### **Acid-Catalyzed Hydrolysis of Vinyl Ether**
+
+
+$$\text{Ph}-\text{O}-\text{CH}=\text{CH}_2 \xrightarrow{\text{H}_3\text{O}^+} \text{PhOH} + \text{CH}_3\text{CHO}$$
+
+### **Mechanism Steps**
+
+**1. Protonation of the Double Bond ($\text{H}^+$ attack)**
+
+The alkene carbon is protonated to form a highly resonance-stabilized carbocation. The positive charge is stabilized by the adjacent oxygen's lone pairs:
+
+$$\text{Ph}-\ddot{\text{O}}-\text{CH}=\text{CH}_2 \xrightarrow{\text{H}^+} \text{Ph}-\overset{\dots}{\text{O}}-\overset{+}{\text{C}}\text{H}-\text{CH}_3 \longleftrightarrow \text{Ph}-\overset{+}{\text{O}}=\text{CH}-\text{CH}_3$$
+
+**2. Nucleophilic Attack by Water**
+
+$$\text{Ph}-\overset{\dots}{\text{O}}-\overset{+}{\text{C}}\text{H}-\text{CH}_3 + \text{H}_2\text{O} \longrightarrow \text{Ph}-\underset{\underset{\text{H}}{+}}{\text{O}}-\text{CH}(\text{OH})-\text{CH}_3$$
+
+**3. Cleavage and Tautomerization**
+
+Deprotonation followed by the breakdown of the hemiacetal intermediate yields phenol and acetaldehyde:
+
+$$\text{Ph}-\overset{\dots}{\text{O}}-\text{CH}(\text{OH})-\text{CH}_3 \longrightarrow \text{PhOH} + \text{CH}_3\text{CHO}$$
 ---
 ### 3. Auto oxidation
 
