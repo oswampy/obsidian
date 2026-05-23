@@ -482,7 +482,7 @@ HI > HBr > HCl
 Mechanism:
 
 - SN1 or SN2 depending on structure
-
+ 
 ####  Reaction with excess $HX$
 
  **1. Cleavage of Anisole (Methyl Phenyl Ether)**
@@ -527,6 +527,61 @@ Unlike the aryl example, both carbon-oxygen bonds in an aliphatic ether are sing
         
     - **Aryl ethers:** Yield **one phenol and one alkyl halide** (phenol remains unreacted).
 
+
+
+---
+## **Reaction 1: Cleavage of Ether with Cold Conc. HI**
+
+The reaction shows the cleavage of an asymmetrical ether (methyl _tert_-butyl ether) under cold, concentrated hydroiodic acid ($\text{HI}$) conditions, which follows an $\text{S}_\text{N}1$ mechanism due to the formation of a stable $3^\circ$ carbocation.
+
+### **Chemical Equation & Mechanism**
+
+**Step 1: Protonation of the ether**
+
+$$\text{CH}_3-\text{O}-\text{C}(\text{Me})_3 \xrightarrow{\text{H}^+} \text{CH}_3-\overset{+}{\text{O}}(\text{H})-\text{C}(\text{Me})_3$$
+
+- Left group: $1^\circ$ ($\text{CH}_3-$)
+    
+- Right group: $3^\circ$ ($-\text{C}(\text{Me})_3$)
+    
+
+**Step 2: Cleavage to form a stable $3^\circ$ carbocation and methanol**
+
+$$\text{CH}_3-\overset{+}{\text{O}}(\text{H})-\text{C}(\text{Me})_3 \longrightarrow \text{CH}_3\text{OH} + \overset{+}{\text{C}}(\text{Me})_3$$
+
+**Step 3: Nucleophilic attack by $\text{I}^-$**
+
+$$\text{Me}_3\text{C}^+ + \text{I}^- \longrightarrow \text{Me}_3\text{C}-\text{I}$$
+
+### **Overall Products**
+
+$$\text{CH}_3\text{OH} + \text{Me}_3\text{C}-\text{I}$$
+
+### **Reaction 2: Reaction with Excess Conc. HI**
+
+If **conc. $\text{HI}$ in excess** is used, the methanol ($\text{CH}_3\text{OH}$) formed in the first step reacts further with another molecule of $\text{HI}$ to convert completely into an alkyl iodide.
+
+$$\text{CH}_3\text{OH} + \text{Me}_3\text{C}-\text{I} \xrightarrow{\text{HI}} \text{CH}_3-\text{I} + \text{Me}_3\text{C}-\text{I} + \text{H}_2\text{O}$$
+
+### **Reaction 3: Reaction with Anhydrous HI ($\text{S}_\text{N}2$ Condition)**
+
+The notes specify that under anhydrous $\text{HI}$ conditions, the reaction proceeds via an **$\text{S}_\text{N}2$ mechanism (always)** where the nucleophile attacks the less sterically hindered carbon.
+
+### **Mechanism**
+
+**Step 1: Protonation**
+
+$$\text{CH}_3-\text{O}-\text{C}(\text{Me})_3 \xrightarrow{\text{H}^+} \text{CH}_3-\overset{+}{\text{O}}(\text{H})-\text{C}(\text{Me})_3$$
+
+**Step 2: Nucleophilic attack ($\text{S}_\text{N}2$)**
+
+The iodide ion ($\text{I}^-$) attacks the less hindered methyl carbon ($\text{CH}_3$), displacing _tert_-butanol as the leaving group.
+
+$$\text{I}^- + \text{CH}_3-\overset{+}{\text{O}}(\text{H})-\text{C}(\text{Me})_3 \longrightarrow \text{CH}_3-\text{I} + \text{Me}_3\text{C}-\text{OH}$$
+
+### **Products**
+
+$$\text{CH}_3-\text{I} + \text{Me}_3\text{C}-\text{OH}$$
 ---
 
 ### 2. Auto oxidation
