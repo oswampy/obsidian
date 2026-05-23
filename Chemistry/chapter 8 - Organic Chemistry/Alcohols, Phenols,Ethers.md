@@ -290,7 +290,7 @@ Chlorobenzene + NaOH (623 K, 300 atm) → Sodium phenoxide → Phenol
 
 ### 2. From Benzene Sulphonic Acid
 
-Fusion with NaOH → phenol
+benzene+oleum->Fusion with NaOH → phenol
 
 ---
 
@@ -305,6 +305,7 @@ ArN₂⁺ + H₂O → ArOH + N₂
 Industrial method
 
 Cumene → cumene hydroperoxide ->(using acid)→ phenol + acetone
+(mechanism through semi-pinacol rxn)
 
 ---
 
@@ -745,10 +746,10 @@ $$\text{Epoxide} \xrightarrow{\text{1) }\text{Nu}^-\text{ (attacks less hindered
     
 - **Mechanism:** Strictly **$\text{S}_\text{N}2$-like** (concerted backside attack, inversion of configuration if applicable, no carbocation formed).
 
-
+---
 
 ## **Reaction Overview: Epoxidation followed by Grignard Ring Opening**
-
+![[Pasted image 20260523090555.png]]
 This reaction sequence demonstrates the synthesis of an epoxide from an alkene using a peroxy acid, followed by a regioselective nucleophilic ring opening using a Grignard reagent to yield a highly substituted alcohol.
 
 ### **Step 1: Epoxidation of Alkene (Prilezhaev Reaction)**
