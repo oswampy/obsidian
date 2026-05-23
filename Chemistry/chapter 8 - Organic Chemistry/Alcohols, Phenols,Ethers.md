@@ -702,7 +702,7 @@ $$\text{R}-\text{O}-\text{R}' + \text{PCl}_5 \xrightarrow{\Delta} \text{R}-\text
 
 When an asymmetric epoxide undergoes ring opening under acidic conditions, the regioselectivity is governed by carbocation stability, making it **similar to an $\text{S}_\text{N}1$ pathway** (though it proceeds without actual carbocation rearrangement).
 ![[Pasted image 20260523085753.png]]
-### **Reaction Mechanism**
+#### **Reaction Mechanism**
 
 **Step 1: Protonation of the Epoxide Oxygen**
 
@@ -717,8 +717,71 @@ $$\text{Epoxide} \xrightarrow{\text{H}^+} \text{Protonated Epoxide intermediate}
 - The more substituted carbon (left side, with an alkyl group providing a $+\text{I}$ inductive effect) can handle the positive charge much better, making it **more stable** ($\text{more stable } \delta+$).
     
 - The nucleophile ($\text{Nu}^-$) selectively attacks this **more substituted, more stable carbon**, opening the three-membered ring.
+
+### **Ring Opening of Epoxide in Basic Medium**
+
+Unlike the acidic pathway, ring opening under basic or nucleophilic conditions is driven entirely by steric hindrance, making it **similar to an $\text{S}_\text{N}2$ mechanism**.
+
+#### **Mechanism Steps**
+
+**1. Nucleophilic Attack ($\text{S}_\text{N}2$)**
+
+- The strong nucleophile ($\text{Nu}^-$) attacks the **less sterically hindered (S.H. less)** carbon atom.
+    
+- The more substituted carbon experiences **more steric hindrance (S.H. more)**, blocking nucleophilic approach.
+    
+- This direct attack breaks the $\text{C}-\text{O}$ bond, forcing the oxygen open to create an alkoxide intermediate.
     
 
+**2. Protonation**
+
+The intermediate is treated with acid ($\text{H}^+$) to protonate the alkoxide ion into a stable alcohol.
+
+#### **Summary of Regioselectivity**
+
+$$\text{Epoxide} \xrightarrow{\text{1) }\text{Nu}^-\text{ (attacks less hindered C)}}{\text{2) }\text{H}^+} \text{Substituted Alcohol}$$
+
+- **Regioselectivity:** Nucleophile attacks the **less substituted/less hindered** carbon.
+    
+- **Mechanism:** Strictly **$\text{S}_\text{N}2$-like** (concerted backside attack, inversion of configuration if applicable, no carbocation formed).
+
+
+
+## **Reaction Overview: Epoxidation followed by Grignard Ring Opening**
+
+This reaction sequence demonstrates the synthesis of an epoxide from an alkene using a peroxy acid, followed by a regioselective nucleophilic ring opening using a Grignard reagent to yield a highly substituted alcohol.
+
+### **Step 1: Epoxidation of Alkene (Prilezhaev Reaction)**
+
+An unsymmetrical cyclic alkene reacts with a peroxy acid—specifically, **m-chloroperbenzoic acid (mCPBA)**—to form an epoxide intermediate.
+
+$$\text{1-Methylcyclohexene} + \text{mCPBA} \longrightarrow \text{1-Methylcyclohexene oxide} + \text{m-Chlorobenzoic acid}$$
+
+- **Reactants:** 1-methylcyclohexene and $m\text{-Cl}-\text{C}_6\text{H}_4-\text{C}(=\text{O})-\text{O}-\text{O}-\text{H}$ (mCPBA). The electrophilic oxygen atom highlighted in the red circle is transferred to the alkene double bond.
+    
+- **Product:** A cyclic ether (epoxide) across the former double bond site.
+    
+
+### **Step 2: Nucleophilic Epoxide Ring Opening (Basic/Nucleophilic Medium)**
+
+The epoxide intermediate is treated with a strong nucleophile, the Grignard reagent methylmagnesium bromide ($\text{CH}_3\text{MgBr}$).
+
+$$\text{1-Methylcyclohexene oxide} \xrightarrow{\text{1) }\text{CH}_3\text{MgBr}} \text{Alkoxide intermediate}$$
+
+- **Mechanism Nature:** Because this occurs under basic/strongly nucleophilic conditions, the reaction proceeds via an **$\text{S}_\text{N}2$-like pathway**.
+    
+- **Regioselectivity:** The nucleophilic methyl carbanion ($\text{CH}_3^-$) attacks the **less sterically hindered carbon** (the $2^\circ$ carbon atom of the epoxide ring, rather than the more crowded $3^\circ$ carbon carrying the pre-existing methyl group).
+    
+- **Stereochemistry:** The nucleophile attacks from the opposite face of the epoxide ring (**backside attack**), leading to _anti_-stereochemistry between the newly added methyl group and the opening oxygen atom.
+    
+
+### **Step 3: Acidic Workup (Protonation)**
+
+Finally, hydronium ions ($\text{H}^+$) are added to quench the reaction and protonate the magnesium alkoxide intermediate into a stable alcohol.
+
+$$\text{Alkoxide intermediate} \xrightarrow{\text{H}^+} \text{1,2-Dimethylcyclohexan-1-ol}$$
+
+- **Final Product:** A tertiary ($3^\circ$) alcohol with two vicinal methyl groups ($\text{Me}$). The hydroxyl group ($-\text{OH}$) and the original methyl group end up on the same side, while the new methyl group is trans (_anti_) to the $-\text{OH}$ group due to the inversion during the backside attack.
 ---
 # IMPORTANT COMPARISONS
 
