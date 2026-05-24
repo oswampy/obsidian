@@ -277,7 +277,7 @@ Since the tertiary nitroalkane has **no $\alpha$-hydrogen**, it cannot react wit
 
 –OH attached directly to benzene ring
 
-Ar–OH
+Ph–OH
 
 ---
 
