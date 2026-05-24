@@ -200,6 +200,7 @@ No oxidation (no α-H)
 | Reagent                               | Category  | Primary ($1^\circ$) Alcohol | Secondary ($2^\circ$) Alcohol | Common Solvent / Notes                                         |
 | ------------------------------------- | --------- | --------------------------- | ----------------------------- | -------------------------------------------------------------- |
 | PCC (Pyridinium chlorochromate)       | Mild      | Aldehyde                    | Ketone                        | DCM ($CH_2Cl_2$); anhydrous conditions prevent over-oxidation. |
+| PDC<br>(Pyridinium dichromate)        | Mild      | Aldehyde                    | Ketone                        | AKA Corey-Schmidt reagent                                      |
 | DMP (Dess-Martin Periodinane)         | Mild      | Aldehyde                    | Ketone                        | Very mild, non-toxic, and works at room temperature.           |
 | Swern (DMSO + Oxalyl Chloride)        | Mild      | Aldehyde                    | Ketone                        | Requires low temp ($-78^\circ C$); avoids toxic heavy metals.  |
 | Collins Reagent ($CrO_3 \cdot 2Py$)   | Mild      | Aldehyde                    | Ketone                        | Good for acid-sensitive substrates.                            |
