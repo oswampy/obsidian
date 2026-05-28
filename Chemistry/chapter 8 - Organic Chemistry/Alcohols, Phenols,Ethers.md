@@ -335,7 +335,7 @@ ArOH+NaOH->ArONa + H2O
 ### **a. Reaction with $NaNH_2$:**
 
 $$PhOH + Na^+NH_2^- \longrightarrow NH_3 + PhO^-Na^+$$
-Phenol ($pKa \approx 10$) is acidic enough to react with **Sodamide** ($NaNH_2$), which is an extremely strong base. The amide ion ($NH_2^-$) abstracts a proton from phenol to form ammonia and sodium phenoxide.
+- Phenol ($pKa \approx 10$) is acidic enough to react with **Sodamide** ($NaNH_2$), which is an extremely strong base. The amide ion ($NH_2^-$) abstracts a proton from phenol to form ammonia and sodium phenoxide.
 ### **b. Reaction with $NaHCO_3$:**
 
 -**No RXN** (No Reaction)
@@ -370,12 +370,87 @@ Conc. HNO₃ → picric acid
 
 Phenoxide + CO₂+NaOH → salicylic acid
 salicylic acid+CH3COOCOCH3(ethanoic anyhydride)-> aspirin (MOP)
+- **Mechanism**
+	### 1. Mechanism with $\text{NaOH}$ (Favors _ortho_-substitution)
+	
+	### **Reaction Steps**
+	
+	1. **Deprotonation:** Phenol reacts with sodium hydroxide ($\text{NaOH}$) to form sodium phenoxide.
+	    
+	2. **Nucleophilic Attack:** The phenoxide ion acts as a nucleophile. The note highlights that the nucleophilicity of the carbon carbanion center is greater than that of the oxygen center ($\text{Nu of } \text{C}^\ominus > \text{O}^\ominus$). The ring loses aromaticity during the attack on carbon dioxide ($\text{CO}_2$).
+	    
+	3. **Chelation / Solvation Effect:** The smaller sodium ion ($\text{Na}^+$) coordinates strongly between the phenoxide oxygen and the oxygen of the incoming $\text{CO}_2$ molecule, stabilizing the transition state specifically at the _ortho_ position.
+	    
+	4. **Tautomerization & Protonation:** The non-aromatic intermediate tautomerizes back to regain aromaticity, followed by acid workup ($\text{H}^+$) to yield **$o$-salicylic acid** as the major product.
+	    
+	
+	$$\text{Phenol} \xrightarrow{\text{NaOH}} \text{Sodium Phenoxide}$$
+	
+	$$\begin{aligned}
+	
+	\text{C}_6\text{H}_5\text{O}^-\text{Na}^+ + \text{CO}_2 &\longrightarrow \text{Intermediates (Non-Aromatic with } \text{Na}^+ \text{ chelation)} \
+	
+	&\rightleftharpoons \text{Sodium salicylate} \xrightarrow{\text{H}^+} \text{\textit{o}-salicylic acid (Major)}
+	
+	\end{aligned}$$
+	
+	### **Notes on Ion Properties from Image 1**
+	
+	- **Size:** $\text{Na}^+ < \text{K}^+$
+	    
+	- **Charge Density:** $\text{Na}^+ > \text{K}^+$
+	    
+	
+	## 2. Mechanism with $\text{KOH}$ (Favors _para_-substitution)
+	
+	### **Reaction Steps**
+	
+	1. **Deprotonation:** Phenol reacts with potassium hydroxide ($\text{KOH}$) to form potassium phenoxide.
+	    
+	2. **Nucleophilic Attack:** Because the potassium ion ($\text{K}^+$) is larger and has a lower charge density than $\text{Na}^+$, it cannot effectively form the tight, chelated six-membered cyclic transition state at the _ortho_ position.
+	    
+	3. **Steric & Electrostatic Driving Force:** The reaction instead proceeds primarily via the _para_ position to minimize electrostatic and steric repulsion, yielding a non-aromatic intermediate at the _para_ site.
+	    
+	4. **Tautomerization & Protonation:** Tautomerization restores the aromatic ring, and subsequent acidification ($\text{H}^+$) yields **$p$-salicylic acid** (4-hydroxybenzoic acid) as the major product.
+	    
+	
+	### **LaTeX Equations**
+	
+	$$\text{Phenol} \xrightarrow{\text{KOH}} \text{Potassium Phenoxide}$$
 
+$$\begin{aligned}
+
+\text{C}_6\text{H}_5\text{O}^-\text{K}^+ + \text{CO}_2 &\longrightarrow \text{\textit{para}-substituted Intermediate (Non-Aromatic)} \
+
+&\rightleftharpoons \text{Potassium \textit{p}-hydroxybenzoate} \xrightarrow{\text{H}^+} \text{\textit{p}-salicylic acid (Major)}
+
+\end{aligned}$$
 ---
 
 ### 6. Reimer–Tiemann Reaction
 
 Phenol + CHCl₃ + NaOH → salicylaldehyde (ortho major because of H-bonding)
+- **Mechanism**
+	### **1. Generation of Phenoxide Ion**
+	
+	Phenol reacts with sodium hydroxide ($\text{NaOH}$) to form a stable sodium phenoxide intermediate:
+	
+	$$\text{C}_6\text{H}_5\text{OH} + \text{NaOH} \longrightarrow \text{C}_6\text{H}_5\text{O}^-\text{Na}^+ + \text{H}_2\text{O}$$
+	
+	### **2. Generation of Dichlorocarbene (The Electrophile)**
+	
+	Chloroform ($\text{CHCl}_3$) undergoes a base-mediated reaction to generate the active attacking species:
+	
+	- **Deprotonation:** The hydroxide ion ($\text{OH}^-$) abstracts the acidic proton from chloroform to form a carbanion:
+	    
+	    $$\text{CHCl}_3 + \text{OH}^- \longrightarrow :\!\text{CCl}_3^- + \text{H}_2\text{O}$$
+	    
+	- **$\alpha$-Elimination:** The trichloromethyl carbanion loses a chloride ion ($\text{Cl}^-$) via $\alpha$-elimination to form **dichlorocarbene**:
+	    
+	    $$\!:\!\text{CCl}_3^- \xrightarrow{\alpha\text{-elimination}} \!:\!\text{CCl}_2 + \text{Cl}^-$$
+	    
+	
+> 	**Key Note from Image:** Dichlorocarbene ($\!:\!\text{CCl}_2$) acts as the **electrophile and attacking reagent** in this reaction due to its vacant orbital  and electron deficiency.
 
 ---
 
