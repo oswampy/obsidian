@@ -366,7 +366,7 @@ Conc. HNO₃ → picric acid
 
 ---
 
-### 5. Kolbe Reaction
+### 5. Kolbe Schmidt Reaction
 
 Phenoxide + CO₂+NaOH → salicylic acid
 salicylic acid+CH3COOCOCH3(ethanoic anyhydride)-> aspirin (MOP)
