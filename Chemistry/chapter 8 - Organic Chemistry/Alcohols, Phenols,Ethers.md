@@ -450,7 +450,9 @@ Phenol + CHCl₃ + NaOH → salicylaldehyde (ortho major because of H-bonding)
 	    $$\!:\!\text{CCl}_3^- \xrightarrow{\alpha\text{-elimination}} \!:\!\text{CCl}_2 + \text{Cl}^-$$
 	    
 	![[Pasted image 20260528162900.png]]
-> 	**Key Note from Image:** Dichlorocarbene ($\!:\!\text{CCl}_2$) acts as the **electrophile and attacking reagent** in this reaction due to its vacant orbital  and electron deficiency.
+Q-
+![[Pasted image 20260528163738.png]]
+
 
 
 ---
