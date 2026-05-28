@@ -491,6 +491,43 @@ The electron-rich C-2 position of the pyrrolyl anion attacks the electron-defici
 	
 > 	**Note on the Complete Abnormal Path:** > While standard substitution yields 2-formylpyrrole, this dichloromethyl intermediate near the nitrogen can also undergo ring expansion (via insertion of the carbene carbon into the $\text{C-N}$ or $\text{C-C}$ bond) to ultimately yield **3-chloropyridine** as the signature "abnormal" ring-expanded product.
 
+#Q
+This query represents the **Abnormal Reimer-Tiemann reaction** on **cyclopentadiene** (the 5-membered carbon ring analogue of pyrrole, i.e., "pyrrole compound without nitrogen"), reacting with the mixed haloform bromochlorofluoromethane ($\text{CH\textbf{Cl}\textbf{F}\textbf{Br}}$) in the presence of a base ($\text{KOH}$).
+
+- Answer
+	-### **1. Generation of the Carbene Electrophile**
+	
+	The hydroxide ion ($\text{OH}^-$) abstracts the acidic proton from to form a carbanion. An $\alpha$-elimination follows. To determine which halogen leaves, we rank their **leaving group ability**:
+	
+	$$\text{Br}^- > \text{Cl}^- > \text{F}^-$$
+	
+	Because bromide ($\text{Br}^-$) is the best leaving group, it is selectively eliminated to yield **chlorofluorocarbene** 
+	
+	
+	
+	### **2. Deprotonation of Cyclopentadiene**
+	
+	Cyclopentadiene is unusually acidic ($\text{p}K_a \approx 16$). The base easily deprotonates it to form the highly stable, aromatic **cyclopentadienyl anion**:
+	
+	$$\text{C}_5\text{H}_6 + \text{OH}^- \longrightarrow \text{C}_5\text{H}_5^- + \text{H}_2\text{O}$$
+	
+	### **3. Cyclopropanation and Ring Expansion**
+	
+	The electron-rich cyclopentadienyl anion attacks the electron-deficient chlorofluorocarbene , generating a fused, three-membered cyclopropane ring intermediate.
+	
+	To relieve severe ring strain and establish a highly stable 6-membered aromatic benzene network, the intermediate undergoes a concerted electrocyclic **ring expansion**. This requires a second halogen to act as a leaving group.
+	
+	Comparing the remaining halogens, **chlorine ($\text{Cl}^-$) is a much better leaving group than fluorine ($\text{F}^-$)**:
+	
+	$$\text{[Fused Intermediate]} \xrightarrow{-\,\text{Cl}^-} \text{\textbf{Fluorobenzene}}$$
+	
+	### **Final Major Product**
+	
+	Because $\text{Br}^-$ leaves first to form the carbene and $\text{Cl}^-$ leaves second to drive the ring expansion, the fluorine atom remains attached to the expanded ring framework.
+	
+	The final major product is **Fluorobenzene**:
+
+
 ---
 
 
