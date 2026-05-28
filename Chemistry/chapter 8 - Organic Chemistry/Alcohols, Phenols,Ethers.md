@@ -455,42 +455,39 @@ Q-
 ### **Abnormal Reimer-Tiemann Reaction** 
 
 
-	The pyrrole ring can undergo nucleophilic attack from two positions: **C-2 (Position 1, near the nitrogen)** which yields the **major product**, and **C-3 (Position 2)** which yields the minor product.
+The pyrrole ring can undergo nucleophilic attack from two positions: **C-2 (Position 1, near the nitrogen)** which yields the **major product**, and **C-3 (Position 2)** which yields the minor product.
 	
-	Below is the structured breakdown of the mechanism focusing on the attack at the **C-2 position** to form the major product intermediates.
+Below is the structured breakdown of the mechanism focusing on the attack at the **C-2 position** to form the major product intermediates.
 	
-	## 1. Generation of the Pyrrolyl Anion
+ 1. Generation of the Pyrrolyl Anion
+
+The hydroxide ion ($\text{OH}^-$) acts as a strong base, abstracting the acidic proton from the nitrogen atom of pyrrole to form the resonance-stabilized pyrrolyl anion.
+
+$$\text{C}_4\text{H}_4\text{NH} + \text{OH}^- \longrightarrow \text{C}_4\text{H}_4\text{N}^- + \text{H}_2\text{O}$$
+
+ 2. Resonance Structures & Regioselectivity (Attack at C-2)
+
+The negative charge delocalizes into the ring. Attack at the **C-2 position** (adjacent to the nitrogen) is favored over C-3 because the resulting transition state preserves a more stable conjugated system.
+
+The resonance movement leading to the major intermediate is:
+
+$$\text{[Nitrogen lone pair forms C=N bond]} \implies \text{[C=C double bond shifts charge to C-2 position]}$$
+
+ 3. Electrophilic Attack by Dichlorocarbene
+
+The electron-rich C-2 position of the pyrrolyl anion attacks the electron-deficient dichlorocarbene ($\!:\!\text{CCl}_2$).
+
+ **Step-by-Step Step Transition:**
+
+1. The lone pair localized on $\text{C-2}$ attacks the vacant orbital of $\!:\!\text{CCl}_2$, creating a non-aromatic intermediate with a negative charge on the dichloromethyl carbon:
 	
-	The hydroxide ion ($\text{OH}^-$) acts as a strong base, abstracting the acidic proton from the nitrogen atom of pyrrole to form the resonance-stabilized pyrrolyl anion.
+	$$\text{Pyrrolyl Anion (C-2 localized)} + \!:\!\text{CCl}_2 \longrightarrow \text{Intermediate with a } -\!\text{C}^\ominus\text{Cl}_2 \text{ group at C-2}$$
 	
-	$$\text{C}_4\text{H}_4\text{NH} + \text{OH}^- \longrightarrow \text{C}_4\text{H}_4\text{N}^- + \text{H}_2\text{O}$$
-	
-	## 2. Resonance Structures & Regioselectivity (Attack at C-2)
-	
-	The negative charge delocalizes into the ring. Attack at the **C-2 position** (adjacent to the nitrogen) is favored over C-3 because the resulting transition state preserves a more stable conjugated system.
-	
-	The resonance movement leading to the major intermediate is:
-	
-	$$\text{[Nitrogen lone pair forms C=N bond]} \implies \text{[C=C double bond shifts charge to C-2 position]}$$
-	
-	## 3. Electrophilic Attack by Dichlorocarbene
-	
-	The electron-rich C-2 position of the pyrrolyl anion attacks the electron-deficient dichlorocarbene ($\!:\!\text{CCl}_2$).
-	
-	### **Step-by-Step Step Transition:**
-	
-	1. The lone pair localized on $\text{C-2}$ attacks the vacant orbital of $\!:\!\text{CCl}_2$, creating a non-aromatic intermediate with a negative charge on the dichloromethyl carbon:
-	    
-	    $$\text{Pyrrolyl Anion (C-2 localized)} + \!:\!\text{CCl}_2 \longrightarrow \text{Intermediate with a } -\!\text{C}^\ominus\text{Cl}_2 \text{ group at C-2}$$
-	    
-	2. This intermediate immediately abstracts a proton ($\text{H}^+$) from the reaction medium (or via intra/intermolecular proton transfer) to neutralize the carbanion sidechain, yielding the **dichloromethyl derivative**:
+2. This intermediate immediately abstracts a proton ($\text{H}^+$) from the reaction medium (or via intra/intermolecular proton transfer) to neutralize the carbanion sidechain, yielding the **dichloromethyl derivative**:
 	    
 	    $$\text{Intermediate} \xrightarrow{\text{Protonation}} \text{2-(dichloromethyl)-2H-pyrrole intermediate}$$
 	    
-	
-	### **LaTeX Reaction Summary:**
-	
-	$$\text{C}_4\text{H}_4\text{N}^- + \!:\!\text{CCl}_2 \longrightarrow [\text{C}_4\text{H}_4\text{N}\cdot\text{CCl}_2]^- \xrightarrow{\text{H}^+} \text{C}_4\text{H}_4\text{N}(\text{CHCl}_2)$$
+
 	
 > 	**Note on the Complete Abnormal Path:** > While standard substitution yields 2-formylpyrrole, this dichloromethyl intermediate near the nitrogen can also undergo ring expansion (via insertion of the carbene carbon into the $\text{C-N}$ or $\text{C-C}$ bond) to ultimately yield **3-chloropyridine** as the signature "abnormal" ring-expanded product.
 
