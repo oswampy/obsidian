@@ -51,11 +51,11 @@ $$\text{alcohol} > \text{ketone} > \text{aldehyde} > \text{ether} > \text{hydroc
     $$\text{R}-\text{COOH} + \text{R}-\text{COOH} \xrightarrow[300^\circ\text{C}]{\text{MnO}} \text{R}-\overset{\overset{\text{O}}{\parallel}}{\text{C}}-\text{R} + \text{CO}_2 + \text{H}_2\text{O}$$
     
 
-## **Periodic Acid Oxidation (Malaprade Reaction)**
+### **Periodic Acid Oxidation (Malaprade Reaction)**
 
 Periodic acid ($\text{HIO}_4$) is a highly selective oxidizing agent used to cleave carbon-carbon bonds in specific adjacent (vicinal) configurations.
 
-### **Functional Groups Cleaved:**
+#### **Functional Groups Cleaved:**
 
 - **Vicinal diols (1,2-diols):** $\begin{matrix} \text{C}-\text{OH} \\ \mid \\ \text{C}-\text{OH} \end{matrix}$
     
@@ -66,7 +66,7 @@ Periodic acid ($\text{HIO}_4$) is a highly selective oxidizing agent used to cle
 - **$\alpha$-amino alcohols:** $\begin{matrix} \text{C}-\text{OH} \\ \mid \\ \text{C}-\text{NH}_2 \end{matrix}$
     
 
-### **Groups Immune to Cleavage:**
+#### **Groups Immune to Cleavage:**
 
 - **Ether derivatives:** $\begin{matrix} \text{C}-\text{OH} \\ \mid \\ \text{C}-\text{OR} \end{matrix}$ or $\begin{matrix} \text{C}-\text{OR} \\ \mid \\ \text{C}-\text{OR} \end{matrix}$
     
@@ -75,7 +75,7 @@ Periodic acid ($\text{HIO}_4$) is a highly selective oxidizing agent used to cle
 - **_trans_-1,2-diols** locked on rigid ring systems where the two hydroxyl groups are physically too far apart to interact with the reagent.
     
 
-### **Mechanism and The "OH Addition" Rule**
+#### **Mechanism and The "OH Addition" Rule**
 
 The reaction proceeds via a coordinate step where a **5-membered cyclic iodine ester intermediate** is formed.
 
@@ -85,7 +85,7 @@ If a single carbon atom ends up with multiple $-\text{OH}$ groups, it is unstabl
 
 $$\text{Polyol Chain} \xrightarrow{\text{HIO}_4} 5\text{HCOOH} + \text{HCHO}$$
 
-## **Section 5: Specific Synthesis of Aldehydes**
+## **Specific Synthesis of Aldehydes**
 
 1. **Rosenmund Reduction:** An acyl chloride is selectively reduced to an aldehyde using hydrogen gas over a palladium catalyst supported by barium sulfate ($\text{Pd/BaSO}_4$). The barium sulfate acts to "poison" or deactivate the palladium, preventing the highly reactive aldehyde product from being further reduced into a primary alcohol:
     
