@@ -20,7 +20,7 @@ sticker: lucide//quote
 'Learning never exhausts the mind'
 -Leonardo da Vinci
 
-'Any fool can know , the point is to understand'
+'Any fool can know, the point is to understand'
 -Albert Einstein
 
 'If you cannot do great things, do small things in a great way'
