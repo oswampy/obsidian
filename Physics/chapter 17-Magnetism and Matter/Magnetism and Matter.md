@@ -175,3 +175,41 @@ $$B = \frac{\mu_0}{4\pi} \frac{m}{r^2}$$
     
 - It can be visually mapped by the density of field lines (closer lines = stronger $B$).
 
+## Magnetic Dipole Moment for a Revolving Electron
+
+If an electron is revolving in an orbit, its motion constitutes a tiny electric current loop, which produces a magnetic moment.
+
+### Step-by-step Derivation
+
+#### 1. Time Period of Revolution
+
+For 1 complete revolution of an electron moving with velocity $v$ in a circular orbit of radius $r$, the time period $T$ is given by:
+
+$$T = \frac{2\pi r}{v}$$
+
+#### 2. Equivalent Electric Current
+
+Electric current ($I$) is defined as the rate of flow of charge. Since the charge of an electron is $e$:
+
+$$I = \frac{q}{T} = \frac{e}{T}$$
+
+#### 3. Magnetic Moment Calculation
+
+The magnetic dipole moment ($M$) of a current loop is given by:
+
+$$M = I \cdot A$$
+
+Where $A$ is the area of the circular orbit ($A = \pi r^2$).
+
+Substituting the expressions for $I$ and $T$:
+
+$$M = \left( \frac{e}{\frac{2\pi r}{v}} \right) \cdot \pi r^2$$
+
+$$M = \frac{e \cdot v}{2\pi r} \cdot \pi r^2$$
+
+Simplifying by canceling out common terms ($\pi$ and $r$):
+
+$$M = \frac{evr}{2}$$
+
+
+
