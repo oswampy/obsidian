@@ -45,3 +45,47 @@ $$\vec{M} = q_m \cdot 2\vec{l}$$
     The magnetic moment can also be expressed for a current loop as: 
     $$M = I \cdot A$$
     Where $I$ is the current and $A$ is the area of the loop.
+## Cutting of Magnet
+
+Let the original bar magnet have a pole strength $m$ and an effective length $2l$.
+
+Its initial magnetic moment is given by:
+
+$$M = m \cdot 2l$$
+
+### a) Cutting along the length of magnet
+
+When a bar magnet is cut longitudinally (lengthwise) into two equal halves along its principal axis:
+
+- **Pole Strength:** The cross-sectional area of each pole is halved, so the pole strength of each piece becomes half of the original:
+    
+    $$m' = \frac{m}{2}$$
+    
+- **Length:** The length of each piece remains unchanged:
+    
+    $$(2l)' = 2l$$
+    
+
+**New Magnetic Moment ($M'$):**
+
+$$M' = \frac{m}{2} \times 2l$$
+
+$$M' = m \cdot l = \frac{M}{2}$$
+
+### b) Cutting perpendicular to the length of magnet
+
+When a bar magnet is cut transversely (transverse slice) into two equal halves perpendicular to its length:
+
+- **Pole Strength:** The cross-sectional area of the poles remains the same, so the pole strength is unchanged:
+    
+    $$m' = m$$
+    
+- **Length:** The length of each piece becomes half of the original length:
+    
+    $$(2l)' = l$$
+    
+
+**New Magnetic Moment ($M'$):**
+
+$$M' = m \cdot l = \frac{M}{2}$$
+
