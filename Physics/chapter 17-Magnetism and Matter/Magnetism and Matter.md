@@ -42,7 +42,7 @@ $$\vec{M} = q_m \cdot 2\vec{l}$$
 - **Electric Dipole Analogy:** Comparing a magnetic dipole to an electric dipole where charges $-q$ and $+q$ are separated by a distance $2l$:
     $$p = q \cdot 2l$$
 - **For a Current-Carrying Loop:**
-    The magnetic moment can also be expressed for a current loop as:
+    The magnetic moment can also be expressed for a current loop as: 
     $$M = I \cdot A$$
     
     Where $I$ is the current and $A$ is the area of the loop.
