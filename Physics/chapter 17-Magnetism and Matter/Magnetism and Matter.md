@@ -212,4 +212,14 @@ Simplifying by canceling out common terms ($\pi$ and $r$):
 $$M = \frac{evr}{2}$$
 
 
+---
+Questions
+**Q:** A closely wound solenoid of $800$ turns and carrying a current of $4\text{ A}$ having area of cross-section $2.5 \times 10^{-4}\text{ m}^2$. If it can be treated as a bar magnet, then find its magnetic moment.
 
+**Ans:** Given: $N = 800$, $I = 4\text{ A}$, $A = 2.5 \times 10^{-4}\text{ m}^2$
+
+Formula: $M = N \cdot I \cdot A$
+
+Calculation: $M = 800 \times 4 \times (2.5 \times 10^{-4}) = 8000 \times 10^{-4} = 0.8\text{ A}\cdot\text{m}^2$
+
+Correct Option: **(C)**
