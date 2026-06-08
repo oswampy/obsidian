@@ -122,3 +122,56 @@ $$F = \frac{\mu_0}{4\pi} \frac{m_1 m_2}{r^2}$$
 	- $r$ = Distance between the two poles
 	    
 	- $\frac{\mu_0}{4\pi}$ = Proportionality constant (where $\mu_0$ is the permeability of free space, equal to $4\pi \times 10^{-7} \text{ T}\cdot\text{m/A}$)
+
+
+## Magnetic Field Intensity / Magnetic Induction ($\vec{B}$)
+
+It describes the actual strength and direction of the magnetic field at any given point in space and determines the force exerted on moving charges or magnetic poles.
+
+### 1. Definition via Magnetic Force (Lorentz Force)
+
+The fundamental way to define $\vec{B}$ is by looking at the magnetic force ($\vec{F}$) it exerts on a charge $q$ moving with a velocity $\vec{v}$:
+
+$$\vec{F} = q(\vec{v} \times \vec{B})$$
+
+In terms of magnitude:
+
+$$F = qvB\sin\theta$$
+
+Where $\theta$ is the angle between the velocity vector $\vec{v}$ and the magnetic field vector $\vec{B}$. If we rearrange this to isolate $B$:
+
+$$B = \frac{F}{qv\sin\theta}$$
+
+> **Physical Definition:** Magnetic field intensity $B$ at a point is numerically equal to the force experienced by a unit charge moving with unit velocity perpendicular to the direction of the magnetic field.
+
+### 2. Definition via Pole Strength (Coulomb's Law Analogy)
+
+
+The magnetic field intensity $\vec{B}$ at a point is the magnetic force experienced per unit pole strength placed at that point:
+
+$$\vec{B} = \frac{\vec{F}}{m_0}$$
+
+If you calculate the field at a distance $r$ from a single isolated pole of strength $m$:
+
+$$B = \frac{\mu_0}{4\pi} \frac{m}{r^2}$$
+
+### 3. Units of $B$
+
+- **SI Unit:** **Tesla (T)**
+    $$1 \text{ T} = 1 \text{ N}\cdot\text{A}^{-1}\cdot\text{m}^{-1} = 1 \text{ Wb/m}^2$$
+    
+- **CGS Unit:** **Gauss (G)**
+    
+- **Conversion Factor:**
+    
+    $$1 \text{ Tesla} = 10^4 \text{ Gauss}$$
+    
+
+### 4. Key Properties
+
+- It is a **vector quantity**.
+    
+- **Direction:** Outside a magnet, the direction of $\vec{B}$ is away from the North pole and toward the South pole. The tangent drawn at any point on a magnetic field line gives the direction of $\vec{B}$ at that point.
+    
+- It can be visually mapped by the density of field lines (closer lines = stronger $B$).
+
