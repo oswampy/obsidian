@@ -89,3 +89,36 @@ When a bar magnet is cut transversely (transverse slice) into two equal halves p
 
 $$M' = m \cdot l = \frac{M}{2}$$
 
+## Coulomb's Law in Magnetism
+
+Coulomb stated that the force between two magnetic poles is directly proportional to the product of their pole strengths and inversely proportional to the square of the distance between them.
+
+This force could be **repulsive or attractive** in nature (like poles repel, unlike poles attract).
+
+### Mathematical Derivation
+
+Let $m_1$ and $m_2$ be the pole strengths of two magnetic poles separated by a distance $r$.
+
+- **Proportionality to pole strengths:**
+    $$F \propto m_1 m_2$$
+    
+- **Inverse-square dependency on distance:**
+$$F \propto \frac{1}{r^2}$$
+Combining both relationships:
+
+$$F \propto \frac{m_1 m_2}{r^2}$$
+
+### Vector Formula
+
+By introducing a constant of proportionality, the equation becomes:
+
+$$F = \frac{\mu_0}{4\pi} \frac{m_1 m_2}{r^2}$$
+
+- Where:
+	- $F$ = Magnetic force between the poles
+	    
+	- $m_1, m_2$ = Pole strengths
+	    
+	- $r$ = Distance between the two poles
+	    
+	- $\frac{\mu_0}{4\pi}$ = Proportionality constant (where $\mu_0$ is the permeability of free space, equal to $4\pi \times 10^{-7} \text{ T}\cdot\text{m/A}$)
