@@ -44,5 +44,4 @@ $$\vec{M} = q_m \cdot 2\vec{l}$$
 - **For a Current-Carrying Loop:**
     The magnetic moment can also be expressed for a current loop as: 
     $$M = I \cdot A$$
-    
     Where $I$ is the current and $A$ is the area of the loop.
