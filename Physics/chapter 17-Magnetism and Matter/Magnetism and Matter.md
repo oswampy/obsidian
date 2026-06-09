@@ -464,6 +464,19 @@ The sign and magnitude of $\chi_m$ tell us how a material will respond to an ext
     
 - **Random Thermal Motion:** In the absence of an external magnetic field, these atomic dipoles are oriented completely at random due to thermal agitation. As a result, their magnetic moments cancel each other out, making the **net macroscopically observed dipole moment equal to zero**
 
+- **Magnetic Field Enhancement:** When placed in an external magnetic field, the net internal magnetic field increases slightly.
+    
+- **Relative Permeability ($\mu_r$):** It is **slightly greater than one** ($\mu_r > 1$).
+    
+- **Magnetization Behavior:** They get feebly (weakly) magnetized in the same direction as the external magnetic field.
+    
+- **Field Line Interaction:** Magnetic field lines are weakly attracted and tend to concentrate slightly inside a paramagnetic sample.
+    
+- **Mechanical Tendency:** If placed in a non-uniform magnetic field, these materials experience a weak force pulling them from regions of **weak magnetic field to strong magnetic field**.
+    
+- **Magnetic Susceptibility ($\chi_m$):** It is **slightly positive** ($\chi > 0$).
+    
+- **Common Examples:** Aluminium ($\text{Al}$), Chromium ($\text{Cr}$).
 ### Behavior in an External Field
 
 When an external magnetic field ($B_0$) is applied:
