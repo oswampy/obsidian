@@ -319,3 +319,34 @@ $$H = \frac{B_0}{\mu_0}$$
 ### Units of $H$
 
 - **SI Unit:** **$\text{A}\cdot\text{m}^{-1}$** (Ampere per meter)
+
+## Intensity of Magnetization ($I$ or $M$)
+
+**Intensity of Magnetization** measures the extent to which a magnetic material gets magnetized when placed in an external magnetizing field. It represents the degree of alignment of atomic magnetic dipoles within the material.
+
+### Mathematical Formulas
+
+There are two equivalent ways to define and calculate it mathematically:
+
+1. **Per Unit Volume Definition:**
+    
+    It is defined as the net magnetic dipole moment ($M$) developed per unit volume ($V$) of the material.
+    
+    $$I = \frac{\text{Magnetic moment}}{\text{Volume}} = \frac{M}{V}$$
+    
+2. **Per Unit Area Definition:**
+    
+    For a uniform bar magnet, it can also be expressed as the magnetic pole strength ($m$) developed per unit cross-sectional area ($A$).
+    
+    $$I = \frac{\text{pole strength}}{\text{Area of cross-section}} = \frac{m}{A}$$
+    
+
+#### Derivation Connection:
+
+$$I = \frac{M}{V} = \frac{m \times l}{A \times l} = \frac{m}{A}$$
+
+_(Where $l$ is the geometric length/distance between poles)._
+
+### Units of I
+
+- **SI Unit:** **$\text{A}\cdot\text{m}^{-1}$** (Ampere per meter)
