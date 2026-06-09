@@ -484,3 +484,75 @@ When an external magnetic field ($B_0$) is applied:
 1. The field exerts a torque on the permanent atomic dipoles, trying to align them along the direction of the field lines.
     
 2. At room temperature, thermal motion partially disrupts this alignment, resulting in a weak net alignment parallel to the field.
+
+---
+
+## Diamagnetic Materials
+
+**Diamagnetic Materials** are substances that develop a feeble (weak) magnetization in a direction opposite to that of an external magnetizing field. When placed in a non-uniform magnetic field, they experience a weak repulsive force that pushes them from stronger parts to weaker parts of the field.
+
+### Key Properties & Atomic Origin
+
+- **Paired Electrons:** Diamagnetism is a fundamental property found in all materials, but it is dominant in substances where the atoms, ions, or molecules have completely **paired electrons**.
+    
+- **Zero Intrinsic Dipole Moment:** Because the electrons are completely paired up, their orbital and spin magnetic moments cancel each other out perfectly. Consequently, individual constituent atoms of a diamagnetic material **possess no permanent magnetic dipole moment** of their own.
+    
+- **Induced Opposition:** When an external magnetic field is applied, the orbital motion of the electrons shifts (in accordance with Lenz's Law). This induces a weak magnetic dipole moment in each atom that strictly **opposes the applied field**.
+
+- **Magnetic Field Reduction:** When placed in an external magnetic field, the net internal magnetic field decreases slightly.
+    
+- **Relative Permeability ($\mu_r$):** It is **slightly less than one** ($\mu_r < 1$).
+    
+- **Magnetization Behavior:** They get feebly (weakly) magnetized in the **direction opposite** to the external magnetic field.
+    
+- **Field Line Interaction:** Magnetic field lines are weakly repelled by diamagnetic materials; the lines prefer to pass around and avoid the sample.
+    
+- **Mechanical Tendency:** If placed in a non-uniform magnetic field, these materials have a tendency to move from a **region of strong magnetic field to a weak magnetic field**.
+    
+- **Magnetic Susceptibility ($\chi_m$):** It is **slightly negative** ($\chi_m < 0$) and independent of temperature.
+    
+- **Common Examples:** Copper ($\text{Cu}$), Lead ($\text{Pb}$), Water, Bismuth, Silicon.
+
+### Behavior in an External Field
+
+When a diamagnetic material is placed in an external magnetic field ($B_0$):
+
+1. An induced magnetic dipole moment is developed within the atoms, oriented strictly in opposition to the applied field.
+    
+2. Because of this internal opposition, the magnetic field lines find it more difficult to pass through the material compared to free space, causing them to spread out and pass around the sample.
+
+
+## Ferromagnetic Materials
+
+**Ferromagnetic Materials** are substances that get strongly magnetized in the direction of an external magnetizing field. When placed in a non-uniform magnetic field, they experience a strong attractive force that pulls them quickly from weaker parts to stronger parts of the field.
+
+### Key Properties & Atomic Origin
+
+- **Domain Structure:** The atoms of ferromagnetic materials possess permanent magnetic dipole moments (similar to paramagnetic materials due to unpaired electrons). However, they interact with neighboring atoms through strong quantum mechanical forces, causing them to align spontaneously over tiny microscopic regions called **magnetic domains**.
+    
+- **Random Domain Orientation (Unmagnetized State):** In the absence of an external magnetic field, different domains are oriented in completely random directions. Even though each domain is highly magnetized internally, the macroscopic **net dipole moment of the entire material remains zero**.
+    
+- **Strong Domain Alignment (Magnetized State):** When an external magnetic field is applied, the domains aligned with the field grow larger, and other domains rotate to align parallel to the external field. This produces a massive net magnetization.
+
+- **Magnetic Field Amplification:** When placed in an external magnetic field, the net internal magnetic field increases dramatically.
+    
+- **Relative Permeability ($\mu_r$):** It is **extremely large** ($\mu_r \gg 1$, typically on the order of hundreds or thousands).
+    
+- **Magnetization Behavior:** They get strongly magnetized in the **same direction** as the external magnetic field.
+    
+- **Field Line Interaction:** Magnetic field lines are strongly attracted by ferromagnetic materials; the lines crowd together and concentrate densely inside the sample.
+    
+- **Mechanical Tendency:** If placed in a non-uniform magnetic field, these materials have a strong tendency to move quickly from a **region of weak magnetic field to a strong magnetic field**.
+    
+- **Magnetic Susceptibility ($\chi_m$):** It is **large and positive** ($\chi_m \gg 0$) and decreases with an increase in temperature according to the Curie-Weiss law.
+    
+- **Common Examples:** Iron ($\text{Fe}$), Cobalt ($\text{Co}$), Nickel ($\text{Ni}$), Gadolinium ($\text{Gd}$).
+    
+
+### Behavior in an External Field
+
+When a ferromagnetic material is placed in an external magnetic field ($B_0$):
+
+1. The external field forces the pre-existing magnetic domains to line up perfectly parallel to the field lines.
+    
+2. This massive internal alignment acts like a booster, pulling almost all nearby magnetic field lines straight through the core of the material.
