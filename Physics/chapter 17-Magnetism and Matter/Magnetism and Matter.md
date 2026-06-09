@@ -511,7 +511,7 @@ When an external magnetic field ($B_0$) is applied:
     
 - **Magnetic Susceptibility ($\chi_m$):** It is **slightly negative** ($\chi_m < 0$) and independent of temperature.
     
-- **Common Examples:** Copper ($\text{Cu}$), Lead ($\text{Pb}$), Water, Bismuth, Silicon.
+- **Common Examples:** Copper ($\text{Cu}$), Lead ($\text{Pb}$), Water, Bismuth, Silicon,Gold,Si.
 
 ### Behavior in an External Field
 
