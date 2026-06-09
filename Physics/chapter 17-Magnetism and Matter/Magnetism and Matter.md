@@ -284,3 +284,38 @@ Because monopoles do not exist, magnetic field lines do not start or stop at a s
     
 
 > **Physical Meaning:** For any arbitrary closed surface, the number of magnetic field lines entering the surface will always be exactly equal to the number of field lines exiting that surface. No lines can originate or terminate inside the volume.
+
+
+Here are the quick-reference notes and definitions based on the terminologies shown in your latest screenshot.
+
+## Magnetizing Intensity ($H$)
+
+**Magnetizing Intensity** (also called magnetic field strength) measures the capability of an external factor (like a current-carrying solenoid) to induce magnetism in a material medium.
+
+It depends entirely on the external currents producing the field and is independent of the nature of the medium inside.
+
+### Mathematical Formula
+
+For a core inside a long solenoid with $n$ turns per unit length carrying a current $I$:
+
+$$B_0 = \mu_0 n I$$
+
+Since $H = n I$, the magnetic induction in a vacuum ($B_0$) can be written as:
+
+$$B_0 = \mu_0 H$$
+
+Isolating $H$:
+
+$$H = \frac{B_0}{\mu_0}$$
+
+- Where:
+	- $H$ = Magnetizing intensity
+	    
+	- $B_0$ = Magnetic flux density (magnetic induction) in free space
+	    
+	- $\mu_0$ = Permeability of free space ($4\pi \times 10^{-7} \text{ T}\cdot\text{m/A}$)
+
+
+### Units of $H$
+
+- **SI Unit:** **$\text{A}\cdot\text{m}^{-1}$** (Ampere per meter)
