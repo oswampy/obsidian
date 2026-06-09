@@ -179,21 +179,20 @@ $$B = \frac{\mu_0}{4\pi} \frac{m}{r^2}$$
 
 If an electron is revolving in an orbit, its motion constitutes a tiny electric current loop, which produces a magnetic moment.
 
-### Step-by-step Derivation
-
-#### 1. Time Period of Revolution
+ Step-by-step Derivation
+1. Time Period of Revolution
 
 For 1 complete revolution of an electron moving with velocity $v$ in a circular orbit of radius $r$, the time period $T$ is given by:
 
 $$T = \frac{2\pi r}{v}$$
 
-#### 2. Equivalent Electric Current
+ 2. Equivalent Electric Current
 
 Electric current ($I$) is defined as the rate of flow of charge. Since the charge of an electron is $e$:
 
 $$I = \frac{q}{T} = \frac{e}{T}$$
 
-#### 3. Magnetic Moment Calculation
+ 3. Magnetic Moment Calculation
 
 The magnetic dipole moment ($M$) of a current loop is given by:
 
@@ -258,4 +257,30 @@ $$F \times 0.1 = 0.375 \implies F = 3.75\text{ N}$$
     $$\tau = 0.5 \times \sin 60^\circ =  \frac{\sqrt{3}}{4} $$
 
 ---
-gauss law
+## Gauss's Law in Magnetism
+
+Gauss's Law for magnetism states that the net magnetic flux ($\phi_{\text{net}}$) through any closed surface is always equal to zero.
+
+$$\phi_{\text{net}} = \oint \vec{B} \cdot d\vec{A} = 0$$
+
+### Key Concept: Non-Existence of Magnetic Monopoles
+
+Unlike electrostatics—where isolated positive or negative charges can exist independently—**isolated magnetic poles (monopoles) do not exist** in nature. Magnetic poles always occur in equal and opposite pairs (North and South).
+
+- If you break a bar magnet in half, you do not separate the North pole from the South pole; instead, you get two smaller magnets, each possessing its own North and South poles.
+    
+- Because every North pole is inextricably linked with a South pole, any closed Gaussian surface enclosing part of or an entire magnet will always contain a net magnetic pole strength of zero ($m_{\text{net}} = 0$).
+
+
+### Field Line Behavior
+
+Because monopoles do not exist, magnetic field lines do not start or stop at a single point.
+
+- They form continuous, closed loops.
+    
+- Outside a magnet, they travel from the North pole to the South pole.
+    
+- Inside a magnet, they continue from the South pole back to the North pole.
+    
+
+> **Physical Meaning:** For any arbitrary closed surface, the number of magnetic field lines entering the surface will always be exactly equal to the number of field lines exiting that surface. No lines can originate or terminate inside the volume.
