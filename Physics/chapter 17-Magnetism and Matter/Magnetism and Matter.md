@@ -402,38 +402,27 @@ $$\chi_m = \frac{I}{H}$$
     
     $$\mu_r = 1 + \chi_m$$
 #Derivation 
-
  Step 1: Total Magnetic Induction ($B$)
 
 When a magnetic material is placed inside an external magnetizing field, the total magnetic field $B$ inside the material is the sum of the external magnetic field in free space ($B_0$) and the magnetic field induced due to the magnetization of the material ($B_m$):
 
-$$B = B_0 + B_m$
-### Step 2: Substitute Field Relations
+$$B = B_0 + B_m$$
+
+ Step 2: Substitute Field Relations
 
 We know from the definitions of magnetizing intensity ($H$) and intensity of magnetization ($I$):
-
 - $B_0 = \mu_0 H$
-    
 - $B_m = \mu_0 I$
-    
-
-Substitute these into the equation from Step 1:
 
 $$B = \mu_0 H + \mu_0 I$$
 
 $$B = \mu_0(H + I)$$
-
-### Step 3: Introduce Permeability and Susceptibility
+ Step 3: Introduce Permeability and Susceptibility
 
 1. By definition, the total magnetic field inside a medium with absolute permeability $\mu_m$ is:
-    
     $$B = \mu_m H$$
-    
 2. By definition, the intensity of magnetization is related to magnetic susceptibility ($\chi_m$) by:
-    
     $$I = \chi_m H$$
-    
-
 ### Step 4: Combine and Simplify
 
 Substitute $B$ and $I$ back into the factored equation from Step 2:
@@ -451,6 +440,8 @@ $$\frac{\mu_m}{\mu_0} = 1 + \chi_m$$
 Since relative permeability is defined as $\mu_r = \frac{\mu_m}{\mu_0}$:
 
 $$\mu_r = 1 + \chi_m$$
+
+---
 ### Values for Different Materials
 
 The sign and magnitude of $\chi_m$ tell us how a material will respond to an external magnetic field:
@@ -460,3 +451,23 @@ The sign and magnitude of $\chi_m$ tell us how a material will respond to an ext
 - **Paramagnetic Materials:** Have a **small, positive** value ($\chi_m > 0$). They are weakly magnetized in the same direction as the external field.
     
 - **Ferromagnetic Materials:** Have a **large, positive** value ($\chi_m \gg 0$). They get strongly magnetized in the direction of the external field.
+
+## Paramagnetic Materials
+
+**Paramagnetic Materials** are substances that get feebly (weakly) magnetized in the direction of an external magnetizing field. When placed in a non-uniform magnetic field, they tend to move slowly from weaker parts to stronger parts of the field.
+
+### Key Properties & Atomic Origin
+
+- **Unpaired Electrons:** Paramagnetism arises primarily due to the presence of **unpaired electrons** in the atoms, ions, or molecules of the material. The spin of these unpaired electrons provides a net intrinsic magnetic moment.
+    
+- **Permanent Atomic Dipoles:** Unlike diamagnetic substances, the individual constituent atoms of a paramagnetic material **possess a permanent magnetic dipole moment** of their own.
+    
+- **Random Thermal Motion:** In the absence of an external magnetic field, these atomic dipoles are oriented completely at random due to thermal agitation. As a result, their magnetic moments cancel each other out, making the **net macroscopically observed dipole moment equal to zero**
+
+### Behavior in an External Field
+
+When an external magnetic field ($B_0$) is applied:
+
+1. The field exerts a torque on the permanent atomic dipoles, trying to align them along the direction of the field lines.
+    
+2. At room temperature, thermal motion partially disrupts this alignment, resulting in a weak net alignment parallel to the field.
