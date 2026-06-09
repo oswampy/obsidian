@@ -511,7 +511,7 @@ When an external magnetic field ($B_0$) is applied:
     
 - **Magnetic Susceptibility ($\chi_m$):** It is **slightly negative** ($\chi_m < 0$) and independent of temperature.
     
-- **Common Examples:** Copper ($\text{Cu}$), Lead ($\text{Pb}$), Water, Bismuth, Silicon,Gold,Si.
+- **Common Examples:** Copper ($\text{Cu}$), Lead ($\text{Pb}$), Water, Bismuth, Silicon,Gold,Silver,Mercury.
 
 ### Behavior in an External Field
 
@@ -556,3 +556,114 @@ When a ferromagnetic material is placed in an external magnetic field ($B_0$):
 1. The external field forces the pre-existing magnetic domains to line up perfectly parallel to the field lines.
     
 2. This massive internal alignment acts like a booster, pulling almost all nearby magnetic field lines straight through the core of the material.
+
+
+The user has uploaded a new image (`image_28aa5f.jpg`) showing a slide about the **Effect of Temperature on Magnetic Materials**. Here is the summary of **Curie's Law for Paramagnetic Materials** structured in the same style as your previous study notes.
+
+---
+## Effect of Temperature on Paramagnetic Materials (Curie's Law)
+
+**Curie's Law** describes how the magnetic susceptibility of a paramagnetic material changes with absolute temperature. It states that the magnetic susceptibility ($\chi$) of a paramagnetic substance is inversely proportional to its absolute temperature ($T$).
+
+### Mathematical Expression
+
+$$\chi \propto \frac{1}{T}$$
+
+To remove the proportionality sign, we introduce a constant called **Curie's Constant ($C$)**:
+
+$$\chi = \frac{C}{T}$$
+
+Since we know that magnetic susceptibility is also defined as $\chi = \frac{I}{H}$, we can equate the expressions:
+
+$$\frac{C}{T} = \frac{I}{H} \implies I = \frac{HC}{T}$$
+
+From this relationship, it follows that the intensity of magnetization ($I$) is inversely proportional to temperature:
+
+$$I \propto \frac{1}{T}$$
+
+- Where:
+	
+	- $\chi$ = Magnetic susceptibility
+	    
+	- $T$ = Absolute temperature (measured in Kelvin)
+	    
+	- $C$ = Curie's constant (characteristic of the material)
+	    
+	- $I$ = Intensity of magnetization
+	    
+	- $H$ = Magnetizing intensity
+### Physical Explanation
+
+The alignment of atomic magnetic dipoles in a paramagnetic material is a battle between two competing factors:
+
+1. **The External Magnetic Field ($H$):** Tries to align the atomic dipoles parallel to the field lines to increase magnetization.
+    
+2. **Thermal Agitation (Temperature $T$):** Randomizes the orientation of the atomic dipoles due to thermal kinetic energy, disrupting the alignment.
+    
+
+- **At Low Temperatures:** Thermal agitation is weak, allowing the external field to successfully align more dipoles, resulting in higher magnetic susceptibility ($\chi$).
+    
+- **At High Temperatures:** Thermal agitation becomes very high, violently shaking the atomic dipoles out of alignment, causing the magnetic susceptibility ($\chi$) to drop.
+    
+
+### Graphical Representation
+
+A plot of magnetic susceptibility ($\chi$) versus absolute temperature ($T$) forms a **rectangular hyperbola**, showing that $\chi$ drops rapidly as the material gets hotter.
+
+
+Here is how temperature affects **Diamagnetic** and **Ferromagnetic** materials:
+
+## Effect of Temperature on Diamagnetic Materials
+
+Unlike paramagnetic substances, the magnetic susceptibility ($\chi$) of diamagnetic materials is **completely independent of temperature**.
+
+### Physical Explanation
+
+- Diamagnetism does not rely on permanent atomic dipoles that can be disrupted by heat.
+    
+- Instead, it arises from the **induced orbital motion of paired electrons** when an external field is applied.
+    
+- Because this induction is a direct consequence of electromagnetic interactions at the atomic level (governed by Lenz's Law), thermal shaking has no effect on it.
+    
+
+### Graphical Representation
+
+A plot of magnetic susceptibility ($\chi$) versus absolute temperature ($T$) for a diamagnetic material is a **straight horizontal line** in the negative region.
+
+## Effect of Temperature on Ferromagnetic Materials (Curie-Weiss Law)
+
+The magnetic susceptibility of a ferromagnetic material **decreases with an increase in temperature**. When heated past a certain critical threshold, a ferromagnetic material loses its strong magnetic properties entirely and transitions into a standard **paramagnetic material**.
+
+### Critical Temperature: The Curie Point ($T_C$)
+
+The specific temperature at which a ferromagnetic material transitions into a paramagnetic material is called the **Curie Temperature ($T_C$)**.
+
+- **Below $T_C$ ($T < T_C$):** The material remains ferromagnetic. The strong quantum mechanical interactions keep the magnetic domains locked in alignment.
+    
+- **Above $T_C$ ($T > T_C$):** The thermal energy is high enough to completely break the domain structure. The domains dissolve, leaving behind randomly oriented permanent atomic dipoles. The material now behaves exactly like a **paramagnetic material**.
+    
+
+### Mathematical Expression (The Curie-Weiss Law)
+
+For temperatures above the Curie point ($T > T_C$), the magnetic susceptibility follows the **Curie-Weiss Law**:
+
+$$\chi = \frac{C}{T - T_C}$$
+
+- Where:
+	- $\chi$ = Magnetic susceptibility (in the paramagnetic phase)
+	    
+	- $C$ = Curie's constant
+	    
+	- $T$ = Absolute temperature of the material
+	    
+	- $T_C$ = Curie temperature of the specific material
+
+### Curie Temperatures of Common Materials
+
+- **Iron ($\text{Fe}$):** $T_C \approx 1043\text{ K}$ ($770^\circ\text{C}$)
+- **Nickel ($\text{Ni}$):** $T_C \approx 627\text{ K}$ ($354^\circ\text{C}$)
+- **Cobalt ($\text{Co}$):** $T_C \approx 1388\text{ K}$ ($1115^\circ\text{C}$)
+
+### Graphical Representation
+
+A plot of magnetic susceptibility ($\chi$) versus temperature ($T$) shows high, changing values in the ferromagnetic region, which sharply drop following a hyperbolic curve once the temperature passes $T_C$.
