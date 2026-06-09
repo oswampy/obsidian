@@ -609,7 +609,7 @@ The alignment of atomic magnetic dipoles in a paramagnetic material is a battle 
 ### Graphical Representation
 
 A plot of magnetic susceptibility ($\chi$) versus absolute temperature ($T$) forms a **rectangular hyperbola**, showing that $\chi$ drops rapidly as the material gets hotter.
-
+![[Pasted image 20260609224044.png]]
 
 Here is how temperature affects **Diamagnetic** and **Ferromagnetic** materials:
 
@@ -629,7 +629,7 @@ Unlike paramagnetic substances, the magnetic susceptibility ($\chi$) of diamagne
 ### Graphical Representation
 
 A plot of magnetic susceptibility ($\chi$) versus absolute temperature ($T$) for a diamagnetic material is a **straight horizontal line** in the negative region.
-
+![[Pasted image 20260609224033.png]]
 ## Effect of Temperature on Ferromagnetic Materials (Curie-Weiss Law)
 
 The magnetic susceptibility of a ferromagnetic material **decreases with an increase in temperature**. When heated past a certain critical threshold, a ferromagnetic material loses its strong magnetic properties entirely and transitions into a standard **paramagnetic material**.
@@ -667,3 +667,4 @@ $$\chi = \frac{C}{T - T_C}$$
 ### Graphical Representation
 
 A plot of magnetic susceptibility ($\chi$) versus temperature ($T$) shows high, changing values in the ferromagnetic region, which sharply drop following a hyperbolic curve once the temperature passes $T_C$.
+![[Pasted image 20260609224017.png]]
