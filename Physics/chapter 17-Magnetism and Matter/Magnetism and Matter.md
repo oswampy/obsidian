@@ -213,8 +213,8 @@ $$M = \frac{evr}{2}$$
 
 
 ---
-Questions
-**Q:** A closely wound solenoid of $800$ turns and carrying a current of $4\text{ A}$ having area of cross-section $2.5 \times 10^{-4}\text{ m}^2$. If it can be treated as a bar magnet, then find its magnetic moment.
+## Questions
+**Q1:** A closely wound solenoid of $800$ turns and carrying a current of $4\text{ A}$ having area of cross-section $2.5 \times 10^{-4}\text{ m}^2$. If it can be treated as a bar magnet, then find its magnetic moment.
 
 **Ans:** Given: $N = 800$, $I = 4\text{ A}$, $A = 2.5 \times 10^{-4}\text{ m}^2$
 
@@ -223,3 +223,39 @@ Formula: $M = N \cdot I \cdot A$
 Calculation: $M = 800 \times 4 \times (2.5 \times 10^{-4}) = 8000 \times 10^{-4} = 0.8\text{ A}\cdot\text{m}^2$
 
 Correct Option: **(C)**
+
+---
+
+**Q:** A bar magnet of dipole moment $3\text{ A}\cdot\text{m}^2$ is pivoted at its centre. A force $F$ acts at $90^\circ$ to its axis, $10\text{ cm}$ from the pivot. An external magnetic field of $0.25\text{ T}$ holds it in equilibrium at $30^\circ$ with the field. Find $F$ and the effect if $F$ is withdrawn.
+
+**Ans:** Given: $M = 3$, $B = 0.25$, $\theta = 30^\circ$, $r = 10\text{ cm} = 0.1\text{ m}$
+
+In equilibrium, Deflecting Torque = Restoring Torque
+
+$$F \cdot r = MB\sin\theta$$
+
+$$F \times 0.1 = 3 \times 0.25 \times \sin 30^\circ$$
+
+$$F \times 0.1 = 0.375 \implies F = 3.75\text{ N}$$
+
+- **Value of $F$:** $3.75\text{ N}$ (Option B)
+- **If $F$ is withdrawn:** The unbalanced magnetic torque will rotate the magnet until it aligns parallel to the external magnetic field ($\theta = 0^\circ$).
+
+---
+
+**Q:** A magnetic dipole of dipole moment $m$ is aligned parallel to an external magnetic field $B$. Work of $0.25\text{ J}$ has to be done in order to turn it through an angle of $60^\circ$. Find the external counter torque that is required in order to maintain the dipole at this angle.
+
+**Ans:** Given: $W = 0.25\text{ J}$, initial angle $\theta_1 = 0^\circ$, final angle $\theta_2 = 60^\circ$
+
+1. **Find $mB$ using Work Done formula:**
+    $$W = mB(\cos\theta_1 - \cos\theta_2)$$$$0.25 = mB(\cos 0^\circ - \cos 60^\circ)$$
+    $$0.25 = mB\left(1 - \frac{1}{2}\right) = mB\left(\frac{1}{2}\right)$$$$mB = 0.25 \times 2 = 0.5\text{ J}$$
+    
+2. **Calculate Counter Torque ($\tau$) at $60^\circ$:**
+    
+    $$\tau = mB\sin\theta_2$$
+    
+    $$\tau = 0.5 \times \sin 60^\circ =  \frac{\sqrt{3}}{4} $$
+
+---
+gauss law
