@@ -350,3 +350,64 @@ _(Where $l$ is the geometric length/distance between poles)._
 ### Units of I
 
 - **SI Unit:** **$\text{A}\cdot\text{m}^{-1}$** (Ampere per meter)
+
+---
+## Magnetic Permeability ($\mu$)
+
+**Magnetic Permeability** measures a material's ability to allow magnetic field lines to pass through it, indicating how easily it can become magnetized by an external field.
+
+### Key Formulas
+
+- **Absolute Permeability of a Medium ($\mu_m$):**$$\mu_m = \mu_0 \mu_r$$
+- **Relative Permeability ($\mu_r$):**$$\mu_r = \frac{\mu_m}{\mu_0}$$
+    
+
+Where $\mu_0$ is the permeability of free space ($4\pi \times 10^{-7}\text{ T}\cdot\text{m/A}$).
+
+### Classification of Materials Based on Permeability
+
+The behavior of magnetic field lines changes significantly depending on the type of material placed in the field:
+
+|**Material Type**|**Permeability Relationship**|**Relative Permeability**|**Behavior of Field Lines**|
+|---|---|---|---|
+|**Diamagnetic**|$\mu_1 < \mu_0$|$\mu_r < 1$|Expels magnetic field lines; lines tend to pass around the material.|
+|**Paramagnetic**|$\mu_2 > \mu_0$|$\mu_r > 1$|Feebly attracts magnetic field lines; lines concentrate slightly inside.|
+|**Ferromagnetic**|$\mu_3 \gg \mu_0$|$\mu_r \gg 1$|Strongly concentrates magnetic field lines densely inside the material.|
+![[Pasted image 20260609213648.png]]
+
+---
+
+## Magnetic Susceptibility ($\chi_m$)
+
+**Magnetic Susceptibility** is a dimensionless property that measures how easily and to what extent a magnetic material becomes magnetized when placed in an external magnetizing field.
+
+It is defined as the ratio of the intensity of magnetization ($I$) induced inside the material to the magnetic intensity ($H$) of the external field.
+
+### Mathematical Formula
+
+$$\chi_m = \frac{I}{H}$$
+
+- Where:
+	- $\chi_m$ = Magnetic susceptibility
+	    
+	- $I$ = Intensity of magnetization
+	    
+	- $H$ = Magnetizing intensity
+
+### Key Properties
+
+- **Units:** Since both $I$ and $H$ share the exact same SI unit ($\text{A}\cdot\text{m}^{-1}$), their units cancel out. Therefore, magnetic susceptibility is a **pure number with no units or dimensions**.
+    
+- **Relation with Relative Permeability ($\mu_r$):**
+    
+    $$\mu_r = 1 + \chi_m$$
+
+### Values for Different Materials
+
+The sign and magnitude of $\chi_m$ tell us how a material will respond to an external magnetic field:
+
+- **Diamagnetic Materials:** Have a **small, negative** value ($\chi_m < 0$). They are weakly magnetized in a direction opposite to the external field.
+    
+- **Paramagnetic Materials:** Have a **small, positive** value ($\chi_m > 0$). They are weakly magnetized in the same direction as the external field.
+    
+- **Ferromagnetic Materials:** Have a **large, positive** value ($\chi_m \gg 0$). They get strongly magnetized in the direction of the external field.
