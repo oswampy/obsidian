@@ -401,7 +401,56 @@ $$\chi_m = \frac{I}{H}$$
 - **Relation with Relative Permeability ($\mu_r$):**
     
     $$\mu_r = 1 + \chi_m$$
+#Derivation 
 
+ Step 1: Total Magnetic Induction ($B$)
+
+When a magnetic material is placed inside an external magnetizing field, the total magnetic field $B$ inside the material is the sum of the external magnetic field in free space ($B_0$) and the magnetic field induced due to the magnetization of the material ($B_m$):
+
+$$B = B_0 + B_m$
+### Step 2: Substitute Field Relations
+
+We know from the definitions of magnetizing intensity ($H$) and intensity of magnetization ($I$):
+
+- $B_0 = \mu_0 H$
+    
+- $B_m = \mu_0 I$
+    
+
+Substitute these into the equation from Step 1:
+
+$$B = \mu_0 H + \mu_0 I$$
+
+$$B = \mu_0(H + I)$$
+
+### Step 3: Introduce Permeability and Susceptibility
+
+1. By definition, the total magnetic field inside a medium with absolute permeability $\mu_m$ is:
+    
+    $$B = \mu_m H$$
+    
+2. By definition, the intensity of magnetization is related to magnetic susceptibility ($\chi_m$) by:
+    
+    $$I = \chi_m H$$
+    
+
+### Step 4: Combine and Simplify
+
+Substitute $B$ and $I$ back into the factored equation from Step 2:
+
+$$\mu_m H = \mu_0(H + \chi_m H)$$
+
+Divide the entire equation by $H$ on both sides:
+
+$$\mu_m = \mu_0(1 + \chi_m)$$
+
+Divide by $\mu_0$:
+
+$$\frac{\mu_m}{\mu_0} = 1 + \chi_m$$
+
+Since relative permeability is defined as $\mu_r = \frac{\mu_m}{\mu_0}$:
+
+$$\mu_r = 1 + \chi_m$$
 ### Values for Different Materials
 
 The sign and magnitude of $\chi_m$ tell us how a material will respond to an external magnetic field:
