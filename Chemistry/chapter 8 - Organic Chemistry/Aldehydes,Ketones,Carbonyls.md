@@ -110,3 +110,6 @@ $$\text{Polyol Chain} \xrightarrow{\text{HIO}_4} 5\text{HCOOH} + \text{HCHO}$$
 6. **Gattermann-Koch Reaction:** Formyl chloride ($\text{H-CO-Cl}$) is highly unstable and cannot be stored. In this reaction, it is formulated _in situ_ by passing a high-pressure stream of carbon monoxide ($\text{CO}$) and hydrogen chloride ($\text{HCl}$) gas into a solution of benzene containing an anhydrous aluminum chloride ($\text{AlCl}_3$) Lewis acid catalyst, electrophilically substituting a formyl group directly onto the ring:
     
     $$\text{Benzene} \xrightarrow{\text{CO} + \text{HCl} / \text{AlCl}_3} \text{Benzaldehyde}$$
+
+
+
