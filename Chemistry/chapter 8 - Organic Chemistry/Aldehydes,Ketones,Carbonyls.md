@@ -113,3 +113,106 @@ $$\text{Polyol Chain} \xrightarrow{\text{HIO}_4} 5\text{HCOOH} + \text{HCHO}$$
 
 
 
+Here is the properly formatted, complete overview of the chemistry reactions covered in your notes, complete with text, structural mechanisms, and brief explanations.
+
+## 1. Aldol Condensation
+
+The **Aldol Condensation** occurs in carbonyl compounds (aldehydes or ketones) containing at least one **$\alpha$-hydrogen**. When treated with a dilute base, it forms a $\beta$-hydroxy carbonyl compound, which undergoes dehydration upon heating to yield a conjugated $\alpha,\beta$-unsaturated system.
+
+### General Reaction Pattern
+
+$$2\text{CH}_3\text{CHO} \xrightarrow{\text{dil. NaOH}} \underset{\text{Crotonaldehyde}}{\text{CH}_3\text{-CH}=\text{CH-CHO}} + \text{H}_2\text{O}$$
+
+### Mechanism Steps
+
+1. **Enolate Formation (Acid-Base Reaction):**
+    
+    $$\text{H-CH}_2\text{-CHO} + \text{OH}^- \rightleftharpoons \underset{\text{Enolate nucleophile}}{\bar{\text{C}}\text{H}_2\text{-CHO}} + \text{H}_2\text{O}$$
+    
+2. **Nucleophilic Attack (Rate Determining Step):**
+    
+    $$\text{CH}_3\text{-CHO} + \bar{\text{C}}\text{H}_2\text{-CHO} \xrightarrow{\text{R.D.S}} \text{CH}_3\text{-}\overset{\overset{\text{O}^-}{\mid}}{\text{CH}}\text{-CH}_2\text{-CHO} \xrightarrow{\text{H}_2\text{O}} \underset{\beta\text{-hydroxy aldehyde}}{\text{CH}_3\text{-}\overset{\overset{\text{OH}}{\mid}}{\text{CH}}\text{-CH}_2\text{-CHO}}$$
+    
+3. **Dehydration ($\Delta$ via Elimination):**
+    
+    $$\text{CH}_3\text{-}\overset{\overset{\text{OH}}{\mid}}{\text{CH}}\text{-}\underset{\overset{\mid}{\text{H}}}{\text{CH}}\text{-CHO} \xrightarrow{\Delta} \underset{\alpha,\beta\text{-unsaturated carbonyl}}{\text{CH}_3\text{-CH}=\text{CH-CHO}} + \text{H}_2\text{O}$$
+    
+
+## 2. Variations of the Aldol Reaction
+
+### A. Crossed Aldol Condensation
+
+When two _different_ aldehydes/ketones react, a cross-coupling occurs. If both possess $\alpha$-hydrogens, multiple products are formed.
+
+#### Example Reaction:
+
+$$\text{CH}_3\text{CHO} + \text{CH}_3\text{CH}_2\text{CHO} \xrightarrow[\Delta]{\text{dil. NaOH}} \text{Mixture of products}$$
+
+Using the **Direct Shortcut Method** (removing $\text{O}$ from the electrophile and $2\text{H}$ from the $\alpha$-carbon of the nucleophile):
+
+1. **Self-Aldol of Acetaldehyde:** $\text{CH}_3\text{-CH}=\text{CH-CHO}$
+    
+2. **Self-Aldol of Propionaldehyde:** $\text{CH}_3\text{-CH}_2\text{-CH}=\text{C(CH}_3\text{)-CHO}$
+    
+3. **Crossed Product (Acetaldehyde as electrophile):** $\text{CH}_3\text{-CH}=\text{C(CH}_3\text{)-CHO}$ _(Major due to less steric hindrance)_
+    
+4. **Crossed Product (Propionaldehyde as electrophile):** $\text{CH}_3\text{-CH}_2\text{-CH}=\text{CH-CHO}$
+    
+
+### B. Intramolecular Aldol Condensation
+
+A single molecule containing two carbonyl groups undergoes an internal cyclization. Ring stability dictates that **5 and 6-membered rings** are favored dynamically.
+
+#### Example Reaction:
+
+$$\text{CH}_3\text{-CO-CH}_2\text{-CH}_2\text{-CH}_2\text{-CO-CH}_3 \xrightarrow[\Delta]{\text{NaOH}} \text{[3-methylcyclohex-2-en-1-one]}$$
+
+#### Mechanism Alignment:
+
+$$\text{CH}_3\text{-}\underset{\overset{\mid}{\text{CH}_2\text{-CH}_2}}{\text{C}}=\boxed{\text{O} + \begin{matrix} \text{H} \\ \text{H} \end{matrix}\text{C}}\text{-CO-CH}_3 \xrightarrow{-\text{H}_2\text{O}} \text{[Stable 6-membered conjugated ring]}$$
+
+### C. Active Methylene Adaptations (Nitro & Cyano Aldol)
+
+Compounds with highly acidic hydrogens sitting next to electron-withdrawing functional groups like $-\text{NO}_2$ or $-\text{CN}$ can act as the nucleophilic partner.
+
+- **Nitro-Aldol:**
+    
+    $$\text{CH}_3\text{-CHO} + \text{CH}_3\text{-CH}_2\text{-NO}_2 \xrightarrow[\Delta]{\text{dil. base}} \text{CH}_3\text{-CH}=\text{C(CH}_3\text{)-NO}_2$$
+    
+- **Cyano-Aldol:**
+    
+    $$\text{Ph-CHO} + \text{Ph-CH}_2\text{-CN} \xrightarrow{\text{EtO}^-/\text{EtOH}} \text{Ph-CH}=\text{C(Ph)-CN}$$
+    
+    _(Note: A weak alkoxide base like $\text{EtO}^-$ is chosen instead of $\text{OH}^-/\text{H}_2\text{O}$ to prevent the nitrile group from hydrolyzing into a carboxylic acid)._
+    
+
+## 3. Cannizzaro Reaction
+
+The **Cannizzaro Reaction** is a base-induced **redox disproportionation** of aldehydes that completely **lack $\alpha$-hydrogens** (e.g., Formaldehyde, Benzaldehyde). One molecule is reduced to an alcohol, while the other is oxidized to a carboxylic acid salt.
+
+### General Reaction Pattern
+
+$$2\text{HCHO} \xrightarrow{\text{conc. KOH / }\Delta} \underset{\text{Potassium Formate}}{\text{HCOOK}} + \underset{\text{Methanol}}{\text{CH}_3\text{OH}}$$
+
+### Mechanism Steps
+
+1. **Nucleophilic Addition:**
+    
+    $$\text{H-CHO} + \text{OH}^- \rightleftharpoons \text{H-}\overset{\overset{\text{O}^-}{\mid}}{\text{CH}}\text{-OH}$$
+    
+2. **Hydride Transfer (Rate Determining Step):** The intermediate transfers a hydride ion ($\text{H}^-$) directly to a second aldehyde molecule.
+    
+    $$\text{H-}\overset{\overset{\text{O}^-}{\mid}}{\text{C}}\text{(OH)-}{\text{H}} + \text{H-CHO} \xrightarrow{\text{R.D.S}} \text{H-COOH} + \text{H}_2{\text{H}}\text{-C-O}^-$$
+    
+3. **Proton Exchange (Acid-Base Neutralization):**
+    
+    $$\text{H-COOH} + \text{CH}_3\text{O}^- \longrightarrow \text{HCOO}^- + \text{CH}_3\text{OH} \xrightarrow{\text{K}^+} \text{HCOOK}$$
+    
+
+### Kinetics Summary
+
+- Under normal high concentration conditions (50% base): $\text{Rate} = k[\text{Aldehyde}]^2[\text{OH}^-]$
+    
+- Under extremely concentrated conditions (90% base): $\text{Rate} = k[\text{Aldehyde}]^2[\text{OH}^-]^2$
+    
+- **Selectivity rule:** In a mixed reaction with formaldehyde ($\text{HCHO}$), the formaldehyde is _always_ the one oxidized because it is highly electrophilic and lacks bulky, sterically hindering groups.
