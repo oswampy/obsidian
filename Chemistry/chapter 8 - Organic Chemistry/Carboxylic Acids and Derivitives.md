@@ -282,7 +282,7 @@ $$\text{Red P} + \text{X}_2 \longrightarrow \text{PX}_3$$
 4. Loss of a proton ($\text{H}^+$) generates the $\alpha$-halo acyl halide:
     
     $$\text{R}-\underset{\substack{\vert \\ \text{X}}}{\text{CH}}-\overset{\substack{\text{O} \\ \parallel}}{\text{C}}-\text{X}$$
-    
+
 
 ### Step 3: Hydrolysis
 
