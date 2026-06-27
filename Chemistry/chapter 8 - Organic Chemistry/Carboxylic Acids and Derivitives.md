@@ -168,10 +168,6 @@ $$\text{R}-\text{COOH} \rightleftharpoons \text{R}-\text{COO}^- + \text{H}^+$$
                       +--- R'-O^- Na+ -> R-COONa + R'-OH
 ```
 
-Here is the complete transcription of the second set of handwritten notes on **Carboxylic Acids**, converted into clean text and standard $\text{\LaTeX}$ formatting for chemical formulas, structures, and reactions.
-
-
-## Chemical Reactions (Continued)
 
 ### 2) Dehydration :-
 
