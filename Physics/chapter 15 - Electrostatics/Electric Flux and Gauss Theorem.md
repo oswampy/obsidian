@@ -60,10 +60,6 @@ $$\Phi = \frac{E \pi R^2 \sqrt{3}}{2}$$
 > **Note:** Always be careful to identify if the given angle is with the _surface_ or the _normal_ to the surface. Gauss’s law specifically uses the angle with the normal.
 
 #Q 
-This image explains a more complex application of electric flux, calculating the flux through a circular cross-section from an electric field $\vec{E}$ that is not uniform across the surface.
-
----
-
 ## Electric Flux through a Circular Cross-Section
 
 The problem involves finding the total electric flux passing through a circular area by considering a small differential element (a ring) and then integrating.
