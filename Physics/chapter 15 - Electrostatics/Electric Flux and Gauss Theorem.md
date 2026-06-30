@@ -224,26 +224,7 @@ A point charge $Q$ is placed at the **center** of a cube. Because the cube is a 
     According to Gauss's Law, the total flux passing through any closed surface is equal to the enclosed charge divided by the permittivity of free space ($\varepsilon_0$):
     
     $$\Phi_{net} = \frac{Q}{\varepsilon_0}$$
-    
-2. **Symmetry Argument:**
-    
-    Since the charge is at the geometric center, the flux is distributed equally across all **6 faces** of the cube.
-    
-3. **Relation between Total Flux and Single Face Flux:**
-    
-    The total flux is the sum of the flux through each of the six faces:
-    $$\Phi_{net} = \frac{Q}{\varepsilon_0} = 6\phi$$
-**Final Formula for Flux through one face:**
-    Solving for $\phi$, we get:
-    
-    $$\phi = \frac{Q}{6\varepsilon_0}$$
-
-
-# Solid Angle
-The image provides a detailed explanation of the **Solid Angle**, the three-dimensional counterpart to a standard 2D angle.
-
 ---
-
 ## Solid Angle ($\Omega$)
 
 A solid angle measures how large an object appears to an observer looking from a specific point. It is essentially an **angle in 3D**.
