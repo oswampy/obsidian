@@ -89,6 +89,12 @@ i)allylic substitution using
 	NBS
 	SO2Cl2
 	$X_{2}$ at high temp
+ii) Hundsdiecker Reaction
+Reaction exclusively for alky bromide
+silver salt of fatty acid (cooh)
+$RCOOH + AgOH \to RCOO^-Ag^+$ (Dehydration)
+
+$RCOOAg +Br_{2}\to R-Br +CO_{2} +AgBr$
 
 ## Preperation of Haloarenes
 ### 5. From hydrocarbons by electrophilic substitution
