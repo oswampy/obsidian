@@ -184,11 +184,9 @@ The second set involves the nitrite ion ($NO_2^-$).
 - It decreases in the order: **RI > RBr > RCl**. The density increases with the increase in the number of halogen atom.
 - Simple monofluoro and monochloro compounds are lighter than water. But the monobromo and monoiodo compounds are heavier than water.
 
-**Stability order: R-F > R-Cl > R-Br > R-I**
-
 
 ### 6. Stability:
-
+Stability order: R-F > R-Cl > R-Br > R-I
 - It decreases in the order:
 
 **Reactivity: R-I > R-Br > R-Cl > R-F**
@@ -311,6 +309,7 @@ The second set involves the nitrite ion ($NO_2^-$).
     
 - $2R-Li + CuI \longrightarrow R_2CuLi + LiI$ (Gilman's Reagent)
     
+gilmans reagent converts acid halides directly to ketones
 
 ---
 
