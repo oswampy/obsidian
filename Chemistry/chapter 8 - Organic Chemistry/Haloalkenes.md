@@ -82,15 +82,16 @@ RBr + AgF → RF + AgBr
 - R'+ F → RF
     
 - The energy released in this step is 447.7 kJ/mol. This energy is larger than the energy required to break C-C bond (347.3 kJ/mol). However, direct fluorination of hydrocarbons may be done by diluting F₂ with an unreactive gas such as N₂ or Ar.
-## 5. From hydrocarbons by electrophilic substitution
+## Preperation of Haloarenes
+### 5. From hydrocarbons by electrophilic substitution
 
 - Aryl chlorides and bromides can be easily prepared by electrophilic substitution of arenes with chlorine and bromine respectively in the presence of Lewis acid catalysts like iron or iron(III) chloride.
     
 - The ortho and para isomers can be easily separated due to large difference in their melting points. Reactions with iodine are reversible in nature and require the presence of an oxidising agent (HNO₃, HIO₄) to oxidise the HI formed during iodination. Fluoro compounds are not prepared by this method due to high reactivity of fluorine.
 
-Toluene + X2 in presence of FeCl3/AlCl3 and dark room -> o-halotoluene/p-halotoluene 
 
-## 6.  FROM AMINE BY SANDEMEYER'S REACTION
+
+### 6.  FROM AMINE BY SANDEMEYER'S REACTION
 
 - When a **primary aromatic amine** dissolved or suspended in cold aqueous mineral acid, is treated with sodium nitrite, a **diazonium salt** is formed. Mixing the solution of freshly prepared diazonium salt with cuprous chloride or cuprous bromide results in the replacement of the diazonium group by -Cl or -Br.
     
