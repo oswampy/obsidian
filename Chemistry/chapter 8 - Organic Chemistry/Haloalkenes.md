@@ -13,7 +13,7 @@
 **3. 3R-OH + PX₃ → 3R-X + H₃PO₃** (X = Cl, Br) (SN₂ mechanism)
 
 **4. R-OH + PCl₅ → R-Cl + POCl₃ + HCl** (SN₁ mechanism)
-
+	(inversion if PCl5 in gas and retention if solid)
 
 **5. R-OH + red P/X₂ → R-X**
 - (X₂ = Br₂, I₂)
@@ -82,6 +82,14 @@ RBr + AgF → RF + AgBr
 - R'+ F → RF
     
 - The energy released in this step is 447.7 kJ/mol. This energy is larger than the energy required to break C-C bond (347.3 kJ/mol). However, direct fluorination of hydrocarbons may be done by diluting F₂ with an unreactive gas such as N₂ or Ar.
+
+
+other methods of preperation
+i)allylic substitution using 
+	NBS
+	SO2Cl2
+	$X_{2}$ at high temp
+
 ## Preperation of Haloarenes
 ### 5. From hydrocarbons by electrophilic substitution
 
