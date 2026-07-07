@@ -39,7 +39,7 @@ CH₄ + Cl• → H-C-Cl + HCl                 +Cl₂ / hν, -H
 - CCl₄ (carbon tetrachloride)
 
 - iodination is a reversible reagent because HI formed is a good reducing agent. To make it non reversible a strong oxidising agent is used in the reaction like HNO3 or HIO3
-#### From alkenes by addition of hydrogen halide
+### From alkenes by addition of hydrogen halide
 
 **Addition of hydrogen halides:** An alkene is converted to corresponding alkyl halide by reaction with hydrogen chloride, hydrogen bromide or hydrogen iodide.
 
@@ -49,11 +49,11 @@ CH₄ + Cl• → H-C-Cl + HCl                 +Cl₂ / hν, -H
 
 C=C + HX → M.K.R (Markovnikov's Rule)
 
-#### From alkenes by addition of halogens
+### From alkenes by addition of halogens
 
 **Addition of halogens:** In the laboratory, addition of bromine in CCl₄ to an alkene resulting in discharge of reddish brown colour of bromine constitutes an important method for the detection of double bond in a molecule. The addition results in the synthesis of vic-dibromides, which are colourless.
 
-## 3. From  Halide Exchange
+## 3. From Halide Exchange
 
 ### 1. FINKELSTEIN REACTION
 
@@ -68,7 +68,7 @@ RBr + NaI → R-I + NaBr
 ### 2. SWARTS REACTION
 
 - A better method for the preparation of fluoro compounds is indirect method.
-- The chloro or bromo alkanes are heated with inorganic fluorides such as AsF₃, SbF₃, CoF₂, AgF, Hg₂F₂ etc.
+- The chloro or bromo alkanes are heated with **inorganic fluorides** such as AsF₃, SbF₃, CoF₂, AgF, Hg₂F₂ etc.
 
 **Reaction:**
 
