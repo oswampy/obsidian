@@ -90,13 +90,14 @@ i)allylic substitution using
 	SO2Cl2
 	$X_{2}$ at high temp
 ii) Hundsdiecker Reaction
-Reaction exclusively for alky bromide
-silver salt of fatty acid (cooh)
-$RCOOH + AgOH \to RCOO^-Ag^+$ (Dehydration)
-
-$RCOOAg +Br_{2}\to R-Br +CO_{2} +AgBr$
-
-## Preperation of Haloarenes
+	Reaction exclusively for alky bromide
+	silver salt of fatty acid (cooh)
+	$RCOOH + AgOH \to RCOO^-Ag^+$ (Dehydration)
+	
+	$RCOOAg +Br_{2}\to R-Br +CO_{2} +AgBr$
+	Mechanism is free radical formation(because of Ag) after splitting of RCOOBr.
+	If instead of $Br_{2}$ we used iodine then we would get an ester(+CO2 +AgI) and the reaction is called ***Birnbaum-Simonini Reaction***
+## Preparation of Haloarenes
 ### 5. From hydrocarbons by electrophilic substitution
 
 - Aryl chlorides and bromides can be easily prepared by electrophilic substitution of arenes with chlorine and bromine respectively in the presence of Lewis acid catalysts like iron or iron(III) chloride.
