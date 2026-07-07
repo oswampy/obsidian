@@ -77,7 +77,7 @@ RBr + AgF → RF + AgBr
 
 ## 4. Fluorination
 
-- Fluorination of hydrocarbons with pure F₂ gas is an explosive reaction. It is partly due to the low bond dissociation energy of F₂ molecule (150.6 kJ/mol) and partly due to the highly exothermic termination step.
+- Fluorination of hydrocarbons with pure F₂ gas is an explosive reaction. It is partly due to the low bond dissociation energy of F₂ molecule (159.6 kJ/mol) and partly due to the highly exothermic termination step.
     
 - R'+ F → RF
     
