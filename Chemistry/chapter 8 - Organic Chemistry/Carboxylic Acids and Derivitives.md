@@ -307,3 +307,7 @@ $$\text{CH}_3-\overset{\substack{\text{O} \\ \parallel}}{\text{C}}-\text{OH} \xr
 When $\text{PBr}_3$ acts as the acyl halide generator and $\text{Cl}_2$ is added as the electrophile, chlorination occurs at the $\alpha$-carbon:
 
 $$\text{CH}_3-\overset{\substack{\text{O} \\ \parallel}}{\text{C}}-\text{OH} \xrightarrow[\text{2) }\text{H}_2\text{O}]{\text{1) PBr}_3, \ \text{Cl}_2} \underset{\substack{\vert \\ \text{Cl}}}{\text{CH}_2}-\text{COOH}$$
+
+
+
+## Acidity of Benzoic Acids
