@@ -311,3 +311,11 @@ $$\text{CH}_3-\overset{\substack{\text{O} \\ \parallel}}{\text{C}}-\text{OH} \xr
 
 
 ## Acidity of Benzoic Acids
+
+### ortho effect :-
+
+When ortho substitution occurs in Benzoic acid, the steric hindrance causes the $-\text{COOH}$ group to twist out of the plane ($90^\circ$ rotation). This rotation inhibits the resonance of the $-\text{COO}^\ominus$ ion with phenyl ring, leading to increased acidity of carboxylic acid.
+
+$$\text{C}_6\text{H}_4(\text{CH}_3)\text{COOH }  > \text{C}_6\text{H}_5\text{COOH}$$
+
+_
