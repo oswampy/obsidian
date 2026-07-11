@@ -318,4 +318,6 @@ When ortho substitution occurs in Benzoic acid, the steric hindrance causes the 
 
 $$\text{C}_6\text{H}_4(\text{CH}_3)\text{COOH }  > \text{C}_6\text{H}_5\text{COOH}$$
 
-_
+resonance of R-COO- is a lot more stable than then resonance of Ph-COO-
+
+now since the COO- twists out of the plane there is no involvement of its resonance with the phenyl ring and so it is more acidic
