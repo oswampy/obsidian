@@ -321,3 +321,14 @@ $$\text{C}_6\text{H}_4(\text{CH}_3)\text{COOH }  > \text{C}_6\text{H}_5\text{COO
 resonance of R-COO- is a lot more stable than then resonance of Ph-COO-
 
 now since the COO- twists out of the plane there is no involvement of its resonance with the phenyl ring and so it is more acidic
+
+Based on your uploaded image, here is the clear text and chemical notation transcription:
+
+$$\rightarrow -\text{NO}_2, -\text{R}, -\text{CHO}, -\text{X, etc.} \xrightarrow{\text{show SH (Steric Hindrance)}} \text{Ortho effect } \checkmark$$
+
+$$\rightarrow -\text{CN}, -\text{NH}_2, -\text{OH}, \text{T, D, H} \xrightarrow{\text{not show SH}} \text{No Ortho eff.}$$
+
+- **Groups that show the Ortho Effect:** Bulky or spatially demanding groups like nitro ($-\text{NO}_2$), alkyl ($-\text{R}$), aldehyde ($-\text{CHO}$), and halogens ($-\text{X}$) create enough **Steric Hindrance (SH)** to force the adjacent carboxylic acid group out of the ring's plane.
+    
+- **Groups that do not show the traditional Ortho Effect (via steric bulk):** Linear, small, or flat groups like cyano ($-\text{CN}$), amino ($-\text{NH}_2$), hydroxyl ($-\text{OH}$), or hydrogen isotopes ($\text{T, D, H}$) are small enough that they do not cause significant steric hindrance ($\text{SH}$).
+    
