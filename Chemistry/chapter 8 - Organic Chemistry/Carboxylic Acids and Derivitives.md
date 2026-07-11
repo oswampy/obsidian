@@ -308,7 +308,7 @@ When $\text{PBr}_3$ acts as the acyl halide generator and $\text{Cl}_2$ is added
 
 $$\text{CH}_3-\overset{\substack{\text{O} \\ \parallel}}{\text{C}}-\text{OH} \xrightarrow[\text{2) }\text{H}_2\text{O}]{\text{1) PBr}_3, \ \text{Cl}_2} \underset{\substack{\vert \\ \text{Cl}}}{\text{CH}_2}-\text{COOH}$$
 
-
+---
 
 ## Acidity of Benzoic Acids
 
@@ -331,14 +331,13 @@ $$\rightarrow -\text{CN}, -\text{NH}_2, -\text{OH}, \text{T, D, H} \xrightarrow{
 - **Groups that show the Ortho Effect:** Bulky or spatially demanding groups like nitro ($-\text{NO}_2$), alkyl ($-\text{R}$), aldehyde ($-\text{CHO}$), and halogens ($-\text{X}$) create enough **Steric Hindrance (SH)** to force the adjacent carboxylic acid group out of the ring's plane.
     
 - **Groups that do not show the traditional Ortho Effect (via steric bulk):** Linear, small, or flat groups like cyano ($-\text{CN}$), amino ($-\text{NH}_2$), hydroxyl ($-\text{OH}$), or hydrogen isotopes ($\text{T, D, H}$) are small enough that they do not cause significant steric hindrance ($\text{SH}$).
-    
-Here is the text transcribed from your image:
+
+
+---
 
 $$\rightarrow \text{2) } \underline{\text{H-bonding}} \begin{cases} \text{intra (within)} \\ \text{inter (between the molecule)} \end{cases}$$
 
 may increase / decrease acidity in $o$-substituted benzoic acid & phenols.
-
-### Understanding this note:
 
 This points perfectly to what we talked about with salicylic acid! Hydrogen bonding acts as a secondary effect alongside steric hindrance:
 
@@ -347,22 +346,15 @@ This points perfectly to what we talked about with salicylic acid! Hydrogen bond
 - **Intermolecular H-bonding (between different molecules):** Can lead to molecular association, altering how easily protons are exchanged in a solution.
 ![[Pasted image 20260711092223.png]]
 
-This image illustrates the two opposing ways **intramolecular hydrogen bonding** affects acidity—specifically comparing how it stabilizes a product vs. how it stabilizes a reactant.
+![[Pasted image 20260711092853.png]]
 
-Here is the breakdown of both sides of your notes:
+###  Salicylate Ion (Increased Acidity)
 
-### Left Side: Salicylate Ion (Increased Acidity)
-
-- **The Chemistry:** This shows $o$-hydroxybenzoic acid (salicylic acid) **after** it has lost its acidic proton ($\text{H}^+$).
-    
-- **The Diagram:** The resulting carboxylate anion ($-\text{COO}^\ominus$) forms a very strong **intramolecular H-bond** (indicated by the dashed red arrow) with the adjacent phenolic $-\text{OH}$ group.
-    
-- **Why it matters:** Your note says _"after removal of $\text{H}^+ \rightarrow$ involved in intra-H bonding $\rightarrow$ Stable."_ Because the conjugate base is exceptionally stable due to this internal ring-like lock, the starting acid is incredibly eager to give up its proton. **This drastically increases acidity.**
+ The resulting carboxylate anion ($-\text{COO}^\ominus$) forms a very strong **intramolecular H-bond** (indicated by the dashed red arrow) with the adjacent phenolic $-\text{OH}$ group.
+- **Why it matters:** Because the conjugate base is exceptionally stable due to this internal ring-like lock, the starting acid is incredibly eager to give up its proton. **This drastically increases acidity.**
     
 
-### Right Side: _o_-Nitrophenol (Decreased Acidity of the Phenol Proton)
-
-- **The Chemistry:** This looks at an ortho-substituted phenol molecule (_o_-nitrophenol) **before** it loses its proton.
+###  _o_-Nitrophenol (Decreased Acidity)
     
 - **The Diagram:** The acidic hydrogen of the phenolic $-\text{OH}$ group is caught in an intramolecular hydrogen bond with an oxygen from the adjacent nitro group ($-\text{NO}_2$). 
     
