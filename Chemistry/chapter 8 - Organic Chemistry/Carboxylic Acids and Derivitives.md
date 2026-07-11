@@ -332,3 +332,44 @@ $$\rightarrow -\text{CN}, -\text{NH}_2, -\text{OH}, \text{T, D, H} \xrightarrow{
     
 - **Groups that do not show the traditional Ortho Effect (via steric bulk):** Linear, small, or flat groups like cyano ($-\text{CN}$), amino ($-\text{NH}_2$), hydroxyl ($-\text{OH}$), or hydrogen isotopes ($\text{T, D, H}$) are small enough that they do not cause significant steric hindrance ($\text{SH}$).
     
+Here is the text transcribed from your image:
+
+$$\rightarrow \text{2) } \underline{\text{H-bonding}} \begin{cases} \text{intra (within)} \\ \text{inter (between the molecule)} \end{cases}$$
+
+may increase / decrease acidity in $o$-substituted benzoic acid & phenols.
+
+### Understanding this note:
+
+This points perfectly to what we talked about with salicylic acid! Hydrogen bonding acts as a secondary effect alongside steric hindrance:
+
+- **Intramolecular H-bonding (within the same molecule):** Generally **increases** acidity when it stabilizes the conjugate base after the proton is lost (like in ortho-hydroxybenzoic acid / salicylic acid). However, if it forms _before_ the proton leaves and tightly locks the acidic proton in place (like in some ortho-substituted phenols), it can sometimes decrease acidity by making it harder to release the $\text{H}^+$.
+    
+- **Intermolecular H-bonding (between different molecules):** Can lead to molecular association, altering how easily protons are exchanged in a solution.
+![[Pasted image 20260711092223.png]]
+
+This image illustrates the two opposing ways **intramolecular hydrogen bonding** affects acidity—specifically comparing how it stabilizes a product vs. how it stabilizes a reactant.
+
+Here is the breakdown of both sides of your notes:
+
+### Left Side: Salicylate Ion (Increased Acidity)
+
+- **The Chemistry:** This shows $o$-hydroxybenzoic acid (salicylic acid) **after** it has lost its acidic proton ($\text{H}^+$).
+    
+- **The Diagram:** The resulting carboxylate anion ($-\text{COO}^\ominus$) forms a very strong **intramolecular H-bond** (indicated by the dashed red arrow) with the adjacent phenolic $-\text{OH}$ group.
+    
+- **Why it matters:** Your note says _"after removal of $\text{H}^+ \rightarrow$ involved in intra-H bonding $\rightarrow$ Stable."_ Because the conjugate base is exceptionally stable due to this internal ring-like lock, the starting acid is incredibly eager to give up its proton. **This drastically increases acidity.**
+    
+
+### Right Side: _o_-Nitrophenol (Decreased Acidity of the Phenol Proton)
+
+- **The Chemistry:** This looks at an ortho-substituted phenol molecule (_o_-nitrophenol) **before** it loses its proton.
+    
+- **The Diagram:** The acidic hydrogen of the phenolic $-\text{OH}$ group is caught in an intramolecular hydrogen bond with an oxygen from the adjacent nitro group ($-\text{NO}_2$). 
+    
+- **Why it matters:**  Because the hydrogen atom is tightly locked and stabilized _within_ the neutral molecule before any reaction happens, it is much harder for a base to come along and pull that proton away. **This makes it harder to release the $\text{H}^+$, which acts to decrease its relative acidity compared to if that lock wasn't there.**
+
+Rule of Thumb
+
+- If intramolecular H-bonding happens **after** losing $\text{H}^+$ (stabilizing the conjugate base) $\rightarrow$ **Acidity increases.**
+    
+- If intramolecular H-bonding happens **before** losing $\text{H}^+$ (locking the proton in place) $\rightarrow$ **Acidity decreases.**
