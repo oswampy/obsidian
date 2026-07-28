@@ -26,7 +26,7 @@ we multiply and divide by opposite ion of denominator so its an anion so we mult
 
 $\frac{[OH^-][H^+]}{1} = K_w$
 
-$\therefore K_h = \frac{K_w}{K_a}$
+$\boxed{\therefore K_h = \frac{K_w}{K_a}}$
 
 ### Degree of hydrolysis:
 
