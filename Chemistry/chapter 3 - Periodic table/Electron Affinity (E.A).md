@@ -55,7 +55,7 @@ O,S,Cl,I
 A: Cl>I>S>O
 chlorine is the highest of halogens(which have most EA) and iodine is next because even if it is the lowest halogen it is still always higher than then next groups:
 
-min(n) > max(n-1),n $\in$ group no
+min(n) > max(n-1),$\forall$ n $\in$ group no
 
 
 
