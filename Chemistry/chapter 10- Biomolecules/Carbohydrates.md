@@ -542,7 +542,8 @@ It has two components:
 - $\alpha$-D-glucose units
     
 - $\alpha(1\rightarrow4)$ linkage
-    
+
+
 
 ### Amylopectin
 

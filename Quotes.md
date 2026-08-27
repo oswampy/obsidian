@@ -54,8 +54,6 @@ sticker: lucide//quote
 “Lost wealth may be replaced by industry, lost knowledge by study, lost health by temperance or medicine, but lost time is gone forever.”
 -Samuel Smiles
 
-“Until you value yourself, you will not value your time. Until you value your time, you will not do anything with it.”
--Scott Peck
 
 “You must find the place inside yourself where nothing is impossible.”
 
