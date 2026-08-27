@@ -5,17 +5,11 @@
 
 The major classes are:
 - Carbohydrates
-    
 - Proteins
-    
 - Enzymes
-    
 - Vitamins
-    
 - Nucleic acids
-    
 - Hormones
-    
 
 ---
 
@@ -55,7 +49,6 @@ Examples:
 - Ribose
     
 - Galactose
-    
 
 ### Oligosaccharides
 
@@ -64,9 +57,9 @@ Give 2–10 monosaccharide units on hydrolysis.
 Examples:
 
 - Sucrose
-    
+
 - Maltose
-    
+
 - Lactose
     
 
