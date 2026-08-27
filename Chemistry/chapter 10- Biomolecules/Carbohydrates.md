@@ -543,8 +543,9 @@ It has two components:
     
 - $\alpha(1\rightarrow4)$ linkage
 
-
-
+- makes up 20% to 30% of starch
+- digests slowly
+- Amylose turns dark blue or black with iodine
 ### Amylopectin
 
 - Branched
@@ -552,8 +553,10 @@ It has two components:
 - $\alpha(1\rightarrow4)$ linkages in chains
     
 - $\alpha(1\rightarrow6)$ linkages at branch points
-    
 
+- makes up 70-80% of starch
+- digests fast for quick energy release
+- Amylopectin gives a reddish-brown color with iodine
 ### Hydrolysis
 
 $\text{Starch}\xrightarrow{H_2O/H^+}\text{Glucose}$
@@ -626,9 +629,6 @@ This allows rapid release of glucose when required.
 |Digested by humans|Yes|No|Yes|
 
 
-
---
-
 # High-Yield Definitions
 
 ### Glycosidic Linkage
@@ -667,32 +667,6 @@ $Sugar+Nitrogenous\ base+Phosphate$
 
 Change in optical rotation due to interconversion of $\alpha$ and $\beta$ forms through the open-chain form.
 
----
-
-# Reducing vs Non-Reducing Sugars
-
-### Reducing sugars
-
-Have a free anomeric carbon or can generate a free carbonyl group.
-
-Examples:
-
-- Glucose
-    
-- Fructose
-    
-- Maltose
-    
-- Lactose
-    
-
-### Non-reducing sugar
-
-Does not have a free anomeric carbon.
-
-Example:
-
-**Sucrose**
 
 ---
 
