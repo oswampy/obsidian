@@ -20,17 +20,17 @@ $B$-complex and $C$
 
 # Important Vitamins
 
-|Vitamin|Important source|Deficiency|
-|---|---|---|
-|A|Fish liver oil, carrots, leafy vegetables|Night blindness, xerophthalmia|
-|B₁|Whole grains, yeast|Beriberi|
-|B₂|Milk, eggs|Skin/mucosal problems|
-|B₆|Cereals, meat|Anaemia, dermatitis|
-|B₁₂|Meat, milk, eggs|Pernicious anaemia|
-|C|Citrus fruits, amla|Scurvy|
-|D|Sunlight, fish liver oil|Rickets/osteomalacia|
-|E|Vegetable oils, nuts|Reproductive/neuromuscular effects|
-|K|Green leafy vegetables|Delayed blood clotting|
+| Vitamin | Important source                          | Deficiency                         |
+| ------- | ----------------------------------------- | ---------------------------------- |
+| A       | Fish liver oil, carrots, leafy vegetables | Night blindness, xerophthalmia     |
+| B₁      | Whole grains, yeast                       | Beriberi                           |
+| B₂      | Milk, eggs                                | Skin/mucosal problems              |
+| B₆      | Cereals, meat                             | Anaemia, dermatitis                |
+| B₁₂     | Meat, milk, eggs                          | Pernicious anaemia                 |
+| C       | Citrus fruits, amla                       | Scurvy                             |
+| D       | Sunlight, fish liver oil                  | Rickets/osteomalacia               |
+| E       | Vegetable oils, nuts                      | Reproductive/neuromuscular effects |
+| K       | Green leafy vegetables                    | Delayed blood clotting             |
 
 ---
 
