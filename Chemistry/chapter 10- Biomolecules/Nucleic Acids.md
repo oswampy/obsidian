@@ -1,4 +1,4 @@
-# Nucleic Acids
+
 
 Nucleic acids are polymers of **nucleotides**.
 
