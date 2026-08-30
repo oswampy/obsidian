@@ -153,3 +153,56 @@ $pH = pK_a + \log\frac{[A^-]}{[HA]} (representation: \log\frac{[Salt]}{[Acid]})$
 **Example:** If we prepare buffer $sol^n$ with acetic acid and sodium acetate, then $pK_a = 4.76$
 
 **Note:** Volume × strength/Molarity = concentration
+
+
+
+---
+
+#  Concentrations of a multi step rxn
+  
+ 
+
+When a polyprotic acid (an acid that can donate more than one proton) is dissolved in water, it dissociates in successive steps, each with its own acid dissociation constant ($K_{a1}$, $K_{a2}$, $K_{a3}$, etc.).
+
+For almost all practical calculations, the hydrogen ion concentration $[\text{H}^+]$ is determined solely by the first dissociation step ($K_{a1}$).
+
+## 1. The General Rule: Focus on $K_{a1}$
+
+Because $K_{a1} \gg K_{a2} \gg K_{a3}$ (usually by a factor of $10^4$ or more), the amount of $[\text{H}^+]$ produced by the second and third steps is entirely negligible. Furthermore, the $[\text{H}^+]$ produced in the first step shifts the equilibria of the subsequent steps to the left (via the common ion effect), suppressing them even further.
+
+- Approximate Formula (if $c \gg K_{a1}$):  
+    $$\mathbf{[\text{H}^+] \approx \sqrt{K_{a1} \cdot c}}$$  
+    _(Where $c$ is the initial concentration of the polyprotic acid)._
+- Exact Quadratic Formula (if the acid is dilute or $K_{a1}$ is relatively large):  
+    $$[\text{H}^+]^2 + K_{a1}[\text{H}^+] - K_{a1}c = 0 \implies \mathbf{[\text{H}^+] = \frac{-K_{a1} + \sqrt{K_{a1}^2 + 4K_{a1}c}}{2}}$$
+
+---
+
+## 2. Concentration of Other Species at Equilibrium
+
+If a problem gives you multiple $K_a$ values, it often asks for the concentrations of the intermediate or fully deprotonated anions. Once you know $[\text{H}^+] \approx \sqrt{K_{a1} \cdot c}$, you can use these shortcuts:
+
+- For a Diprotic Acid ($\text{H}_2\text{A}$):
+    
+    - $[\text{H}_2\text{A}] \approx c - [\text{H}^+]$
+    - $[\text{HA}^-] \approx [\text{H}^+]$
+    - $[\text{A}^{2-}] \approx K_{a2}$ _(Remarkably, the concentration of the fully deprotonated anion is roughly equal to $K_{a2}$, completely independent of the acid concentration!)_
+    
+- For a Triprotic Acid ($\text{H}_3\text{A}$):
+    
+    - $[\text{H}_2\text{A}^-] \approx [\text{H}^+]$
+    - $[\text{HA}^{2-}] \approx K_{a2}$
+    - $[\text{A}^{3-}] \approx \frac{K_{a2} \cdot K_{a3}}{[\text{H}^+]}$
+    
+
+---
+
+## 3. The Exception: When $K_{a2}$ Matters
+
+The only common exception where you cannot ignore the subsequent steps is Sulfuric Acid ($\text{H}_2\text{SO}_4$).
+
+- The first dissociation step is completely strong ($K_{a1} \to \infty$), so it releases $[\text{H}^+] = c$ instantly.
+- The second step ($\text{HSO}_4^- \rightleftharpoons \text{H}^+ + \text{SO}_4^{2-}$) has a relatively large $K_{a2} \approx 1.2 \times 10^{-2}$.
+- To find total $[\text{H}^+]$ for sulfuric acid, you set up an ICE table for the second step: $K_{a2} = \frac{(c + x)(x)}{c - x}$, where total $[\text{H}^+] = c + x$.
+
+Do you have a specific polyprotic acid problem you are working on? If you share the values of $K_{a1}, K_{a2}$, and the initial concentration ($c$), I can calculate the exact $[\text{H}^+]$ and concentration of all species for you!
