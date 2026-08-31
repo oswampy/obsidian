@@ -31,6 +31,37 @@ $\boxed{\text{identity of solute}}$
 For example, one mole of glucose and one mole of urea produce approximately the same colligative effect under ideal dilute conditions because both give approximately one mole of solute particles.
 
 ---
+# Relative Lowering of Vapour Pressure
+
+For a solution containing a non-volatile solute:
+
+$\Delta p=p_1^0-p_1$
+
+Using Raoult's law:
+
+$p_1=x_1p_1^0$
+
+Therefore:
+
+$\Delta p=p_1^0-x_1p_1^0$
+
+$\Delta p=p_1^0(1-x_1)$
+
+Since:
+
+$x_1+x_2=1$
+
+we get:
+
+$\Delta p=p_1^0x_2$
+
+Therefore:
+
+$\boxed{\frac{\Delta p}{p_1^0}=x_2}$
+
+This is the **relative lowering of vapour pressure**.
+
+---
 
 # Elevation of Boiling Point
 
@@ -48,7 +79,7 @@ $\boxed{\text{Boiling point increases}}$
 
 ---
 
-# Formula for Elevation of Boiling Point
+## Formula for Elevation of Boiling Point
 
 Let:
 
@@ -72,7 +103,7 @@ $m$ = molality
 
 ---
 
-# Molal Elevation Constant
+## Molal Elevation Constant
 
 $K_b$ is the elevation in boiling point produced when:
 
@@ -82,7 +113,7 @@ provided the solution behaves ideally and is sufficiently dilute.
 
 ---
 
-# Formula Using Masses
+## Formula Using Masses
 
 $m=\frac{w_2/M_2}{w_1/1000}$
 
@@ -120,7 +151,7 @@ $K_f$ = molal depression constant.
 
 ---
 
-# Why Does Freezing Point Decrease?
+## Why Does Freezing Point Decrease?
 
 The presence of solute lowers the chemical potential of the liquid solvent.
 
@@ -132,7 +163,7 @@ $\boxed{T_f\downarrow}$
 
 ---
 
-# Formula Using Masses
+## Formula Using Masses
 
 $m=\frac{1000w_2}{M_2w_1}$
 
@@ -146,7 +177,7 @@ $\boxed{M_2=\frac{K_f1000w_2}{\Delta T_fw_1}}$
 
 ---
 
-# Applications of Depression in Freezing Point
+### Applications of Depression in Freezing Point
 
 ### Antifreeze
 
@@ -170,7 +201,7 @@ The membrane allows solvent molecules to pass but prevents solute particles from
 
 ---
 
-# Semipermeable Membrane
+## Semipermeable Membrane
 
 A semipermeable membrane permits only certain particles, usually solvent molecules, to pass through.
 
@@ -185,7 +216,7 @@ Examples:
 
 ---
 
-# Osmotic Pressure
+## Osmotic Pressure
 
 The minimum pressure that must be applied to the solution to stop osmosis is called:
 
@@ -220,7 +251,7 @@ $\boxed{\pi=\frac{n}{V}RT}$
 
 ---
 
-# Osmotic Pressure in Terms of Mass
+## Osmotic Pressure in Terms of Mass
 
 Since:
 
@@ -238,7 +269,7 @@ This is one of the most important formulas in the chapter.
 
 ---
 
-# Why Osmotic Pressure is Important
+## Why Osmotic Pressure is Important
 
 Osmotic pressure is particularly useful for finding molar masses of:
 
@@ -253,7 +284,7 @@ because it can be measured at room temperature and uses very dilute solutions.
 
 ---
 
-# Reverse Osmosis
+## Reverse Osmosis
 
 If pressure greater than the osmotic pressure is applied to the solution side:
 
@@ -267,7 +298,7 @@ This process is called:
 
 ---
 
-# Application of Reverse Osmosis
+## Application of Reverse Osmosis
 
 Reverse osmosis is used for:
 
