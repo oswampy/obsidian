@@ -512,7 +512,7 @@ $p<p_1^0$
 
 Therefore:
 
-\boxed{\text{Addition of non-volatile solute lowers vapour pressure}}
+$$\boxed{\text{Addition of non-volatile solute lowers vapour pressure}}$$
 
 ---
 
