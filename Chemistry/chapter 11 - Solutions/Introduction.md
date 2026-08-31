@@ -419,8 +419,6 @@ For a solution of volatile liquids:
 
 $p_1=x_1p_1^0$
 
-and:
-
 $p_2=x_2p_2^0$
 
 where:
