@@ -407,6 +407,10 @@ The pressure exerted by the vapour at equilibrium is called:
 
 **Vapour pressure**
 
+- it does not depend on shape/size of container
+- it depends on nature of substance
+- inversely proportional to force of attraction
+
 ---
 
 # Raoult's Law
