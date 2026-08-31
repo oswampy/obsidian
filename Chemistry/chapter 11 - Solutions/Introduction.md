@@ -409,7 +409,7 @@ The pressure exerted by the vapour at equilibrium is called:
 
 - it does not depend on shape/size of container
 - it depends on nature of substance
-- inversely proportional to force of attraction
+- inversely proportional to force of attraction  
 
 ---
 
