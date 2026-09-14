@@ -1,4 +1,4 @@
-These notes provide a comprehensive overview of Organic Chemistry **Reaction Mechanisms**, focusing on the nature of reagents (electrophiles and nucleophiles) and the basics of nucleophilic substitution.
+
 
 ---
 
