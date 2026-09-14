@@ -115,9 +115,7 @@
         
         - **Methyl Substituents ($-\text{CH}_3$):**$$(2^\circ > 1^\circ > 3^\circ > \text{NH}_3) \implies (\text{CH}_3)_2\text{NH} > \text{CH}_3\text{NH}_2 > (\text{CH}_3)_3\text{N} > \text{NH}_3$$
             
-        - **Ethyl Substituents ($-\text{C}_2\text{H}_5$):**
-            
-            $$(2^\circ > 3^\circ > 1^\circ > \text{NH}_3) \implies (\text{C}_2\text{H}_5)_2\text{NH} > (\text{C}_2\text{H}_5)_3\text{N} > \text{C}_2\text{H}_5\text{NH}_2 > \text{NH}_3$$
+        - **Ethyl Substituents ($-\text{C}_2\text{H}_5$):**$$(2^\circ > 3^\circ > 1^\circ > \text{NH}_3) \implies (\text{C}_2\text{H}_5)_2\text{NH} > (\text{C}_2\text{H}_5)_3\text{N} > \text{C}_2\text{H}_5\text{NH}_2 > \text{NH}_3$$
             
     - **Aromatic vs. Aliphatic Amines:** Arylamines (e.g., Aniline) are significantly **less basic** than aliphatic amines because:
         
