@@ -95,8 +95,9 @@ ii) Hundsdiecker Reaction
 	$RCOOH + AgOH \to RCOO^-Ag^+$ (Dehydration)
 	
 	$RCOOAg +Br_{2}\to R-Br +CO_{2} +AgBr$
-	Mechanism is free radical formation(because of Ag) after splitting of RCOOBr.
+	Mechanism is **free radical formation**(because of Ag) after splitting of RCOOBr.
 	If instead of $Br_{2}$ we used iodine then we would get an ester(+CO2 +AgI) and the reaction is called ***Birnbaum-Simonini Reaction***
+	$RCOOAg +I_{2}\to RCOOR +CO_{2} +AgI$
 ## Preparation of Haloarenes
 ### 5. From hydrocarbons by electrophilic substitution
 
