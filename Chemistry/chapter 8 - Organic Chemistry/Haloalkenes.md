@@ -19,7 +19,7 @@
 - (X₂ = Br₂, I₂)
 
 
-**6. R-OH + SOCl₂ → R-Cl + SO₂↑ + HCl↑** (SN₁ mechanism)
+**6. R-OH + SOCl₂ → R-Cl + SO₂↑ + HCl↑** (SN₁ mechanism (Darzen's))
 
 ## 2. FROM HYDROCARBONS
 
