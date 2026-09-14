@@ -64,7 +64,7 @@ $C - C - O - C$
 
 **Double Bond Equivalence**
 
-$DBE = C+\frac{H}{2} + \frac{N}{2} + 1$ | Ignore $O, S$ | Consider Halogen as $H$
+$DBE = C-\frac{H}{2} -\frac{N}{2} + 1$ | Ignore $O, S$ | Consider Halogen as $H$
 
 e.g., $C_3H_6$ $DBE = 1$ (1 double bond) | 1 Ring
 
