@@ -96,7 +96,6 @@ The rate of reaction is proportional to the stability of the leaving group. A we
 - **Stability:** $OH^- > NH_2^-$ because Oxygen is more electronegative than Nitrogen and can stabilize the negative charge better.
     
 
-Here is the complete, clean transcription of your organic chemistry notes organized with clear headings and proper markdown formatting.
 
 ---
 
