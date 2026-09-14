@@ -113,9 +113,7 @@
         
     - **Aqueous Phase Order:** Controlled by three competing factors: **+I effect**, **solvation energy of the conjugate ammonium cation**, and **steric hindrance**:
         
-        - **Methyl Substituents ($-\text{CH}_3$):**
-            
-            $$(2^\circ > 1^\circ > 3^\circ > \text{NH}_3) \implies (\text{CH}_3)_2\text{NH} > \text{CH}_3\text{NH}_2 > (\text{CH}_3)_3\text{N} > \text{NH}_3$$
+        - **Methyl Substituents ($-\text{CH}_3$):**$$(2^\circ > 1^\circ > 3^\circ > \text{NH}_3) \implies (\text{CH}_3)_2\text{NH} > \text{CH}_3\text{NH}_2 > (\text{CH}_3)_3\text{N} > \text{NH}_3$$
             
         - **Ethyl Substituents ($-\text{C}_2\text{H}_5$):**
             
