@@ -1,702 +1,1131 @@
-# Chemical Kinetics — Class 12 CBSE Chemistry
+# Chemical Kinetics — Class 12 CBSE Chemistry Notes
+
+These notes cover the full NCERT Class 12 Chemical Kinetics chapter in an Obsidian-ready format, with definitions, formulas, derivations, graphs, units, solved examples, and common CBSE/JEE-level mistakes.
+
+All formulas use inline Obsidian LaTeX with $...$ so you can paste them directly into your vault.
 
 ## 1. Chemical Kinetics — Introduction
 
-**Chemical kinetics** is the branch of chemistry that deals with the rates of chemical reactions, the factors affecting these rates, and the mechanisms by which reactions occur.
+Chemical kinetics is the branch of chemistry that deals with the rates of chemical reactions, the factors affecting these rates, and the mechanisms by which reactions occur.
 
-- **Chemical kinetics:** Studies how fast a reaction occurs.
-    
-- **Thermodynamics:** Predicts the feasibility and direction of a reaction.
-    
-- **Chemical equilibrium:** Studies the state where forward and reverse reaction rates are equal.
-    
+It helps us understand:
+
+- How quickly reactants are converted into products.
+- How concentration affects reaction rate.
+- How temperature affects reaction rate.
+- How catalysts increase reaction rates.
+- How rate laws can be used to determine reaction order.
+
+### Chemical Kinetics vs Chemical Equilibrium
+
+|Chemical kinetics|Chemical equilibrium|
+|---|---|
+|Studies the rate of a reaction|Studies the state reached when forward and reverse rates are equal|
+|Explains how quickly a reaction proceeds|Explains the equilibrium composition|
+|Deals with rate laws and rate constants|Deals with equilibrium constants|
+
+Important: A reaction may be thermodynamically favourable but still proceed very slowly. Thermodynamics predicts feasibility, while kinetics describes the rate.
 
 ## 2. Rate of a Chemical Reaction
 
-The **rate of a chemical reaction** is the change in concentration of a reactant or product per unit time.
+The rate of a chemical reaction is the change in concentration of a reactant or product per unit time.
 
-For the reaction $R \rightarrow P$:
+For a reaction:
 
-- Rate of disappearance of reactant: $-\frac{\Delta[R]}{\Delta t}$
-    
-- Rate of formation of product: $\frac{\Delta[P]}{\Delta t}$
-    
+$R → P$
 
-### Units
+The rate can be expressed as:
 
-- SI unit: $\text{mol m}^{-3}\text{ s}^{-1}$
-    
-- Common unit: $\text{mol L}^{-1}\text{ s}^{-1}$
-    
+- Decrease in concentration of reactant per unit time.
+- Increase in concentration of product per unit time.
 
-The negative sign is used for reactants because their concentration decreases with time.
+### Average Rate of Reaction
 
-### Average Rate
+The average rate is measured over a finite time interval.
 
-The average rate is calculated over a finite time interval.
+For a reactant R:
 
-For a reactant:
+$Average rate = −Δ[R]/Δt$
 
-$\text{Average rate}=-\frac{[R]_2-[R]_1}{t_2-t_1}$
+For a product P:
 
-For a product:
+$Average rate = Δ[P]/Δt$
 
-$\text{Average rate}=\frac{[P]_2-[P]_1}{t_2-t_1}$
+The negative sign for a reactant is used because its concentration decreases with time.
 
-### Example
+### Units of Rate
 
-The concentration of a reactant decreases from $0.80\text{ mol L}^{-1}$ to $0.50\text{ mol L}^{-1}$ in $10\text{ s}$.
+If concentration is measured in mol L⁻¹ and time in seconds:
 
-$\text{Rate}=-\frac{0.50-0.80}{10}$
+$Unit of rate = mol L⁻¹ s⁻¹$
 
-$\text{Rate}=0.03\text{ mol L}^{-1}\text{ s}^{-1}$
-
-## 3. Rate of Reaction for a General Equation
-
-For the reaction:
-
-$aA+bB\rightarrow cC+dD$
-
-The rate of reaction is:
-
-$\text{Rate}=-\frac{1}{a}\frac{d[A]}{dt}=-\frac{1}{b}\frac{d[B]}{dt}=\frac{1}{c}\frac{d[C]}{dt}=\frac{1}{d}\frac{d[D]}{dt}$
-
-The stoichiometric coefficients are used to express the same overall reaction rate in terms of different species.
+Other possible units include mol m⁻³ s⁻¹ when concentration is expressed in mol m⁻³.
 
 ### Example
 
-For the reaction:
+Suppose the concentration of a reactant decreases from 0.80 mol L⁻¹ to 0.50 mol L⁻¹ in 10 seconds.
 
-$2N_2O_5\rightarrow 4NO_2+O_2$
+$Average rate = −(0.50 − 0.80)/10$
 
-The rate is:
+$Average rate = 0.03 mol L⁻¹ s⁻¹$
 
-$\text{Rate}=-\frac{1}{2}\frac{d[N_2O_5]}{dt}=\frac{1}{4}\frac{d[NO_2]}{dt}=\frac{d[O_2]}{dt}$
+The positive rate indicates that the reactant is being consumed.
 
-## 4. Instantaneous Rate
+## 3. Rate of Reaction for a General Chemical Equation
 
-The **instantaneous rate** is the rate of a reaction at a particular instant.
+Consider the reaction:
 
-For a reactant:
+$aA + bB → cC + dD$
 
-$\text{Instantaneous rate}=-\frac{d[R]}{dt}$
+The rate of reaction is defined by:
 
-For a product:
+$Rate = −(1/a)d[A]/dt$
 
-$\text{Instantaneous rate}=\frac{d[P]}{dt}$
+$= −(1/b)d[B]/dt$
 
-On a concentration-time graph, the instantaneous rate is determined by the slope of the tangent at the required time.
+$= (1/c)d[C]/dt$
 
-- Reactant concentration decreases, so its slope is negative.
-    
-- Product concentration increases, so its slope is positive.
-    
+$= (1/d)d[D]/dt$
 
-## 5. Factors Affecting Reaction Rate
+For average rates, the concentration changes are divided by the time interval instead of using derivatives.
 
-### Concentration
+### Why Are Stoichiometric Coefficients Used?
 
-Increasing reactant concentration often increases the reaction rate because more reacting particles are present per unit volume.
+Reactants and products are consumed or formed in different proportions according to the balanced chemical equation.
 
-### Pressure
-
-Increasing the pressure of gaseous reactants at constant temperature generally increases their concentration and may increase the reaction rate.
-
-### Temperature
-
-Increasing temperature generally increases reaction rate because a greater fraction of molecules possesses sufficient energy to overcome the activation energy barrier.
-
-### Catalyst
-
-A catalyst provides an alternative reaction pathway with lower activation energy.
-
-### Nature of Reactants
-
-Different reactants have different bond strengths, structures, and reaction mechanisms, which affect reaction rates.
-
-### Surface Area
-
-Increasing the exposed surface area of a solid reactant generally increases the rate of a heterogeneous reaction.
-
-## 6. Rate Law
-
-The **rate law** expresses the relationship between reaction rate and reactant concentrations.
-
-For a reaction involving $A$ and $B$:
-
-$\text{Rate}=k[A]^m[B]^n$
-
-Where:
-
-- $k$ = rate constant.
-    
-- $[A]$ and $[B]$ = molar concentrations.
-    
-- $m$ = order with respect to $A$.
-    
-- $n$ = order with respect to $B$.
-    
-
-The overall order is:
-
-$\text{Overall order}=m+n$
-
-The exponents are determined experimentally and are not necessarily equal to the stoichiometric coefficients.
+Dividing each concentration-change rate by its stoichiometric coefficient gives the same overall rate of reaction.
 
 ### Example
-
-If:
-
-$\text{Rate}=k[A]^2[B]$
-
-Then:
-
-- Order with respect to $A$ = $2$.
-    
-- Order with respect to $B$ = $1$.
-    
-- Overall order = $3$.
-    
-
-Doubling $[A]$ makes the rate four times greater, while doubling $[B]$ doubles the rate.
-
-## 7. Rate Constant
-
-The **rate constant** is the proportionality constant in the rate law.
 
 For:
 
-$\text{Rate}=k[A]^m[B]^n$
+$2N₂O₅ → 4NO₂ + O₂$
+
+The rate is:
+
+$Rate = −(1/2)d[N₂O₅]/dt$
+
+$= (1/4)d[NO₂]/dt$
+
+$= d[O₂]/dt$
+
+Important: The rate of disappearance of a reactant is not always equal to the overall rate of reaction. The stoichiometric coefficients must be considered.
+
+## 4. Instantaneous Rate of Reaction
+
+The instantaneous rate is the rate of a reaction at a particular instant of time.
+
+It is obtained by finding the slope of the tangent to the concentration-time curve at that instant.
+
+For reactant R:
+
+$Instantaneous rate = −d[R]/dt$
+
+For product P:
+
+$Instantaneous rate = d[P]/dt$
+
+### Graphical Interpretation
+
+In a concentration-versus-time graph:
+
+- The slope for a reactant is negative because its concentration decreases.
+- The slope for a product is positive because its concentration increases.
+- The magnitude of the slope represents the rate of concentration change.
+
+### Average Rate vs Instantaneous Rate
+
+|Average rate|Instantaneous rate|
+|---|---|
+|Measured over a time interval|Measured at a particular instant|
+|Uses a secant slope|Uses a tangent slope|
+|Uses finite concentration changes|Uses a differential|
+
+## 5. Factors Affecting the Rate of a Reaction
+
+The rate of a chemical reaction depends on several factors.
+
+### 1. Concentration of Reactants
+
+Increasing the concentration of reactants often increases the reaction rate because more reacting particles are present per unit volume.
+
+However, the exact dependence is determined experimentally and is expressed through the rate law.
+
+### 2. Pressure of Gaseous Reactants
+
+Increasing the pressure of gaseous reactants at constant temperature generally increases their concentrations and may increase the reaction rate.
+
+### 3. Temperature
+
+Increasing temperature usually increases the rate because a larger fraction of molecules has enough energy to overcome the activation energy barrier.
+
+### 4. Catalyst
+
+A catalyst increases the rate by providing an alternative reaction pathway with a lower activation energy.
+
+It is regenerated in the overall reaction and does not change the equilibrium constant at a fixed temperature.
+
+### 5. Nature of Reactants
+
+Different substances react at different rates because their bond strengths, structures, and reaction mechanisms differ.
+
+### 6. Surface Area
+
+For reactions involving solids, increasing the exposed surface area generally increases the rate because more particles are available for contact with other reactants.
+
+### 7. Light
+
+Some reactions are photochemical and their rates depend on the intensity or wavelength of light.
+
+## 6. Rate Law
+
+The rate law is an experimentally determined mathematical expression that relates the rate of a reaction to the concentrations of reactants raised to certain powers.
+
+For a reaction:
+
+$aA + bB → Products$
+
+The rate law may be written as:
+
+$Rate = k[A]^m[B]^n$
+
+Where:
+
+- k = rate constant.
+- [A] and [B] = molar concentrations of reactants.
+- m = order with respect to A.
+- n = order with respect to B.
+
+The overall order of the reaction is:
+
+$Overall order = m + n$
+
+### Important Points
+
+- The powers m and n are determined experimentally.
+- They are not necessarily equal to the stoichiometric coefficients a and b.
+- The rate law may be different for different reactions with similar-looking balanced equations.
+- The rate constant k is independent of reactant concentrations at a fixed temperature for a given reaction and mechanism.
+
+### Example
+
+Suppose the experimentally determined rate law is:
+
+$Rate = k[A]²[B]$
+
+Then:
+
+- Order with respect to A = 2.
+- Order with respect to B = 1.
+- Overall order = 2 + 1 = 3.
+
+If [A] is doubled while [B] remains constant, the rate becomes four times its original value.
+
+If [B] is doubled while [A] remains constant, the rate becomes twice its original value.
+
+If both are doubled, the rate becomes eight times its original value.
+
+### Rate Law vs Balanced Chemical Equation
+
+Consider:
+
+$2NO(g) + O₂(g) → 2NO₂(g)$
+
+For this reaction, an experimentally established rate law is:
+
+$Rate = k[NO]²[O₂]$
+
+The reaction is third order overall.
+
+The exponents happen to match the stoichiometric coefficients here, but this is not a general rule for chemical reactions.
+
+## 7. Rate Constant
+
+The rate constant (k) is the proportionality constant in the rate law.
+
+For:
+
+$Rate = k[A]^m[B]^n$
 
 The rate constant is:
 
-$k=\frac{\text{Rate}}{[A]^m[B]^n}$
+$k = Rate/([A]^m[B]^n)$
 
-For a reaction of overall order $N$, using concentration in $\text{mol L}^{-1}$ and time in seconds:
+### Characteristics of the Rate Constant
 
-$\text{Unit of }k=(\text{mol L}^{-1})^{1-N}\text{ s}^{-1}$
+- For a given reaction, k is independent of reactant concentrations at a fixed temperature.
+- Its value generally increases with temperature.
+- It depends on the nature of the reaction.
+- A catalyst can change the observed rate constant by changing the reaction pathway.
+- Its units depend on the overall order of the reaction.
 
-|Order|Unit of $k$|
+### Units of Rate Constant
+
+For a reaction of overall order N:
+
+$Unit of k = (mol L⁻¹)^(1 − N) s⁻¹$
+
+This expression assumes the rate is measured in mol L⁻¹ s⁻¹ and time in seconds.
+
+|Overall order|Unit of k|
 |---|---|
-|Zero|$\text{mol L}^{-1}\text{ s}^{-1}$|
-|First|$\text{s}^{-1}$|
-|Second|$\text{L mol}^{-1}\text{ s}^{-1}$|
-|Third|$\text{L}^2\text{ mol}^{-2}\text{ s}^{-1}$|
+|Zero order|mol L⁻¹ s⁻¹|
+|First order|s⁻¹|
+|Second order|L mol⁻¹ s⁻¹|
+|Third order|L² mol⁻² s⁻¹|
 
-The rate constant is independent of reactant concentration at a fixed temperature for a given kinetic regime.
+Exam tip: Always calculate the units of k from the rate law rather than memorising one unit for all reactions.
 
 ## 8. Order of a Reaction
 
-The **order of a reaction** is the sum of the powers of the concentration terms in its experimentally determined rate law.
+The order of a reaction is the sum of the powers of the concentration terms in its experimentally determined rate law.
 
-### Zero Order
+For:
 
-$\text{Rate}=k$
+$Rate = k[A]^m[B]^n$
 
-The rate is independent of reactant concentration.
+The order with respect to A is m, the order with respect to B is n, and the overall order is m + n.
 
-### First Order
+### Types of Reaction Order
 
-$\text{Rate}=k[A]$
+Zero-order reaction
 
-The rate is directly proportional to the concentration of $A$.
+$Rate = k$
 
-### Second Order
+The rate does not depend on the concentration of the reactant in the rate law.
 
-Examples:
+First-order reaction
 
-$\text{Rate}=k[A]^2$
+$Rate = k[A]$
 
-$\text{Rate}=k[A][B]$
+The rate is directly proportional to the concentration of A.
 
-Both have an overall order of $2$.
+Second-order reaction
 
-### Fractional Order
+Examples include:
 
-$\text{Rate}=k[A]^{1/2}$
+$Rate = k[A]²$
 
-The order with respect to $A$ is $\frac{1}{2}$.
+or
 
-### Properties of Order
+$Rate = k[A][B]$
 
-- It is determined experimentally.
-    
-- It may be zero, positive, negative, or fractional.
-    
-- It is not necessarily equal to the stoichiometric coefficients.
-    
+Both have an overall order of two.
 
-## 9. Molecularity
+Fractional-order reaction
 
-**Molecularity** is the number of reacting species participating in a single elementary reaction step.
+A reaction may have a rate law such as:
 
-### Types
+$Rate = k[A]^(1/2)$
 
-- **Unimolecular:** One species participates, such as $A\rightarrow P$.
-    
-- **Bimolecular:** Two species participate, such as $A+B\rightarrow P$.
-    
-- **Termolecular:** Three species participate in the same elementary step.
-    
+Its order is one-half.
+
+Negative-order dependence
+
+A reactant may inhibit a reaction under certain mechanisms, producing a negative exponent in an experimentally determined rate law.
+
+### Important Properties of Order
+
+- Order can be zero, positive, negative or fractional.
+- Order is determined experimentally.
+- Order is not necessarily a whole number.
+- Order can be zero even when the reactant is consumed.
+- Order is not generally equal to the stoichiometric coefficient.
+
+## 9. Molecularity of a Reaction
+
+Molecularity is the number of reacting species that collide or participate together in a single elementary reaction step.
+
+It is defined only for an elementary step, not for an overall complex reaction.
+
+### Types of Molecularity
+
+Unimolecular reaction
+
+One reacting species participates in the elementary step.
+
+Example:
+
+$A → Products$
+
+Molecularity = 1.
+
+Bimolecular reaction
+
+Two reacting species participate in the elementary step.
+
+Example:
+
+$A + B → Products$
+
+Molecularity = 2.
+
+Termolecular reaction
+
+Three reacting species participate in the same elementary step.
+
+Such steps are relatively uncommon because the simultaneous interaction of three species is less probable.
 
 ### Order vs Molecularity
 
 |Order|Molecularity|
 |---|---|
-|Determined experimentally|Obtained from an elementary step|
-|Can be zero or fractional|Always a positive integer|
-|Applies to an observed rate law|Applies only to an elementary step|
-|May be negative|Cannot be negative|
+|Determined experimentally from the rate law|Determined from an elementary reaction step|
+|Can be zero, fractional or negative|Always a positive integer|
+|Applies to the experimentally observed rate law|Applies only to an elementary step|
+|May differ from stoichiometric coefficients|Counts reacting species in the elementary step|
+|Can be assigned to an overall reaction's rate law|Cannot generally be assigned to a complex overall reaction|
 
-For an elementary reaction $A+B\rightarrow P$, the usual rate law is:
+### Important Difference
 
-$\text{Rate}=k[A][B]$
+For an elementary reaction:
 
-Its order and molecularity are both $2$.
+$A + B → Products$
 
-## 10. Zero-Order Reactions
+If the step follows the usual mass-action law, its rate law is:
 
-A **zero-order reaction** has a rate independent of the reactant concentration.
+$Rate = k[A][B]$
 
-For:
+The order is 2, and the molecularity is 2.
 
-$A\rightarrow P$
+However, for a complex reaction, the overall rate law cannot be obtained simply by reading coefficients from the overall balanced equation.
 
-The rate law is:
+## 10. Integrated Rate Equations
 
-$-\frac{d[A]}{dt}=k$
+An integrated rate equation relates the concentration of a reactant to time.
 
-### Integrated Rate Equation
+It is obtained by integrating the differential rate law.
 
-Rearranging:
+The two most important integrated rate equations in the CBSE chapter are those for zero-order and first-order reactions.
 
-$d[A]=-k,dt$
+## 11. Zero-Order Reactions
 
-Integrating between the initial concentration $[A]_0$ and concentration $[A]_t$:
-
-$[A]_t=[A]_0-kt$
-
-Therefore:
-
-$k=\frac{[A]_0-[A]_t}{t}$
-
-### Graph
-
-A plot of $[A]_t$ against time is a straight line.
-
-- Slope: $-k$
-    
-- Y-intercept: $[A]_0$
-    
-
-### Half-Life
-
-Half-life is the time required for the reactant concentration to become half of its initial value.
-
-At half-life:
-
-$[A]_t=\frac{[A]_0}{2}$
-
-Substituting into the integrated equation:
-
-$\frac{[A]_0}{2}=[A]_0-kt_{1/2}$
-
-Therefore:
-
-$t_{1/2}=\frac{[A]_0}{2k}$
-
-### Characteristics
-
-- Rate: $k$.
-    
-- Integrated equation: $[A]_t=[A]_0-kt$.
-    
-- Half-life depends directly on the initial concentration.
-    
-- Unit of $k$: $\text{mol L}^{-1}\text{ s}^{-1}$.
-    
-
-## 11. First-Order Reactions
-
-A **first-order reaction** has a rate directly proportional to the concentration of one reactant.
+A zero-order reaction is a reaction whose rate is independent of the concentration of the reactant.
 
 For:
 
-$A\rightarrow P$
+$A → Products$
 
 The rate law is:
 
-$-\frac{d[A]}{dt}=k[A]$
+$Rate = k$
+
+Therefore:
+
+$−d[A]/dt = k$
 
 ### Derivation of the Integrated Rate Equation
 
 Rearranging:
 
-$\frac{d[A]}{[A]}=-k,dt$
+$d[A] = −k dt$
 
-Integrating:
+Integrating between the initial concentration [A]₀ at time zero and concentration [A]ₜ at time t:
 
-$\ln\frac{[A]_t}{[A]_0}=-kt$
+$Aₜ − [A]₀ = −kt$
 
 Therefore:
 
-$\ln\frac{[A]_0}{[A]_t}=kt$
+$Aₜ = [A]₀ − kt$
 
-Converting to common logarithms:
+This is the integrated rate equation for a zero-order reaction.
 
-$k=\frac{2.303}{t}\log\frac{[A]_0}{[A]_t}$
+### Important Formula
 
-The equivalent exponential form is:
+$Aₜ = [A]₀ − kt$
 
-$[A]_t=[A]_0e^{-kt}$
+Rearranging:
 
-### Graphs
+$k = ([A]₀ − [A]ₜ)/t$
 
-For a plot of $\ln[A]$ against time:
+### Graph of a Zero-Order Reaction
 
-- Slope: $-k$.
-    
-- Y-intercept: $\ln[A]_0$.
-    
+A plot of reactant concentration [A] against time t is a straight line.
 
-For a plot of $\log[A]$ against time:
+- Y-intercept = [A]₀.
+- Slope = −k.
 
-- Slope: $-\frac{k}{2.303}$.
-    
-- Y-intercept: $\log[A]_0$.
-    
+[5.3 Concentration Changes Over Time | AP Chemistry](https://images.openai.com/static-rsc-4/981HHi9HB5nApE4NBHbva6r647oK7pUEkqwyUhcn8tjv9cSuEOytntVZ9ag7QCK1HDIdyA2TuQzENwvekTbJqUZ8qBrQlIoMXKLQgSI-Y6m-itzIPof_e5BTQ0Z0d7X8ex218CkJIGm2qi1vWDxmItKvbO164VuLW_fbAnaIEzY?purpose=inline)
 
-### Half-Life
+[chemistrystudent.com](https://www.chemistrystudent.com/ap-chemistry/5-kinetics/concentration-changes-over-time.html)
+
+### Half-Life of a Zero-Order Reaction
+
+Half-life (t₁/₂) is the time required for the concentration of a reactant to become half of its initial value.
 
 At half-life:
 
-$[A]_t=\frac{[A]_0}{2}$
+$Aₜ = [A]₀/2$
 
-Using the integrated equation:
+Substituting into the integrated rate equation:
 
-$k=\frac{2.303}{t_{1/2}}\log 2$
+$A₀/2 = [A]₀ − kt₁/₂$
 
-Since $\log 2\approx 0.3010$:
+Therefore:
 
-$t_{1/2}=\frac{0.693}{k}$
+$ t₁/₂ = [A]₀/(2k)$
 
 ### Characteristics
 
-- Rate: $k[A]$.
-    
-- Unit of $k$: $\text{s}^{-1}$.
-    
-- Half-life is independent of initial concentration.
-    
-- The same fraction of reactant is consumed in equal half-life intervals.
-    
+- Rate = k.
+- Integrated equation: $Aₜ = [A]₀ − kt$.
+- Graph of [A] versus t is a straight line.
+- Slope of the graph is −k.
+- Half-life is directly proportional to the initial concentration.
+- Unit of k is mol L⁻¹ s⁻¹.
 
-## 12. Half-Life of a Reaction
+### When Can Zero-Order Behaviour Occur?
 
-The **half-life** is the time required for the concentration of a reactant to become half of its initial concentration.
+Zero-order kinetics can occur when the rate is independent of reactant concentration over the conditions being studied.
 
-It is represented by $t_{1/2}$.
+For example, some surface-catalysed reactions show zero-order behaviour when the active surface is saturated with the relevant reactant.
 
-|Order|Half-life formula|
-|---|---|
-|Zero|$t_{1/2}=\frac{[A]_0}{2k}$|
-|First|$t_{1/2}=\frac{0.693}{k}$|
-|Second, for $\text{Rate}=k[A]^2$|$t_{1/2}=\frac{1}{k[A]_0}$|
+## 12. First-Order Reactions
 
-### Fraction Remaining in a First-Order Reaction
-
-After $n$ half-lives:
-
-$\text{Fraction remaining}=\left(\frac{1}{2}\right)^n$
-
-$\text{Fraction reacted}=1-\left(\frac{1}{2}\right)^n$
-
-If a fraction $f$ remains:
-
-$t=\frac{2.303}{k}\log\frac{1}{f}$
-
-If a fraction $x$ has reacted:
-
-$t=\frac{2.303}{k}\log\frac{1}{1-x}$
-
-## 13. Pseudo-First-Order Reactions
-
-A **pseudo-first-order reaction** is actually of higher order but behaves as a first-order reaction because one reactant is present in large excess.
-
-### Example: Ester Hydrolysis
-
-$CH_3COOC_2H_5+H_2O\rightarrow CH_3COOH+C_2H_5OH$
-
-Suppose the rate law is:
-
-$\text{Rate}=k[\text{ester}][H_2O]$
-
-Water is present in large excess, so its concentration remains approximately constant.
-
-Define:
-
-$k'=k[H_2O]$
-
-The rate law becomes:
-
-$\text{Rate}=k'[\text{ester}]$
-
-This is the form of a first-order rate law.
-
-**Important:** The observed order is one, but the actual rate law includes both reactants.
-
-## 14. Determination of Reaction Order
-
-The **method of initial rates** determines reaction order by comparing initial rates while changing reactant concentrations.
+A first-order reaction is a reaction whose rate is directly proportional to the concentration of one reactant.
 
 For:
 
-$\text{Rate}=k[A]^m$
+$A → Products$
 
-Comparing two experiments:
+The rate law is:
 
-$\frac{\text{Rate}_2}{\text{Rate}_1}=\left(\frac{[A]_2}{[A]_1}\right)^m$
+$Rate = k[A]$
 
 Therefore:
 
-$m=\frac{\log(\text{Rate}_2/\text{Rate}_1)}{\log([A]_2/[A]_1)}$
+$−d[A]/dt = k[A]$
 
-### Quick Identification
+### Derivation of the Integrated Rate Equation
+
+Rearranging:
+
+$d[A]/[A] = −k dt$
+
+Integrating between the initial concentration [A]₀ and concentration [A]ₜ at time t:
+
+$ln([A]ₜ/[A]₀) = −kt$
+
+Therefore:
+
+$ln([A]₀/[A]ₜ) = kt$
+
+Converting natural logarithms into base-10 logarithms:
+
+$k = (2.303/t) log([A]₀/[A]ₜ)$
+
+### Important Formulas
+
+$k = (2.303/t) log([A]₀/[A]ₜ)$
+
+or
+
+$Aₜ = [A]₀e^(−kt)$
+
+The exponential expression is mathematically equivalent to the logarithmic form.
+
+### Graphs of a First-Order Reaction
+
+1. Plot of ln[A] versus time
+
+$ln[A]ₜ = ln[A]₀ − kt$
+
+- Y-intercept = ln[A]₀.
+- Slope = −k.
+
+2. Plot of log[A] versus time
+
+$log[A]ₜ = log[A]₀ − (k/2.303)t$
+
+- Y-intercept = log[A]₀.
+- Slope = −k/2.303.
+
+[3.3 Integrated Rate Equations | NCERT 12 Chemistry](https://images.openai.com/static-rsc-4/9p6qgbJSdhmQskBQECkOK7KVEys1G00jB9gVFj3u5-js9vEkHNWmtNyvAWUg9j7fBlS5Y37kVSHz0nbFiRtGNqLz_0wLj8kQVS_cx41bAC2_SMPH1RjFGuwZXYWgNQvkXugP_htjmWnpgVf0O9JFfnEiA4cYgkVm9zFArAVtz1g?purpose=inline)
+
+[chemistrystudent.com](https://www.chemistrystudent.com/ncert-class-12/3-chemical-kinetics/integrated-rate-equations.html)
+
+### Half-Life of a First-Order Reaction
+
+At half-life:
+
+$Aₜ = [A]₀/2$
+
+Using the integrated equation:
+
+$k = (2.303/t₁/₂) log 2$
+
+Since log 2 ≈ 0.3010:
+
+$t₁/₂ = 0.693/k$
+
+### Characteristics
+
+- Rate = k[A].
+- Unit of k = s⁻¹.
+- Half-life is independent of initial concentration.
+- The same fraction of reactant is consumed in equal half-life intervals.
+- A first-order reaction approaches completion asymptotically in the ideal mathematical model; its concentration does not become exactly zero at a finite time.
+
+### Example: Radioactive Decay
+
+Radioactive decay follows first-order kinetics.
+
+The amount of a radioactive substance decreases exponentially with time.
+
+The same mathematical relationship is used to calculate the time elapsed from a known fraction of the original substance remaining.
+
+## 13. Half-Life of a Reaction
+
+The half-life of a reaction is the time required for the concentration of a reactant to decrease to half of its initial value.
+
+It is represented by $t₁/₂$.
+
+### Half-Life for Different Orders
+
+|Reaction order|Half-life formula|Dependence on initial concentration|
+|---|---|---|
+|Zero order|$t₁/₂ = [A]₀/(2k)$|Directly proportional|
+|First order|$t₁/₂ = 0.693/k$|Independent|
+|Second order, rate = k[A]²|$t₁/₂ = 1/(k[A]₀)$|Inversely proportional|
+
+The second-order formula applies to a reaction with rate law $Rate = k[A]²$ and the usual integrated rate law for that reaction.
+
+### Fraction of Reactant Remaining in a First-Order Reaction
+
+After one half-life:
+
+- Fraction remaining = 1/2.
+- Fraction reacted = 1/2.
+
+After two half-lives:
+
+- Fraction remaining = 1/4.
+- Fraction reacted = 3/4.
+
+After three half-lives:
+
+- Fraction remaining = 1/8.
+- Fraction reacted = 7/8.
+
+After n half-lives:
+
+$Fraction remaining = (1/2)^n$
+
+$Fraction reacted = 1 − (1/2)^n$
+
+### Time for a Fractional Change
+
+For a first-order reaction, if a fraction f of the initial reactant remains:
+
+$Aₜ/[A]₀ = f$
+
+Therefore:
+
+$t = (2.303/k) log(1/f)$
+
+If a fraction x has reacted, then f = 1 − x:
+
+$t = (2.303/k) log(1/(1 − x))$
+
+### Important Exam Point
+
+For a first-order reaction, the time required for a fixed fraction of the reactant to react is independent of the initial concentration.
+
+For a zero-order reaction, the half-life increases when the initial concentration increases.
+
+## 14. Pseudo-First-Order Reactions
+
+A pseudo-first-order reaction is a reaction that is actually of higher order but behaves as a first-order reaction under conditions where one or more reactants are present in large excess.
+
+### Example: Hydrolysis of an Ester
+
+Consider the hydrolysis of an ester using water:
+
+$CH₃COOC₂H₅ + H₂O → CH₃COOH + C₂H₅OH$
+
+The rate law may be expressed as:
+
+$Rate = k[ester][H₂O]$
+
+When water is present in very large excess, its concentration changes negligibly during the reaction.
+
+Therefore, [H₂O] can be treated as approximately constant.
+
+Let:
+
+$k' = k[H₂O]$
+
+The rate law becomes:
+
+$Rate = k'[ester]$
+
+This is the form of a first-order rate law.
+
+### Why Is It Called Pseudo-First-Order?
+
+The actual rate law contains two concentration terms, but because the concentration of water is effectively constant, the observed rate depends only on the ester concentration.
+
+The observed rate constant k' is called the pseudo-first-order rate constant.
+
+### Important Points
+
+- The actual reaction order may be greater than one.
+- One reactant is present in large excess.
+- The excess reactant's concentration remains approximately constant.
+- The observed kinetics follow a first-order expression.
+
+Exam tip: Do not confuse the observed pseudo-first-order behaviour with the actual overall order of the reaction.
+
+## 15. Determination of Reaction Order Using Experimental Data
+
+The reaction order can be determined by measuring how the initial rate changes when reactant concentrations are changed.
+
+### Method of Initial Rates
+
+For:
+
+$Rate = k[A]^m[B]^n$
+
+Compare two experiments in which the concentration of one reactant changes while the other remains constant.
+
+Suppose the rate law is:
+
+$Rate = k[A]^m$
+
+If the concentration changes from [A]₁ to [A]₂:
+
+$Rate₂/Rate₁ = ([A]₂/[A]₁)^m$
+
+Taking logarithms:
+
+$m = log(Rate₂/Rate₁)/log([A]₂/[A]₁)$
+
+### Example
+
+Suppose the following experimental data are obtained:
+
+|Experiment|[A] (mol L⁻¹)|Initial rate (mol L⁻¹ s⁻¹)|
+|---|---|---|
+|1|0.10|0.02|
+|2|0.20|0.04|
+|3|0.30|0.06|
+
+When [A] doubles, the rate doubles.
+
+Therefore:
+
+$Rate ∝ [A]$
+
+The reaction is first order with respect to A.
+
+The rate constant is:
+
+$k = Rate/[A]$
+
+Using experiment 1:
+
+$k = 0.02/0.10$
+
+$k = 0.20 s⁻¹$
+
+### Identifying Order from Rate Changes
 
 If concentration doubles:
 
-|Change in rate|Order|
+|Rate change|Order with respect to the reactant|
 |---|---|
-|No change|Zero|
-|Doubles|First|
-|Becomes four times|Second|
-|Becomes eight times|Third|
+|Rate remains unchanged|Zero|
+|Rate doubles|First|
+|Rate becomes four times|Second|
+|Rate becomes eight times|Third|
 
-These comparisons apply when the other reactant concentrations remain constant.
+These conclusions apply when the concentration of the other reactants remains constant.
 
-## 15. Temperature Dependence of Reaction Rate
+## 16. Temperature Dependence of Reaction Rate
 
-The rate of most chemical reactions increases with temperature because more molecules possess sufficient energy to overcome the activation energy barrier.
+The rate of most chemical reactions increases when temperature increases.
+
+This occurs because the fraction of molecules with sufficient energy to overcome the activation energy barrier increases.
+
+The temperature dependence of the rate constant is described by the Arrhenius equation.
 
 ### Arrhenius Equation
 
-$k=Ae^{-E_a/(RT)}$
+$k = Ae^(−Ea/RT)$
 
 Where:
 
-- $k$ = rate constant.
-    
-- $A$ = frequency factor.
-    
-- $E_a$ = activation energy.
-    
-- $R=8.314\text{ J mol}^{-1}\text{ K}^{-1}$.
-    
-- $T$ = absolute temperature in kelvin.
-    
+- k = rate constant.
+- A = Arrhenius frequency factor or pre-exponential factor.
+- Ea = activation energy.
+- R = gas constant, 8.314 J mol⁻¹ K⁻¹.
+- T = absolute temperature in kelvin.
 
-### Logarithmic Forms
+### Meaning of the Terms
 
-$\ln k=\ln A-\frac{E_a}{RT}$
+Activation energy (Ea): The energy barrier that reacting species must overcome along a reaction pathway.
 
-$\log k=\log A-\frac{E_a}{2.303RT}$
+Frequency factor (A): A factor that accounts for collision frequency and other factors affecting the probability of a successful reaction, depending on the kinetic model.
 
-### Arrhenius Graph
+### Logarithmic Form
 
-For a plot of $\ln k$ against $\frac{1}{T}$:
+Taking natural logarithms:
 
-- Slope: $-\frac{E_a}{R}$.
-    
-- Y-intercept: $\ln A$.
-    
+$ln k = ln A − Ea/(RT)$
 
-For a plot of $\log k$ against $\frac{1}{T}$:
+Converting into base-10 logarithms:
 
-- Slope: $-\frac{E_a}{2.303R}$.
-    
-- Y-intercept: $\log A$.
-    
+$log k = log A − Ea/(2.303RT)$
 
-### Activation Energy from Two Temperatures
+### Graphical Representation
 
-For rate constants $k_1$ and $k_2$ at temperatures $T_1$ and $T_2$:
+A plot of $ln k$ against $1/T$ is a straight line.
 
-$\ln\frac{k_2}{k_1}=\frac{E_a}{R}\left(\frac{1}{T_1}-\frac{1}{T_2}\right)$
+- Slope = $−Ea/R$.
+- Y-intercept = $ln A$.
+
+For a plot of $log k$ against $1/T$:
+
+- Slope = $−Ea/(2.303R)$.
+- Y-intercept = $log A$.
+
+[Arrhenius Equation - IB Chemistry Revision Notes](https://images.openai.com/static-rsc-4/yDSt3PjolO7F10ekd6qwyWKkyQwljzXUBvvZ2lRSkVOkeVSEMsz2Rda1AcMPBsEzs7eT1llGvy4K3FFGmwrbziQ8esbvLAvWk_r3UR7Ee-PjDktVj0MbCo9aq-nXqJh90MXRlZ-aXoc_6oHpmshsCN3J_e3CRELKn-1uJY1wjoU?purpose=inline)
+
+[savemyexams.com](https://www.savemyexams.com/dp/chemistry/ib/23/hl/revision-notes/how-much-how-fast-and-how-far/how-fast-the-rate-of-chemical-change/the-arrhenius-equation/)
+
+### Calculating Activation Energy from Two Temperatures
+
+For rate constants k₁ and k₂ measured at temperatures T₁ and T₂:
+
+$ln(k₂/k₁) = (Ea/R)(1/T₁ − 1/T₂)$
 
 Using common logarithms:
 
-$\log\frac{k_2}{k_1}=\frac{E_a}{2.303R}\left(\frac{1}{T_1}-\frac{1}{T_2}\right)$
+$log(k₂/k₁) = (Ea/2.303R)(1/T₁ − 1/T₂)$
 
 Therefore:
 
-$E_a=\frac{2.303R\log(k_2/k_1)}{(1/T_1)-(1/T_2)}$
+$Ea = (2.303R log(k₂/k₁))/(1/T₁ − 1/T₂)$
 
-**Important:** Temperatures must be in kelvin, and the units of $E_a$ must match the units used for $R$.
+### Important Conditions
 
-## 16. Activation Energy
+- Temperatures must be in kelvin.
+- If Ea is in J mol⁻¹, use R = 8.314 J mol⁻¹ K⁻¹.
+- If Ea is in kJ mol⁻¹, convert units consistently.
+- T₁ and T₂ must correspond to k₁ and k₂, respectively.
 
-**Activation energy** is the energy barrier associated with the reaction pathway that reacting species must overcome to form products.
+### Effect of Increasing Temperature
 
-For the forward reaction:
+As temperature increases, the exponential factor $e^(−Ea/RT)$ generally increases.
 
-$E_a(\text{forward})=E_{\text{transition state}}-E_{\text{reactants}}$
+Therefore, k generally increases.
+
+Important: Temperature changes the rate constant; it does not simply change the concentration exponent in the rate law.
+
+## 17. Activation Energy
+
+Activation energy is the minimum energy barrier associated with the reaction pathway that reacting species must overcome to proceed towards products.
+
+### Energy Profile of a Reaction
+
+In an energy profile diagram:
+
+- The vertical axis represents potential energy.
+- The horizontal axis represents the reaction coordinate.
+- Reactants occupy the initial energy level.
+- Products occupy the final energy level.
+- The highest point along the reaction pathway represents the transition state.
+
+For a forward reaction:
+
+$Ea(forward) = E(transition state) − E(reactants)$
 
 For the reverse reaction:
 
-$E_a(\text{reverse})=E_{\text{transition state}}-E_{\text{products}}$
+$Ea(reverse) = E(transition state) − E(products)$
 
-The enthalpy change is related to the activation energies by:
+The enthalpy change of the reaction is related to the activation energies by:
 
-$\Delta H=E_a(\text{forward})-E_a(\text{reverse})$
+$ΔH = Ea(forward) − Ea(reverse)$
+
+This relation applies when the activation energies are defined relative to the reactants and products along the same reaction pathway.
 
 ### Effect of a Catalyst
 
-A catalyst provides an alternative pathway with lower activation energy.
+A catalyst provides an alternative reaction pathway with a lower activation energy.
 
-- It increases the reaction rate.
-    
-- It does not change the equilibrium constant at a fixed temperature.
-    
-- It does not change the equilibrium position.
-    
-- It is regenerated in the overall reaction.
-    
+As a result:
 
-## 17. Collision Theory
+- The rate constant generally increases.
+- The reaction proceeds faster.
+- The catalyst is regenerated in the overall reaction.
+- The equilibrium constant at a fixed temperature does not change.
+- The equilibrium position does not change.
 
-**Collision theory** explains reaction rates in terms of collisions between reacting particles.
+### Important Distinction
 
-A collision is effective only if the reacting particles have:
+A catalyst changes the kinetics of reaching equilibrium, not the thermodynamic equilibrium constant.
 
-- Sufficient energy to overcome the activation energy.
-    
-- Suitable orientation for the required bonds to break and form.
-    
+## 18. Collision Theory of Chemical Reactions
+
+Collision theory explains reaction rates in terms of collisions between reacting particles.
+
+Not every collision produces a chemical reaction.
+
+For a collision to be effective, the reacting particles must have:
+
+1. Sufficient energy to overcome the activation energy barrier.
+2. A suitable relative orientation for the required bonds to break and form.
 
 ### Effective and Ineffective Collisions
 
-- **Effective collision:** Produces products.
-    
-- **Ineffective collision:** Does not produce products.
-    
+Effective collision: A collision that leads to the formation of products.
 
-Increasing temperature generally increases the fraction of molecules with energy greater than or equal to the activation energy, increasing the number of effective collisions.
+Ineffective collision: A collision that does not lead to products because the energy or orientation is unsuitable.
 
-## 18. Important Graphs
+### Factors Affecting the Number of Effective Collisions
 
-|Graph|Expected shape|Slope|
-|---|---|---|
-|Zero order: $[A]$ vs $t$|Straight line|$-k$|
-|First order: $\ln[A]$ vs $t$|Straight line|$-k$|
-|First order: $\log[A]$ vs $t$|Straight line|$-\frac{k}{2.303}$|
-|Zero order: Rate vs $[A]$|Horizontal line|$0$|
-|First order: Rate vs $[A]$|Straight line through origin|$k$|
+- Concentration of reactants.
+- Temperature.
+- Collision frequency.
+- Molecular orientation.
+- Activation energy.
+- Presence of a catalyst.
 
-## 19. Solved Numericals
+### Why Does Increasing Temperature Increase Rate?
+
+At higher temperature, the distribution of molecular energies shifts so that a larger fraction of molecules has energy at least equal to the activation energy.
+
+Consequently, the number of effective collisions generally increases.
+
+### Limitations of Collision Theory
+
+The simplest collision theory is most suitable for relatively simple gas-phase reactions. More complex reactions may require more detailed models to account for molecular structure, solvent effects, and reaction mechanisms.
+
+## 19. Graphs for Identifying Reaction Order
+
+Graphs are important for both conceptual questions and numericals.
+
+|Reaction order|Graph|Shape|Slope|
+|---|---|---|---|
+|Zero order|[A] vs t|Straight line|−k|
+|First order|ln[A] vs t|Straight line|−k|
+|First order|log[A] vs t|Straight line|−k/2.303|
+|Zero order|Rate vs [A]|Horizontal line|0|
+|First order|Rate vs [A]|Straight line through origin|k|
+
+### How to Identify the Order from a Graph
+
+- If [A] versus t is linear, the reaction is consistent with zero-order kinetics.
+- If ln[A] versus t is linear, the reaction is consistent with first-order kinetics.
+- If log[A] versus t is linear, the reaction is consistent with first-order kinetics.
+- If the rate remains constant as [A] changes, the reaction follows a zero-order rate law over that range.
+- If rate is directly proportional to [A], the reaction follows a first-order rate law over that range.
+
+Important: A graph should be interpreted using the correct integrated rate equation. A straight-line plot is meaningful only when the plotted variables and conditions match that equation.
+
+## 20. Solved Numericals
 
 ### Example 1: First-Order Rate Constant
 
-A first-order reaction has initial concentration $0.80\text{ mol L}^{-1}$. After $20\text{ min}$, the concentration becomes $0.20\text{ mol L}^{-1}$.
+A first-order reaction has an initial concentration of 0.80 mol L⁻¹. After 20 minutes, the concentration becomes 0.20 mol L⁻¹. Calculate the rate constant.
 
-Using:
+Step 1: Write the formula
 
-$k=\frac{2.303}{t}\log\frac{[A]_0}{[A]_t}$
+$k = (2.303/t) log([A]₀/[A]ₜ)$
 
-Substituting:
+Step 2: Substitute the values
 
-$k=\frac{2.303}{20}\log\frac{0.80}{0.20}$
+$k = (2.303/20) log(0.80/0.20)$
 
-$k=\frac{2.303}{20}\log 4$
+$k = (2.303/20) log 4$
 
-Therefore:
+Since log 4 ≈ 0.6021:
 
-$k\approx 0.0693\text{ min}^{-1}$
+$k ≈ 0.0693 min⁻¹$
 
-### Example 2: Half-Life
+Answer: $k = 0.0693 min⁻¹$
 
-The rate constant of a first-order reaction is $0.0231\text{ min}^{-1}$.
+### Example 2: Half-Life of a First-Order Reaction
 
-$t_{1/2}=\frac{0.693}{k}$
+The rate constant of a first-order reaction is 0.0231 min⁻¹. Find its half-life.
 
-$t_{1/2}=\frac{0.693}{0.0231}$
+Formula:
 
-$t_{1/2}=30\text{ min}$
+$t₁/₂ = 0.693/k$
+
+Substitution:
+
+$t₁/₂ = 0.693/0.0231$
+
+$ t₁/₂ = 30 min$
+
+Answer: 30 minutes.
 
 ### Example 3: Zero-Order Reaction
 
-A zero-order reaction has initial concentration $0.60\text{ mol L}^{-1}$ and rate constant $0.02\text{ mol L}^{-1}\text{ min}^{-1}$. Calculate the concentration after $10\text{ min}$.
+A zero-order reaction has an initial concentration of 0.60 mol L⁻¹ and a rate constant of 0.02 mol L⁻¹ min⁻¹. Find the concentration after 10 minutes.
 
-$[A]_t=[A]_0-kt$
+Formula:
 
-$[A]_t=0.60-(0.02\times10)$
+$Aₜ = [A]₀ − kt$
 
-$[A]_t=0.40\text{ mol L}^{-1}$
+Substitution:
 
-### Example 4: Reaction Order
+$Aₜ = 0.60 − (0.02 × 10)$
 
-Doubling the concentration of $A$ makes the rate four times greater.
+$Aₜ = 0.40 mol L⁻¹$
 
-$\frac{\text{Rate}_2}{\text{Rate}_1}=\left(\frac{[A]_2}{[A]_1}\right)^m$
+Answer: 0.40 mol L⁻¹.
 
-$4=2^m$
+### Example 4: Determine the Order from Rate Data
+
+For a reaction, doubling the concentration of A while keeping all other concentrations constant causes the rate to increase fourfold.
+
+Let the order with respect to A be m.
+
+$Rate₂/Rate₁ = ([A]₂/[A]₁)^m$
+
+$4 = 2^m$
 
 Therefore:
 
-$m=2$
+$m = 2$
 
-The reaction is second order with respect to $A$.
+Answer: The reaction is second order with respect to A.
 
-## 20. Common Exam Mistakes
+### Example 5: Activation Energy
 
-- Do not assume the order equals the stoichiometric coefficient.
-    
-- Molecularity applies only to elementary steps.
-    
-- Check the units of the rate constant.
-    
-- Use the correct integrated rate equation.
-    
-- For first-order graphs, distinguish between the slopes of $\ln[A]$ and $\log[A]$ plots.
-    
-- Convert temperature to kelvin in the Arrhenius equation.
-    
-- Keep energy units consistent with $R$.
-    
-- A catalyst changes the reaction rate but not the equilibrium constant.
-    
-- A first-order half-life is independent of initial concentration.
-    
-- Convert time into seconds if the rate constant is expressed in $\text{s}^{-1}$.
-    
+The rate constant of a reaction doubles when the temperature increases from T₁ to T₂. Find the activation energy in terms of these temperatures.
 
-## 21. Final Revision Checklist
+Start with:
 
-- Define average and instantaneous rate.
-    
-- Explain the factors affecting reaction rate.
-    
-- Write and interpret rate laws.
-    
-- Calculate reaction order and units of $k$.
-    
-- Differentiate order and molecularity.
-    
-- Derive the zero-order integrated equation.
-    
-- Derive the first-order integrated equation.
-    
-- Solve half-life numericals.
-    
-- Explain pseudo-first-order reactions.
-    
-- Determine order using experimental data.
-    
-- Interpret concentration-time graphs.
-    
-- Apply the Arrhenius equation.
-    
-- Calculate activation energy.
-    
-- Explain collision theory and effective collisions.
-    
-- Explain the effect of catalysts.
+$ln(k₂/k₁) = (Ea/R)(1/T₁ − 1/T₂)$
+
+Since k₂/k₁ = 2:
+
+$ln 2 = (Ea/R)(1/T₁ − 1/T₂)$
+
+Therefore:
+
+$Ea = R ln 2/(1/T₁ − 1/T₂)$
+
+Substitute the temperatures in kelvin to calculate the numerical answer.
+
+Important: Doubling of the rate constant does not always mean the temperature has doubled. The relationship is exponential, not directly proportional.
+
+## 21. Complete Formula Sheet
+
+Use this section for quick revision before exams.
+
+### Reaction Rate
+
+|Quantity|Formula|
+|---|---|
+|Average rate for a reactant|$−Δ[A]/Δt$|
+|Average rate for a product|$Δ[P]/Δt$|
+|Rate for a general reaction|$−(1/a)d[A]/dt = (1/c)d[C]/dt$|
+|Rate law|$Rate = k[A]^m[B]^n$|
+|Overall order|$m + n$|
+
+### Zero-Order Reaction
+
+|Quantity|Formula|
+|---|---|
+|Rate law|$Rate = k$|
+|Integrated equation|$Aₜ = [A]₀ − kt$|
+|Rate constant|$k = ([A]₀ − [A]ₜ)/t$|
+|Half-life|$t₁/₂ = [A]₀/(2k)$|
+|Unit of k|mol L⁻¹ s⁻¹|
+
+### First-Order Reaction
+
+|Quantity|Formula|
+|---|---|
+|Rate law|$Rate = k[A]$|
+|Integrated equation|$k = (2.303/t) log([A]₀/[A]ₜ)$|
+|Exponential equation|$Aₜ = [A]₀e^(−kt)$|
+|Half-life|$t₁/₂ = 0.693/k$|
+|Time for fraction f remaining|$t = (2.303/k) log(1/f)$|
+|Unit of k|s⁻¹|
+
+### Temperature Dependence
+
+|Quantity|Formula|
+|---|---|
+|Arrhenius equation|$k = Ae^(−Ea/RT)$|
+|Natural-log form|$ln k = ln A − Ea/(RT)$|
+|Common-log form|$log k = log A − Ea/(2.303RT)$|
+|Two-temperature equation|$ln(k₂/k₁) = (Ea/R)(1/T₁ − 1/T₂)$|
+|Activation energy from two temperatures|$Ea = R ln(k₂/k₁)/(1/T₁ − 1/T₂)$|
+
+### Constants
+
+|Constant|Value|
+|---|---|
+|Gas constant, R|8.314 J mol⁻¹ K⁻¹|
+|ln 2|0.693|
+|log 2|0.3010|
+|Conversion|T(K) = t(°C) + 273.15|
+
+## 22. Common CBSE Exam Mistakes
+
+- Rate vs rate constant: Rate depends on concentration for many reactions; the rate constant does not depend on concentration at fixed temperature under a given kinetic regime.
+- Order: Calculate it from the experimentally determined rate law.
+- Molecularity: Assign it only to an elementary step.
+- Stoichiometric coefficients: Do not automatically use them as exponents in a rate law.
+- Units of k: They change with the overall reaction order.
+- Zero-order equation: Use $Aₜ = [A]₀ − kt$.
+- First-order equation: Use the logarithmic integrated equation, not the zero-order equation.
+- Half-life: Only the first-order half-life is independent of initial concentration among the standard zero-, first- and second-order cases listed above.
+- Logarithms: The coefficient 2.303 is required when converting between natural and base-10 logarithms.
+- Temperature: Always convert Celsius to kelvin in the Arrhenius equation.
+- Activation energy: Keep the energy units consistent with R.
+- Catalyst: It lowers the activation energy of an alternative pathway but does not change the equilibrium constant.
+- Pseudo-first-order reaction: One reactant is present in such large excess that its concentration is effectively constant.
+- Graph slopes: For a first-order plot of log[A] versus time, the slope is −k/2.303, not −k.
+- Half-life numericals: Check that the units of k and time are compatible.
+
+## 23. Final Revision Checklist
+
+Chapter mastery
+
+0/15
+
+Define average and instantaneous rates
+
+Explain the factors affecting reaction rate
+
+Write and interpret rate laws
+
+Calculate reaction order and units of k
+
+Differentiate order and molecularity
+
+Derive the zero-order integrated rate equation
+
+Derive the first-order integrated rate equation
+
+Solve zero-order and first-order half-life numericals
+
+Explain pseudo-first-order reactions
+
+Determine reaction order from experimental data
+
+Interpret concentration-time and logarithmic graphs
+
+Apply the Arrhenius equation
+
+Calculate activation energy using two temperatures
+
+Explain collision theory and effective collisions
+
+Explain the effect of catalysts on activation energy
+
+Obsidian tip: Save this as `Chemical Kinetics.md`. You can later link individual concepts using `[[Rate Law]]`, `[[Integrated Rate Equations]]`, `[[Half-Life]]`, and `[[Arrhenius Equation]]` to build a connected revision vault.
+
+To pick up a draggable item, press the space bar. While dragging, use the arrow keys to move the item. Press space again to drop the item in its new position, or press escape to cancel.
+
+To pick up a draggable item, press the space bar. While dragging, use the arrow keys to move the item. Press space again to drop the item in its new position, or press escape to cancel.
+
+⋮⋮⋮⋮
