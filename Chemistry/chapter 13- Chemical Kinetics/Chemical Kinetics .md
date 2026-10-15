@@ -751,7 +751,7 @@ The temperature dependence of the rate constant is described by the Arrhenius eq
 
 ### Arrhenius Equation
 
-$k = Ae^(−Ea/RT)$
+$k = Ae^{−Ea/RT}$
 
 Where:
 
@@ -789,9 +789,7 @@ For a plot of $log k$ against $1/T$:
 - Slope = $−Ea/(2.303R)$.
 - Y-intercept = $log A$.
 
-[Arrhenius Equation - IB Chemistry Revision Notes](https://images.openai.com/static-rsc-4/yDSt3PjolO7F10ekd6qwyWKkyQwljzXUBvvZ2lRSkVOkeVSEMsz2Rda1AcMPBsEzs7eT1llGvy4K3FFGmwrbziQ8esbvLAvWk_r3UR7Ee-PjDktVj0MbCo9aq-nXqJh90MXRlZ-aXoc_6oHpmshsCN3J_e3CRELKn-1uJY1wjoU?purpose=inline)
 
-[savemyexams.com](https://www.savemyexams.com/dp/chemistry/ib/23/hl/revision-notes/how-much-how-fast-and-how-far/how-fast-the-rate-of-chemical-change/the-arrhenius-equation/)
 
 ### Calculating Activation Energy from Two Temperatures
 
@@ -816,7 +814,7 @@ $Ea = (2.303R log(k₂/k₁))/(1/T₁ − 1/T₂)$
 
 ### Effect of Increasing Temperature
 
-As temperature increases, the exponential factor $e^(−Ea/RT)$ generally increases.
+As temperature increases, the exponential factor $e^{(−Ea/RT)}$ generally increases.
 
 Therefore, k generally increases.
 
