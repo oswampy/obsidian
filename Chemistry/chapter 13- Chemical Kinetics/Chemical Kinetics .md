@@ -921,7 +921,8 @@ Graphs are important for both conceptual questions and numericals.
 - If rate is directly proportional to [A], the reaction follows a first-order rate law over that range.
 
 Important: A graph should be interpreted using the correct integrated rate equation. A straight-line plot is meaningful only when the plotted variables and conditions match that equation.
-
+## 19.5 First Order Parallel Reactions
+![[Pasted image 20261016180740.png]]
 ## 20. Solved Numericals
 
 ### Example 1: First-Order Rate Constant
