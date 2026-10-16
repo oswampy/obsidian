@@ -1038,14 +1038,14 @@ Use this section for quick revision before exams.
 
 ### First-Order Reaction
 
-|Quantity|Formula|
-|---|---|
-|Rate law|$Rate = k[A]$|
-|Integrated equation|$k = (2.303/t) log([A]₀/[A]ₜ)$|
-|Exponential equation|$Aₜ = [A]₀e^(−kt)$|
-|Half-life|$t₁/₂ = 0.693/k$|
-|Time for fraction f remaining|$t = (2.303/k) log(1/f)$|
-|Unit of k|s⁻¹|
+| Quantity                      | Formula                        |
+| ----------------------------- | ------------------------------ |
+| Rate law                      | $Rate = k[A]$                  |
+| Integrated equation           | $k = (2.303/t) log([A]₀/[A]ₜ)$ |
+| Exponential equation          | $Aₜ = [A]₀e^{−kt}$             |
+| Half-life                     | $t₁/₂ = 0.693/k$               |
+| Time for fraction f remaining | $t = (2.303/k) log(1/f)$       |
+| Unit of k                     | s⁻¹                            |
 
 ### Temperature Dependence
 
