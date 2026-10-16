@@ -1061,13 +1061,13 @@ For an nth-order reaction ($n \neq 1$):
 
 ### Temperature Dependence
 
-|Quantity|Formula|
-|---|---|
-|Arrhenius equation|$k = Ae^(−Ea/RT)$|
-|Natural-log form|$ln k = ln A − Ea/(RT)$|
-|Common-log form|$log k = log A − Ea/(2.303RT)$|
-|Two-temperature equation|$ln(k₂/k₁) = (Ea/R)(1/T₁ − 1/T₂)$|
-|Activation energy from two temperatures|$Ea = R ln(k₂/k₁)/(1/T₁ − 1/T₂)$|
+| Quantity                                | Formula                           |
+| --------------------------------------- | --------------------------------- |
+| Arrhenius equation                      | $k = Ae^{−Ea/RT}$                 |
+| Natural-log form                        | $ln k = ln A − Ea/(RT)$           |
+| Common-log form                         | $log k = log A − Ea/(2.303RT)$    |
+| Two-temperature equation                | $ln(k₂/k₁) = (Ea/R)(1/T₁ − 1/T₂)$ |
+| Activation energy from two temperatures | $Ea = R ln(k₂/k₁)/(1/T₁ − 1/T₂)$  |
 
 ### Constants
 
