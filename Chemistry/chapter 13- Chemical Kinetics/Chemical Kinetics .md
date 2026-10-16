@@ -1046,6 +1046,18 @@ Use this section for quick revision before exams.
 | Half-life                     | $t₁/₂ = 0.693/k$               |
 | Time for fraction f remaining | $t = (2.303/k) log(1/f)$       |
 | Unit of k                     | s⁻¹                            |
+## Second-Order Reaction
+
+| Quantity                        | Formula                        |
+| ------------------------------- | ------------------------------ |
+| Rate law                        | $Rate = k[A]^2$                |
+| Integrated equation             | $k = (1/t)(1/[A]_t - 1/[A]_0)$ |
+| Half-life                       | $t_{0.5} = 1/(k[A]_0)$         |
+| Time for fraction $f$ remaining | $t = (1/(k[A]_0))(1/f - 1)$    |
+| Unit of $k$                     | $L,mol^-1,s^-1$                |
+
+For an nth-order reaction ($n \neq 1$):
+![[Pasted image 20261016171325.png]]
 
 ### Temperature Dependence
 
@@ -1084,46 +1096,3 @@ Use this section for quick revision before exams.
 - Graph slopes: For a first-order plot of log[A] versus time, the slope is −k/2.303, not −k.
 - Half-life numericals: Check that the units of k and time are compatible.
 
-## 23. Final Revision Checklist
-
-Chapter mastery
-
-0/15
-
-Define average and instantaneous rates
-
-Explain the factors affecting reaction rate
-
-Write and interpret rate laws
-
-Calculate reaction order and units of k
-
-Differentiate order and molecularity
-
-Derive the zero-order integrated rate equation
-
-Derive the first-order integrated rate equation
-
-Solve zero-order and first-order half-life numericals
-
-Explain pseudo-first-order reactions
-
-Determine reaction order from experimental data
-
-Interpret concentration-time and logarithmic graphs
-
-Apply the Arrhenius equation
-
-Calculate activation energy using two temperatures
-
-Explain collision theory and effective collisions
-
-Explain the effect of catalysts on activation energy
-
-Obsidian tip: Save this as `Chemical Kinetics.md`. You can later link individual concepts using `[[Rate Law]]`, `[[Integrated Rate Equations]]`, `[[Half-Life]]`, and `[[Arrhenius Equation]]` to build a connected revision vault.
-
-To pick up a draggable item, press the space bar. While dragging, use the arrow keys to move the item. Press space again to drop the item in its new position, or press escape to cancel.
-
-To pick up a draggable item, press the space bar. While dragging, use the arrow keys to move the item. Press space again to drop the item in its new position, or press escape to cancel.
-
-⋮⋮⋮⋮
