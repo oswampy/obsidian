@@ -222,8 +222,12 @@ For the electrode couple $M^{2+}/M$:
 - A more negative value indicates a greater tendency for the metal to undergo oxidation under standard conditions.
     
 - A more positive value indicates a greater tendency for the metal ion to undergo reduction.
+##### M2+/M+
 
-    ![[Pasted image 20261027202136.png]]
+- ![[Pasted image 20261027204113.png]]
+##### M3+/M2+
+
+ ![[Pasted image 20261027202136.png]]
 
 #### Why Is the Standard Electrode Potential of Copper Positive?
 
