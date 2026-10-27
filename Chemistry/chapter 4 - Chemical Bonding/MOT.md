@@ -116,7 +116,7 @@ $\sigma 1s < \sigma^* 1s < \sigma 2s < \sigma^* 2s < \sigma 2pz < \pi 2px = \pi 
 | 15            | 2.5     |
 | 16            | 2.0     |
 | 17            | 1.5     |
-  $-$ 0.5 up or down
+
 
 
 ---
