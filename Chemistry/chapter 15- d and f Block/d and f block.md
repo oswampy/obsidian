@@ -174,7 +174,10 @@ makes sense as mass is increasing. zinc is volatile
 range is 3.43-8.9
 
 #### 3.32 Melting Point
-![[Pasted image 20261027210514.png]]
+![[Pasted image 20261027210514.png|652]]
+- More unpaired electrons
+- Stronger metallic bonding
+- High melting point
 ### 3.4 Oxidation States
 
 Transition elements show variable oxidation states because the energies of the ns and $(n-1)d$ electrons are comparable.
