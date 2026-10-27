@@ -1,8 +1,3 @@
-# Chemical Kinetics — Class 12 CBSE Chemistry Notes
-
-These notes cover the full NCERT Class 12 Chemical Kinetics chapter in an Obsidian-ready format, with definitions, formulas, derivations, graphs, units, solved examples, and common CBSE/JEE-level mistakes.
-
-All formulas use inline Obsidian LaTeX with $...$ so you can paste them directly into your vault.
 
 ## 1. Chemical Kinetics — Introduction
 
