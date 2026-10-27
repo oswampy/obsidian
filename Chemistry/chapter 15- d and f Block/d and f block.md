@@ -216,7 +216,7 @@ Examples:
 ### 3.5 Standard Electrode Potentials
 
 The standard electrode potential helps predict the tendency of a species to undergo reduction.
-
+![[Pasted image 20261027192044.png]]
 For the electrode couple $M^{2+}/M$:
 
 - A more negative value indicates a greater tendency for the metal to undergo oxidation under standard conditions.
