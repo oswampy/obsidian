@@ -103,11 +103,7 @@ $-\Delta G = W_{\text{non-expansion}}$
 
 - Decrease in free energy of a system in a process is the measure of maximum useful work done by the system.
 
-In batteries, $E =$ emf of cell, $n =$ no. of moles of electrons
 
-$-G^\circ = nFE^\circ_{\text{cell}}$
-
-$G^\circ$, $E^\circ$ are considered at standard temperature (298 K) and pressure (1 atm)
 
 ---
 
