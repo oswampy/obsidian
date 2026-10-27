@@ -183,20 +183,7 @@ range is 3.43-8.9
 Transition elements show variable oxidation states because the energies of the ns and $(n-1)d$ electrons are comparable.
 
 Both types of electrons can participate in bond formation.
-
-Examples:
-
-- Ti: $+2,+3,+4$
-    
-- V: $+2,+3,+4,+5$
-    
-- Cr: $+2,+3,+6$
-    
-- Mn: $+2,+3,+4,+6,+7$
-    
-- Fe: $+2,+3$
-    
-- Cu: $+1,+2$
+![[Pasted image 20261027212115.png]]
     
 
 #### Important Trends
