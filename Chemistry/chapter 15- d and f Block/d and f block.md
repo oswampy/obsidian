@@ -170,7 +170,8 @@ However, the trend is not perfectly regular because d-electron arrangements diff
 # 3.31 Density
 ![[Pasted image 20261027190429.png]]
 
-makes sense as mass is increasing.
+makes sense as mass is increasing. zinc is volatile 
+range is 3.43-8.9
 ### 3.4 Oxidation States
 
 Transition elements show variable oxidation states because the energies of the ns and $(n-1)d$ electrons are comparable.
