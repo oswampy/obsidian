@@ -58,17 +58,17 @@ iii) $\text{Lone pair electrons} = Q - \text{Bond pair electrons}$
     $\text{Bond pair electrons} = 2 \times 1 = 2e^-$  
     $\text{Lone pair electrons} = 12 - 2 = 10e^-$ (distributed around O)  
     We make a second bond to complete octet.(No charge)  
-	 ![[Pasted image 20250801172256.png]]
+	 ![[Pasted image 20250801172256.png|230]]
 3. $H_3O^+$  
     $Q = 6 + 3 - 1 = 8e^-$  
     $\text{Bond pair electrons} = 2 \times 3 = 6e^-$  
     $\text{Lone pair electrons} = 2e^-$
-    ![[Pasted image 20250801172414.png]]
+    ![[Pasted image 20250801172414.png|297]]
 #### 4) $\ce{NH4^+}$
 - $Q = 8e^-$
 - $\text{Bond pair electrons} = 8$
 - $\text{Lone pair electrons} = 0$
-	![[Pasted image 20250801215811.png]]
+	![[Pasted image 20250801215811.png|290]]
  
  
  ### 5) $\ce{NO3^-}$

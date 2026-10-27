@@ -66,8 +66,8 @@ $↑$ High covalent character
 _(If found in atom, ignore other factors)_
 
 **Examples:**  
-$Cu \rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^1 4s^1$  
-$Cu^{+} \rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^1$
+$Cu \rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^{10} 4s^1$  
+$Cu^{+} \rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^{10}$
 
 **Some others:**  
 $Ag^+, Au^+, Cd^{2+}, Hg^{2+}, Ga^{3+}, Zn^{2+}$
