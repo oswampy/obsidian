@@ -424,13 +424,11 @@ $4FeCr_2O_4+8Na_2CO_3+7O_2\rightarrow8Na_2CrO_4+2Fe_2O_3+8CO_2$
 The sodium chromate formed is yellow.
 
 **Step 2: Conversion into sodium dichromate**
-
 Sodium chromate is acidified with sulphuric acid.
 
 $2Na_2CrO_4+H_2SO_4\rightarrow Na_2Cr_2O_7+Na_2SO_4+H_2O$
 
 **Step 3: Conversion into potassium dichromate**
-
 Potassium chloride is added to sodium dichromate solution.
 
 $Na_2Cr_2O_7+2KCl\rightarrow K_2Cr_2O_7+2NaCl$
