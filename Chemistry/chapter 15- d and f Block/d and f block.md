@@ -154,9 +154,9 @@ decreasing first then somewhat const then incr
 ### 3.3 Ionisation Enthalpy
 
 **Ionisation enthalpy** is the enthalpy required to remove an electron from an isolated gaseous atom.
-![[Pasted image 20261027183521.png]]
+![[Pasted image 20261027210229.png]]
 Across a transition series, ionisation enthalpy generally increases gradually.
-
+![[Pasted image 20261027210110.png]]
 **Reason:**
 
 - Nuclear charge increases.
@@ -172,6 +172,9 @@ However, the trend is not perfectly regular because d-electron arrangements diff
 
 makes sense as mass is increasing. zinc is volatile 
 range is 3.43-8.9
+
+#### 3.32 Melting Point
+![[Pasted image 20261027210514.png]]
 ### 3.4 Oxidation States
 
 Transition elements show variable oxidation states because the energies of the ns and $(n-1)d$ electrons are comparable.
