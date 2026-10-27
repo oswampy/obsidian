@@ -227,7 +227,7 @@ For the electrode couple $M^{2+}/M$:
 - ![[Pasted image 20261027204113.png]]
 ##### M3+/M2+
 
- ![[Pasted image 20261027202136.png]]
+ ![[Pasted image 20261027204529.png]]
 
 #### Why Is the Standard Electrode Potential of Copper Positive?
 
