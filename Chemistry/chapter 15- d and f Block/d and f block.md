@@ -144,10 +144,17 @@ how to rem:
 incr then decr in pairs of 3,2,3,2.
 Highest is vanadium followed by titanium
 lowest is zinc and second lowest is manganese
+
+### 3.22 Ionic Radii
+![[Pasted image 20261027182956.png]]
+
+how to rem:
+decreasing first then somewhat const then incr
+![[Pasted image 20261027183107.png]]
 ### 3.3 Ionisation Enthalpy
 
 **Ionisation enthalpy** is the enthalpy required to remove an electron from an isolated gaseous atom.
-
+![[Pasted image 20261027183521.png]]
 Across a transition series, ionisation enthalpy generally increases gradually.
 
 **Reason:**
