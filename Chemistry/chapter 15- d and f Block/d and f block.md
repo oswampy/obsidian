@@ -433,7 +433,7 @@ Potassium chloride is added to sodium dichromate solution.
 
 $Na_2Cr_2O_7+2KCl\rightarrow K_2Cr_2O_7+2NaCl$
 
-Potassium dichromate crystallises out because it is less soluble than sodium dichromate under the relevant conditions.
+Potassium dichromate crystallises out because it is less soluble(primary standard) than sodium dichromate under the relevant conditions.
 
 #### Chromate–Dichromate Equilibrium
 
