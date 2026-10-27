@@ -137,7 +137,13 @@ The decrease is relatively small because the added electrons also increase elect
     
 - Elements of the second and third transition series often have similar radii because of lanthanoid contraction.
     
+### 3.21 Enthalpy of Atomisation
+![[Pasted image 20261027182406.png]]
 
+how to rem:
+incr then decr in pairs of 3,2,3,2.
+Highest is vanadium followed by titanium
+lowest is zinc and second lowest is manganese
 ### 3.3 Ionisation Enthalpy
 
 **Ionisation enthalpy** is the enthalpy required to remove an electron from an isolated gaseous atom.
