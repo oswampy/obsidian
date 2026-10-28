@@ -798,47 +798,6 @@ Total vapour pressure lies between the vapour pressures of the pure components.
 
 ---
 
-## Positive Deviation
-
-The total vapour pressure curve lies **above** the ideal Raoult's-law line.
-
-Therefore:
-
-$\boxed{P_{actual}>P_{ideal}}$
-
----
-
-## Negative Deviation
-
-The total vapour pressure curve lies **below** the ideal Raoult's-law line.
-
-Therefore:
-
-$\boxed{P_{actual}<P_{ideal}}$
-
----
-
-# Boiling Point and Vapour Pressure Relationship
-
-At a fixed external pressure:
-
-Higher vapour pressure at a given temperature means the liquid reaches the boiling condition sooner.
-
-Therefore:
-
-### Positive deviation
-
-$\text{Vapour pressure}\uparrow$
-
-$\text{Boiling point}\downarrow$
-
-### Negative deviation
-
-$\text{Vapour pressure}\downarrow$
-
-$\text{Boiling point}\uparrow$
-
----
 
 # Important Concept: Volatile Solute
 
