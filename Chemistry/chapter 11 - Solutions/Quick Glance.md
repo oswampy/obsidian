@@ -148,22 +148,3 @@ $M_{observed}>M_{normal}$
 
 $i=1$
 
----
-
-**Molarity:**
-
-Uses **volume of solution**
-
----
-
-**Molality:**
-
-Uses **mass of solvent**
-
----
-
-**Osmotic pressure:**
-
-$\pi=CRT$
-
-and is particularly useful for finding molar masses of **macromolecules**.
