@@ -71,7 +71,7 @@ Glucose in dilute aqueous solution.
 
 # Degree of Dissociation
 
-Suppose one mole of electrolyte dissociates into $\nu$ particles.
+Suppose one mole of electrolyte dissociates into $n$ particles.
 
 If degree of dissociation is $\alpha$:
 
@@ -81,19 +81,19 @@ $1$
 
 After dissociation:
 
-$1-\alpha+\nu\alpha$
+$1-\alpha+n\alpha$
 
 Therefore:
 
-$i=1-\alpha+\nu\alpha$
+$i=1-\alpha+n\alpha$
 
 Hence:
 
-$\boxed{i=1+\alpha(\nu-1)}$
+$\boxed{i=1+\alpha(n-1)}$
 
 Therefore:
 
-$\boxed{\alpha=\frac{i-1}{\nu-1}}$
+$\boxed{\alpha=\frac{i-1}{n-1}}$
 
 ---
 
@@ -103,7 +103,7 @@ $NaCl\rightarrow Na^++Cl^-$
 
 Here:
 
-$\nu=2$
+$n=2$
 
 Therefore:
 
@@ -125,7 +125,7 @@ $CaCl_2\rightarrow Ca^{2+}+2Cl^-$
 
 Total particles:
 
-$\nu=3$
+$n=3$
 
 Therefore:
 
@@ -241,7 +241,7 @@ For example:
 
 $CaCl_2\rightleftharpoons Ca^{2+}+2Cl^-$
 
-If only $50%$ dissociates:
+If only $50\%$ dissociates:
 
 $\alpha=0.5$
 
