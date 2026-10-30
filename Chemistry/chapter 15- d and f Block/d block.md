@@ -489,7 +489,7 @@ but with high conc of HCl we can offset the negative and make it possible
 $Cr_2O_7^{2-}+8H^++3H_2S\rightarrow2Cr^{3+}+7H_{2O}+3S\downarrow$ 
  **Other Reactions**
  ![[Pasted image 20261030153221.png]]
-
+![[Pasted image 20261030153927.png]]
 ---
 ## 4.3 Potassium Permanganate — $KMnO_4$
 
