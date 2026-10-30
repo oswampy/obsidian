@@ -292,26 +292,26 @@ The remaining transmitted or reflected light gives the observed colour.
 
 #### Important Examples
 
-|Ion|Typical colour|
-|---|---|
-|$Ti^{3+}$|Purple|
-|$Cr^{3+}$|Green or violet, depending on the compound|
-|$MnO_4^-$|Purple|
-|$Cr_2O_7^{2-}$|Orange|
-|$Cu^{2+}$ in aqueous solution|Blue|
-|$Ni^{2+}$ in aqueous solution|Green|
+| Ion                           | Typical colour                             |
+| ----------------------------- | ------------------------------------------ |
+| $Ti^{3+}$                     | Purple                                     |
+| $Cr^{3+}$                     | Green or violet, depending on the compound |
+| $MnO_4^-$                     | Purple                                     |
+| $Cr_2O_7^{2-}$                | Orange                                     |
+| $Cu^{2+}$ in aqueous solution | Blue                                       |
+| $Ni^{2+}$ in aqueous solution | Green                                      |
 
 #### Why Are $d^0$ and $d^{10}$ Ions Usually Colourless?
 
 - $d^0$ ions have no d-electrons available for d–d transitions.
     
 - $d^{10}$ ions have completely filled d-orbitals and cannot undergo ordinary d–d transitions.
-    
 
 Examples: $Sc^{3+}$, $Ti^{4+}$, $Cu^+$ and $Zn^{2+}$.
 
 Some compounds of these ions can still be coloured because of charge-transfer transitions or other effects.
-
+![[Pasted image 20261030143829.png|218]]
+ex : $CrO_4^{2-},Cr_2O_7^{2-},MnO_{4}^{2-}$
 ### 3.8 Catalytic Properties
 
 Transition metals and their compounds often act as catalysts because they can:
