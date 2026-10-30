@@ -529,7 +529,7 @@ Permanganate is reduced to $Mn^{2+}$.
 
 $MnO_4^-+8H^++5e^-\rightarrow Mn^{2+}+4H_2O$
 
-**Neutral or weakly alkaline medium**
+**Neutral or weakly alkaline/weakly acidic medium**
 
 Permanganate is commonly reduced to brown $MnO_2$.
 
