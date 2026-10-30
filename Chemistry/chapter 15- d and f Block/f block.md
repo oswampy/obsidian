@@ -66,6 +66,10 @@ Notes across the series (in ground state):
 - f7 in Eu,Gd
 - f14 in Yb,Lu
 ![[Pasted image 20261030173555.png]]
+
+- Cerium is the most common lanthanide
+- deciding bw Gd3+ and Sm3+ of which would show colour: Sm3+
+	sinc
 ### 5.5 Lanthanoid Contraction
 
 **Lanthanoid contraction** is the gradual decrease in the atomic and ionic radii of lanthanoids with increasing atomic number.
