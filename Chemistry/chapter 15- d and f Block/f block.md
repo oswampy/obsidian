@@ -156,10 +156,12 @@ Notes across the series (in ground state):
 - Th-f1,d2
 - d1 in Pa,U,Np
 ![[Pasted image 20261030180627.png]]
+
+![[Pasted image 20261030181318.png]]
 ### 6.5 Actinoid Contraction
 
 **Actinoid contraction** is the gradual decrease in the atomic and ionic radii of actinoids with increasing atomic number.
-
+( it is greater than lanthanoid contraction)
 #### Cause
 
 The nuclear charge increases, but 5f electrons shield the nucleus poorly.
