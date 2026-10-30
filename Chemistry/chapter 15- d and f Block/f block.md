@@ -38,7 +38,7 @@ These additional oxidation states may be favoured when they produce relatively s
 ### 5.4 Chemical Reactivity
 
 Lanthanoids are electropositive metals and are generally reactive.
-
+reactions similar to aluminium
 They react with:
 
 - Oxygen to form oxides.
@@ -98,6 +98,8 @@ As a result, they show very similar chemical properties.
 The basicity of lanthanoid hydroxides generally decreases from $La(OH)_3$ to $Lu(OH)_3$.
 
 This is because ionic size decreases and the polarising power of the metal ion increases.
+
+![[Pasted image 20261030174143.png]]
 
 ## 6. The Actinoids
 
