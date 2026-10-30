@@ -478,7 +478,7 @@ $Cr_2O_7^{2-}+14H^++6I^-\rightarrow2Cr^{3+}+7H_2O+3I_2$
 **Reaction with hydrogen sulphide**
 
 $Cr_2O_7^{2-}+8H^++3H_2S\rightarrow2Cr^{3+}+7H_2O+3S$
-
+ 
 ### 4.3 Potassium Permanganate — $KMnO_4$
 
 Potassium permanganate is a deep purple-coloured compound and a powerful oxidising agent.
