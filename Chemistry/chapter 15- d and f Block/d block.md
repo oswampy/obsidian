@@ -577,4 +577,5 @@ $2MnO_4^-+6H^++5SO_3^{2-}\rightarrow2Mn^{2+}+3H_2O+5SO_4^{2-}$
 |Main role|Oxidising agent|Oxidising agent|
 |Colour after reduction|Green|Nearly colourless or very pale pink, depending on concentration and conditions|
 
-
+Notes:
+permanganate is **diamagnetic** but it has a weakly temperature dependant paramagnetism
