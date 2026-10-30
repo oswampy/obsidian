@@ -62,6 +62,10 @@ Here, $Ln$ represents a lanthanoid metal; the exact products can vary for partic
 
 Notes across the series (in ground state):
 - d1 is present in La,Ce,Gd,Lu
+- f2,f8 not present
+- f7 in Eu,Gd
+- f14 in Yb,Lu
+![[Pasted image 20261030173555.png]]
 ### 5.5 Lanthanoid Contraction
 
 **Lanthanoid contraction** is the gradual decrease in the atomic and ionic radii of lanthanoids with increasing atomic number.
