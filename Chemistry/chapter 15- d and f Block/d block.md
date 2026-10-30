@@ -554,6 +554,13 @@ $2MnO_4^-+16H^++5C_2O_4^{2-}\rightarrow2Mn^{2+}+8H_2O+10CO_2$
 **3. Oxidation of iodide ions in acidic medium**
 
 $2MnO_4^-+16H^++10I^-\rightarrow2Mn^{2+}+8H_2O+5I_2$
+**3.1 Oxidation of Halide in basic medium
+
+
+![[Pasted image 20261030163802.png]]
+- Most of the time we will go with the Hot route by default even if not specifed.
+- The X Produced will react again with MnO4- and repeat the cycle in:
+- $MnO_{4}^{-}+I^{-}+OH I_{2}$
 
 **4. Oxidation of sulphite ions in acidic medium**
 
