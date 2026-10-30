@@ -478,7 +478,7 @@ $Cr_2O_7^{2-}+14H^++6I^-\rightarrow2Cr^{3+}+7H_2O+3I_2$
 **Reaction with Chlorine (non redox)
 $Cr_2O_7^{2-}+H_{2}SO_{4}+Cl^-(salt)\to CrO_{2}Cl_{2}\uparrow+H_{2}O$
 ![[Pasted image 20261030152244.png|311]]
-Exception:
+#Exception:
 ![[Pasted image 20261030152917.png|559]]
 
 normally the conversion of cl- to cl2 is not possible(negative Ecell)
@@ -487,11 +487,14 @@ but with high conc of HCl we can offset the negative and make it possible
 **Reaction with hydrogen sulphide**
 
 $Cr_2O_7^{2-}+8H^++3H_2S\rightarrow2Cr^{3+}+7H_{2O}+3S\downarrow$ 
- 
-### 4.3 Potassium Permanganate — $KMnO_4$
+ **Other Reactions**
+ ![[Pasted image 20261030153221.png]]
+
+---
+## 4.3 Potassium Permanganate — $KMnO_4$
 
 Potassium permanganate is a deep purple-coloured compound and a powerful oxidising agent.
-
+ 
 #### Preparation
 
 It is prepared from pyrolusite ore, $MnO_2$.
