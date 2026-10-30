@@ -516,6 +516,9 @@ The oxidation state of manganese increases from $+6$ to $+7$.
 ![[Pasted image 20261030160758.png]]
 
 Note: $MnO_{4}^{-}$ is Isostructural with $KClO_{4}$
+
+**action of strong alkali**
+![[Pasted image 20261030161546.png]]
 #### Oxidising Action in Different Media
 
 The product formed depends on the reaction medium.
