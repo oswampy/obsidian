@@ -513,8 +513,9 @@ and also:
 $3MnO_4^{2-}+4H^+\rightarrow 2MnO_4^-+MnO_{2}+2H_{2}O$
 (disproportionation)
 The oxidation state of manganese increases from $+6$ to $+7$.
-![[Pasted image 20261030160655.png]]
+![[Pasted image 20261030160758.png]]
 
+Note: $MnO_{4}^{-}$ is Isostructural with $KClO_{4}$
 #### Oxidising Action in Different Media
 
 The product formed depends on the reaction medium.
