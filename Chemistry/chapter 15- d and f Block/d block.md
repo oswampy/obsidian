@@ -475,9 +475,13 @@ $Cr_2O_7^{2-}+14H^++6Fe^{2+}\rightarrow2Cr^{3+}+7H_2O+6Fe^{3+}$
 
 $Cr_2O_7^{2-}+14H^++6I^-\rightarrow2Cr^{3+}+7H_2O+3I_2$
 
+**Reaction with Chlorine
+$Cr_2O_7^{2-}.+Cl^-(salt)\to CrO_{2}$
+![[Pasted image 20261030152244.png|311]]
+
 **Reaction with hydrogen sulphide**
 
-$Cr_2O_7^{2-}+8H^++3H_2S\rightarrow2Cr^{3+}+7H_2O+3S$
+$Cr_2O_7^{2-}+8H^++3H_2S\rightarrow2Cr^{3+}+7H_{2O}+3S\downarrow$ 
  
 ### 4.3 Potassium Permanganate — $KMnO_4$
 
