@@ -503,14 +503,14 @@ It is prepared from pyrolusite ore, $MnO_2$.
 
 $2MnO_2+4KOH+O_2\rightarrow2K_2MnO_4+2H_2O$
 
-Potassium manganate, $K_2MnO_4$, is green.
+Potassium manganate, $K_2MnO_4$, is dark green.
 
 **Step 2: Conversion into potassium permanganate**
 
 Potassium manganate is converted into potassium permanganate by oxidation, commonly by electrolytic methods.
 
-$MnO_4^{2-}\rightarrow MnO_4^-+e^-$
-
+$3MnO_4^{2-}+4H^+\rightarrow 2MnO_4^-+MnO_{2}+2H_{2}O$
+(disproportionation)
 The oxidation state of manganese increases from $+6$ to $+7$.
 
 #### Oxidising Action in Different Media
