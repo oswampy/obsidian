@@ -519,9 +519,7 @@ Note: $MnO_{4}^{-}$ is Isostructural with $KClO_{4}$
 
 **action of strong alkali**
 ![[Pasted image 20261030161546.png]]
-#### Oxidising Action in Different Media
-
-The product formed depends on the reaction medium.
+## Oxidising Action in Different Media
 
 **Acidic medium**
 
@@ -555,17 +553,20 @@ $2MnO_4^-+16H^++5C_2O_4^{2-}\rightarrow2Mn^{2+}+8H_2O+10CO_2$
 
 $2MnO_4^-+16H^++10I^-\rightarrow2Mn^{2+}+8H_2O+5I_2$
 **3.1 Oxidation of Halide in basic medium
-
+$MnO_{4}^{-}+I^{-}+OH^{-} \to I_{2}$
 
 ![[Pasted image 20261030163802.png]]
 - Most of the time we will go with the Hot route by default even if not specifed.
-- The X Produced will react again with MnO4- and repeat the cycle in:
-- $MnO_{4}^{-}+I^{-}+OH I_{2}$
+- The $X^-$ Produced will react again with MnO4- and repeat the cycle in:
+- $MnO_{4}^{-}+I^{-}+OH^{-} \to I_{2}$
 
 **4. Oxidation of sulphite ions in acidic medium**
 
 $2MnO_4^-+6H^++5SO_3^{2-}\rightarrow2Mn^{2+}+3H_2O+5SO_4^{2-}$
 
+
+**Other reactions:**
+![[Pasted image 20261030164938.png]]
 #### Comparison of $K_2Cr_2O_7$ and $KMnO_4$
 
 |Property|$K_2Cr_2O_7$|$KMnO_4$|
