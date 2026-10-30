@@ -60,6 +60,8 @@ $2Ln+3Cl_2\rightarrow2LnCl_3$
 
 Here, $Ln$ represents a lanthanoid metal; the exact products can vary for particular elements and conditions.
 
+Notes across the series (in ground state):
+- d1 is present in La,Ce,Gd,Lu
 ### 5.5 Lanthanoid Contraction
 
 **Lanthanoid contraction** is the gradual decrease in the atomic and ionic radii of lanthanoids with increasing atomic number.
