@@ -312,6 +312,9 @@ Examples: $Sc^{3+}$, $Ti^{4+}$, $Cu^+$ and $Zn^{2+}$.
 Some compounds of these ions can still be coloured because of charge-transfer transitions or other effects.
 ![[Pasted image 20261030143829.png|218]]
 ex : $CrO_4^{2-},Cr_2O_7^{2-},MnO_{4}^{2-}$
+
+![[Pasted image 20261030144355.png|564]]
+as the conjugation increases we get more chances of delocalisation and the color becomes darker 
 ### 3.8 Catalytic Properties
 
 Transition metals and their compounds often act as catalysts because they can:
