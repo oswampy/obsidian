@@ -68,6 +68,7 @@ Notes across the series (in ground state):
 ![[Pasted image 20261030173555.png]]
 
 - Cerium is the most common lanthanide
+- promethium is the only radioactive one
 - deciding bw Gd3+ and Sm3+ of which would show colour: Sm3+
 	since gd3+ is half filled which is relatively more stable and does not want to participate in any transition
 ### 5.5 Lanthanoid Contraction
@@ -150,6 +151,11 @@ Actinoids are electropositive and generally reactive metals.
 
 They can react with oxygen, halogens, acids and other substances. Their chemical behaviour varies with oxidation state.
 
+Notes across the series (in ground state):
+- f1 and f8 not present
+- Th-f1,d2
+- d1 in Pa,U,Np
+![[Pasted image 20261030180627.png]]
 ### 6.5 Actinoid Contraction
 
 **Actinoid contraction** is the gradual decrease in the atomic and ionic radii of actinoids with increasing atomic number.
