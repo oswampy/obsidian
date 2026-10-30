@@ -69,7 +69,7 @@ Notes across the series (in ground state):
 
 - Cerium is the most common lanthanide
 - deciding bw Gd3+ and Sm3+ of which would show colour: Sm3+
-	sinc
+	since gd3+ is half filled which is relatively more stable and does not want to participate in any transition
 ### 5.5 Lanthanoid Contraction
 
 **Lanthanoid contraction** is the gradual decrease in the atomic and ionic radii of lanthanoids with increasing atomic number.
