@@ -90,9 +90,7 @@ However:
 ### Electronic Configuration of Ions
 
 When transition metals form cations, electrons are removed from the ns orbital before the $(n-1)d$ orbital.
-
-Examples:
-
+ Examples:
 - Fe: $[Ar]3d^6 4s^2$
     
 - $Fe^{2+}$: $[Ar]3d^6$
@@ -143,7 +141,7 @@ The decrease is relatively small because the added electrons also increase elect
 how to rem:
 incr then decr in pairs of 3,2,3,2.
 Highest is vanadium followed by titanium
-lowest is zinc and second lowest is manganese
+lowest is zinc **(not considered a transition element)** and second lowest is manganese
 
 ### 3.22 Ionic Radii
 ![[Pasted image 20261027182956.png]]
