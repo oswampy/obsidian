@@ -18,3 +18,10 @@ for energy of single photon the second 1240/lambda is in eV
 ### Graph
 ![[Pasted image 20261102185303.png]]
 diff metals may have diff work functions but slope(h) will always be const
+
+
+### photoelectric effect experimental setup
+![[Pasted image 20261102191538.png]]the blue dot on graph is the current when there is no battery, nothing to supply a potential diff and an ext electrical field
+
+- if we reverse the polarity of the battery then the speed of the electron decreases and the current decreases
+- stopping potential is the min pd bw the two plates such that no electron is transferred onto the other plate
