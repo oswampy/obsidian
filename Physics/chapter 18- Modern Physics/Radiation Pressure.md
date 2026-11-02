@@ -24,4 +24,8 @@ diff metals may have diff work functions but slope(h) will always be const
 ![[Pasted image 20261102191538.png]]the blue dot on graph is the current when there is no battery, nothing to supply a potential diff and an ext electrical field
 
 - if we reverse the polarity of the battery then the speed of the electron decreases and the current decreases
-- stopping potential is the min pd bw the two plates such that no electron is transferred onto the other plate
+- stopping potential is the min pd bw the two plates such that no electron is transferred onto the other plate:
+![[Pasted image 20261102193408.png|598]]![[Pasted image 20261102193832.png|346]]
+
+Useful Graphs
+![[Pasted image 20261102200206.png]]
