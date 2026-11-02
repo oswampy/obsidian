@@ -33,3 +33,8 @@ Useful Graphs
 **effect of no of photons and freq on stopping potential**
 
 ![[Pasted image 20261102202604.png]]
+
+![[Pasted image 20261102215843.png]]
+
+- as ekectrons leave the sphere it starts gaining a positive charge which grows larger, at some time the positive charge is strong enough to attract any further electrons back (similar case to stopping potential)
+- we find the potential of an electron at A and solve
