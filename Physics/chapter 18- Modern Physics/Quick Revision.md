@@ -29,3 +29,7 @@ diff metals may have diff work functions but slope(h) will always be const
 
 Useful Graphs
 ![[Pasted image 20261102200206.png]]
+
+**effect of no of photons and freq on stopping potential**
+
+![[Pasted image 20261102202604.png]]
