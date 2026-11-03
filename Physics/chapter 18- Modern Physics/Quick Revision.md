@@ -46,3 +46,10 @@ Useful Graphs
 
 ## COM concept
 ![[Pasted image 20261103181842.png]]
+
+## Atomic Collisions
+(for advanced)
+![[Pasted image 20261103185435.png|691]]
+--
+![[Pasted image 20261103185949.png]]
+- K/2 is the maximum loss in kinetic energy of the moving particle, if this energy is then transferred to the electron of h atom AND it can excite the electron to the next level then it will can be a perfectly inelastic collision
