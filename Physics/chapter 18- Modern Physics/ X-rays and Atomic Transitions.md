@@ -312,6 +312,19 @@ Where $m_H$ is the mass of a neutral hydrogen atom.
 
 This avoids separately subtracting the electron masses.
 
+#### Q Value
+![[Pasted image 20261103203341.png|679]]
+
+Two types of cases:
+- if all masses given in kg/g then find mr-mp and get answer in joules 
+- if the mass is given in amu then find mr-mp and multiply by 931.5 MeV
+![[Pasted image 20261103204654.png]]
+
+#Q 
+
+![[Pasted image 20261103205028.png]]
+in the graph is be/a so for just be we need to multiply the corresponding no of nucleons into the value. (we find it by seeing the slope is constant so tan is in ratio)
+
 ---
 
 ## 10. Radioactivity — JEE Extension
