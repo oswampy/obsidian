@@ -276,7 +276,7 @@ The binding energy per nucleon generally:
 - Decreases slowly for heavy nuclei.
     
 
-The maximum is approximately $8.8\ MeV$ per nucleon.
+The maximum is approximately $8.8\ MeV$ per nucleon(at Fe).
 
 ### 9.5 Why Does Nuclear Fusion Release Energy?
 
@@ -285,7 +285,9 @@ Light nuclei combine to form a heavier nucleus.
 The resulting nucleus generally has a higher binding energy per nucleon.
 
 The difference in total mass is released as energy.
+![[Pasted image 20261103200401.png]]
 
+when an atom with less be/nucleon breaks into more stable atoms it is called nuclear fission
 ### 9.6 Why Does Nuclear Fission Release Energy?
 
 A very heavy nucleus splits into two medium-sized nuclei.
