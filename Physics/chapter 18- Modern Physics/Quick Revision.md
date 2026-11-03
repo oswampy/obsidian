@@ -42,3 +42,7 @@ Useful Graphs
 # Bohr atom Formula Sheet
 
 ![[Pasted image 20261102230931.png]]
+
+
+## COM concept
+![[Pasted image 20261103181842.png]]
