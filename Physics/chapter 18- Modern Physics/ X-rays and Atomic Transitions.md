@@ -245,8 +245,10 @@ Where:
 
 ### 9.2 Binding Energy
 
-Binding energy is the energy required to separate a nucleus completely into its individual protons and neutrons.
-
+Binding energy is the energy required to separate a nucleus completely into its individual protons and neutrons. 
+OR
+Energy released when the nucleus is formed
+![[Pasted image 20261103194157.png]]
 $BE=\Delta mc^2$
 
 If mass defect is expressed in atomic mass units:
@@ -259,7 +261,7 @@ It is the average binding energy associated with each nucleon.
 
 $BE/A=\dfrac{\text{Total binding energy}}{\text{Mass number}}$
 
-It is an indicator of nuclear stability.
+**stability of a nucleus is not determined by binding energy alone nor by n/z ratio but only binding energy per nucleon**
 
 Generally, higher binding energy per nucleon indicates a more stable nucleus.
 

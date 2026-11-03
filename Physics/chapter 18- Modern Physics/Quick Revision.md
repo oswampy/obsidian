@@ -58,3 +58,23 @@ Useful Graphs
 - if energy is provided such that it can go to the 2nd/3rd level then possible values of e are : e=1,0 and 0<e<1
 
 *****Note: finish Xrays*****
+
+
+
+
+# Nuclear Physics
+
+![[Pasted image 20261103194211.png]]
+
+Binding energy is the energy released when a nucleus is formed from the protons and neutrons binding. It can also be defined as the amount of energy required to spliot a nucleus into its neutrons and protons.
+
+## mass defect
+when forming the nucleus we have to add the the mass of a single neutron into no of neutrons,same with protons. When the nucleus is formed it has some mass. the differenc ebetween initial mass (of nucleons) and final mass (of nucleus) is a called mass defect and it is released in the form of energy
+
+- measured mass of nucleus is **always less** than the combined mass of its free protons and neutrons.
+
+- This "missing mass" does not disappear. It converts into energy when the nucleus forms. 
+
+The lost mass ($\Delta m$) represents the binding energy that holds the nucleus tightly together via the strong nuclear force.
+
+in an equation it is basically reactant side mass minus the product side mass
