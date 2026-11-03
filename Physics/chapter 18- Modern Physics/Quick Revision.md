@@ -53,3 +53,8 @@ Useful Graphs
 --
 ![[Pasted image 20261103185949.png]]
 - K/2 is the maximum loss in kinetic energy of the moving particle, if this energy is then transferred to the electron of h atom AND it can excite the electron to the next level then it will can be a perfectly inelastic collision
+- only if its exactly enough or more it will transfer and then only both possibilities are there otherwise perfectly elastic
+- if more energy is provided ex: 22v, k/2=11v then we can def still have e=1 but the other possibility is for 0<e<1
+- if energy is provided such that it can go to the 2nd/3rd level then possible values of e are : e=1,0 and 0<e<1
+
+*****Note: finish Xrays*****

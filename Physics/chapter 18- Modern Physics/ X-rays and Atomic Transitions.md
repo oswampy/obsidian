@@ -183,7 +183,7 @@ $\rho=\dfrac{3m_n}{4\pi R_0^3}$
 
 The mass number cancels.
 
-Hence, nuclear density is approximately independent of the mass number.
+**Hence, nuclear density is  independent of the mass number.**
 
 ### 8.6 Nuclear Force
 
