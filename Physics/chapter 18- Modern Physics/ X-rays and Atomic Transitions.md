@@ -325,10 +325,9 @@ Two types of cases:
 ![[Pasted image 20261103205028.png]]
 in the graph is be/a so for just be we need to multiply the corresponding no of nucleons into the value. (we find it by seeing the slope is constant so tan is in ratio)
 
----
 
-## 10. Radioactivity — JEE Extension
 
+## 10. Radioactivity 
 ### 10.1 Definition
 
 Radioactivity is the spontaneous disintegration of unstable atomic nuclei with the emission of radiation.
@@ -337,7 +336,7 @@ Radioactive decay is a nuclear process and is generally unaffected by ordinary c
 
 ### 10.2 Types of Radioactive Emission
 
-#### Alpha Decay
+#### $\alpha$ Decay
 
 An alpha particle is a helium nucleus.
 
@@ -354,7 +353,7 @@ Changes:
 - Atomic number decreases by 2.
     
 
-#### Beta Minus Decay
+#### $\beta$ Minus Decay
 
 A neutron converts into a proton, an electron and an electron antineutrino.
 
@@ -371,7 +370,7 @@ Changes:
 - Atomic number increases by 1.
     
 
-#### Beta Plus Decay
+#### $\beta$ Plus Decay
 
 A proton converts into a neutron, a positron and an electron neutrino.
 
@@ -388,7 +387,7 @@ Changes:
 - Atomic number decreases by 1.
     
 
-#### Gamma Decay
+#### $\gamma$ Decay
 
 An excited nucleus releases excess energy in the form of a gamma photon.
 
@@ -505,6 +504,5 @@ $A\rightarrow B\rightarrow C$
 
 The daughter nucleus $B$ may itself be radioactive.
 
-The number of daughter nuclei depends on both the production rate and its own decay rate.
-
-This is important in JEE-level radioactive decay problems.
+**The number of daughter nuclei depends on both the production rate and its own decay rate.
+**

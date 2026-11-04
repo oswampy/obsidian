@@ -562,7 +562,7 @@ $V_{rms}=\dfrac{V_m}{\sqrt2}$
     
 - Work function depends on the metal, not the incident light.
     
-- Stopping potential depends on frequency and work function.
+- Stopping potential depends on **frequency and work function.**
     
 
 ### 18.2 de Broglie Wavelength
