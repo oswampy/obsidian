@@ -352,7 +352,7 @@ Changes:
     
 - Atomic number decreases by 2.
     
-
+![[Pasted image 20261104172056.png|653]]
 #### $\beta$ Minus Decay
 
 A neutron converts into a proton, an electron and an electron antineutrino.
@@ -369,7 +369,7 @@ Changes:
     
 - Atomic number increases by 1.
     
-
+![[Pasted image 20261104172220.png]]
 #### $\beta$ Plus Decay
 
 A proton converts into a neutron, a positron and an electron neutrino.
@@ -385,7 +385,7 @@ Changes:
 - Mass number remains unchanged.
     
 - Atomic number decreases by 1.
-    
+![[Pasted image 20261104172235.png]]
 
 #### $\gamma$ Decay
 
