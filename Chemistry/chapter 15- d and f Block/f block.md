@@ -153,8 +153,8 @@ They can react with oxygen, halogens, acids and other substances. Their chemical
 
 Notes across the series (in ground state):
 - f1 and f8 not present
-- Th-f1,d2
-- d1 in Pa,U,Np
+- Th-d2
+- d1 in Ac,Th,Pa,U,Np,Lr
 ![[Pasted image 20261030180627.png]]
 
 ![[Pasted image 20261030181318.png]]
