@@ -7,7 +7,7 @@
 - Metals of the second and third series have greater enthalpies of atomisation than the coresponding elements of the first series,this is important in accounting for the occurence of much more frequent metal-metal bonding in compounds of the heavy transition metals
 - Ag is still a transition element although having a fully filled d orbital is because it has an oxidised state where its d orbital is not full (where zn does not)
 
-- the lesser number of oxidation states at the end of the d block stems from either two few electrons available to share or lose, OR too many d electrons (hence fewer orbitals in which to share electrons with others)
+- the lesser number of oxidation states at the end of the d block stems from either **two few electrons available to share or lose**, OR **too many d electrons** (hence fewer orbitals in which to share electrons with others)
 - The variability in OS, a characteristic of transition elements, arises out of incomplete filling of d orbitals in such a way that their oxidation states differ from each other by unity.
 - The +7 state in Mn is represented in MnO3F and beyond Mn no metals has a trihalide except FeX3 and CoF3.The ability of Fluourine to stabilise higher oxidation states is due to higher lattice energy or higher bond enthalpy.
 
