@@ -15,3 +15,5 @@
 - The ability of oxygen to stabilise the highest oxidation states exceeds that of flourine and is explained by the ability of oxygen to form multiple bonds to metals like MnO7
 - Their ability to form catalysts are a consequence of multiple oxidation states and formation of complexes
 - alloys are often formed by atoms with metallic radii about 15% of eachother, because of similar radii and other characteristics of transition metals, alloys are readily formed.Brass( Cu-Zn) Bronze(Cu-Sn)
+
+- KOI (hypoiodite) behaves as an oxidising agent in haloform reactions
