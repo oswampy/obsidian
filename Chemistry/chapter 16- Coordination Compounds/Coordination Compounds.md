@@ -356,7 +356,7 @@ Consider the following compounds:
 |$CoCl_3\cdot5NH_3$|2 mol|6|
 |$CoCl_3\cdot4NH_3$|1 mol|6|
 |$CoCl_3\cdot3NH_3$|0 mol|6|
-
+![[Pasted image 20261108185014.png]]
 Their structures are:
 
 1. $[Co(NH_3)_6]Cl_3$
