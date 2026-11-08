@@ -554,6 +554,100 @@ $+3+6(-1)=-3$
 Step 3: Add potassium ions to balance charge.
 
 $K_3[Fe(CN)_6]$
+## Effective Atomic Number (EAN) and Sidgwick's Rule
+
+### 1. Effective Atomic Number (EAN)
+
+The Effective Atomic Number (EAN) is the total number of electrons surrounding the central metal atom or ion after accepting electron pairs from the ligands.
+
+It represents the electron count of the central metal in a coordination complex.
+
+### 2. Sidgwick's EAN Rule
+
+According to Sidgwick's rule, the central metal ion tends to accept electron pairs from ligands until its effective atomic number becomes equal to the atomic number of the nearest noble gas.
+
+In other words, the EAN of the central metal tends to attain the electronic configuration of the nearest noble gas.
+
+### 3. EAN Formula
+
+$EAN=Z-\text+2\times CN$
+
+Where:
+
+- $Z$ = Atomic number of central metal.
+    
+- Oxidation state = Oxidation state of central metal.
+    
+- $CN$ = Coordination number.
+    
+- Each donor atom donates one electron pair (2 electrons).
+    
+
+### 4. Examples of EAN Calculation
+
+Example 1: $[Co(NH_3)_6]^{3+}$
+
+- Atomic number of Co = 27
+    
+- Oxidation state = +3
+    
+- Coordination number = 6
+    
+
+$EAN=27-3+(2\times6)$
+
+$EAN=36$
+
+Nearest noble gas: Krypton (Kr).
+
+Therefore, it follows the EAN rule.
+
+
+Example 3: $[Ni(CO)_4]$
+
+- Atomic number of Ni = 28
+    
+- Oxidation state = 0
+    
+- Coordination number = 4
+    
+
+$EAN=28-0+(2\times4)$
+
+$EAN=36$
+
+Nearest noble gas: Krypton (Kr).
+
+Therefore, it follows the EAN rule.
+
+### 5. Exceptions to Sidgwick's Rule
+
+Not all coordination compounds follow the EAN rule. Many stable complexes have EAN values different from the atomic number of the nearest noble gas.
+
+Examples:
+
+| Complex            | EAN calculation | EAN | Noble gas configuration? |
+| ------------------ | --------------- | --- | ------------------------ |
+| $[Cu(NH_3)_4]$     | $29-2+8$        | 35  | No                       |
+| $[Pt(NH_3)_2Cl_2]$ | $78-2+8$        | 84  | No                       |
+| $[Fe(CN)_6]$       | $26-3+12$       | 35  | No                       |
+| $[Ni(CN)_4]$       | $28-2+8$        | 34  | No                       |
+
+### 6. Limitations of EAN Rule
+
+1. Many stable coordination compounds do not follow the EAN rule.
+    
+2. It cannot explain the geometry of coordination compounds.
+    
+3. It cannot predict the magnetic properties of complexes.
+    
+4. It does not explain the colour of coordination compounds.
+    
+5. It is not sufficient to predict the stability of every coordination compound.
+
+![[Pasted image 20261108194411.png]]
+
+Conclusion: The EAN rule is a useful guideline for understanding electron counting in coordination compounds, but it is not a universal rule for their stability.
 
 ## 5. Isomerism in Coordination Compounds
 
@@ -861,6 +955,9 @@ $sp^3d^2$
 
 The complex has four unpaired electrons and is paramagnetic.
 
+
+strong field ligands(which have C,N)
+ex: NH3, CO,CN-,en
 ### 6.5 VBT Examples
 
 #### Example 1: $[Ni(CN)_4]^{2-}$
