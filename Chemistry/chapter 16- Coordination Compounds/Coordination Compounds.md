@@ -954,7 +954,8 @@ Hybridisation:
 $sp^3d^2$
 
 The complex has four unpaired electrons and is paramagnetic.
-
+ **Shortcut**
+ ![[Pasted image 20261108201021.png]]
 
 strong field ligands(which have C,N)
 ex: NH3, CO,CN-,en
@@ -1070,7 +1071,8 @@ Magnetic nature: Paramagnetic with five unpaired electrons.
     
 - It does not fully explain why certain complexes are high spin or low spin.
     
-
+#Exception 
+![[Pasted image 20261108201821.png]]
 ## 7. Crystal Field Theory (CFT)
 
 ### 7.1 Introduction
