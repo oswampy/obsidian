@@ -140,104 +140,66 @@ Examples:
 
 ## 2. Classification of Ligands
 
-### 2.1 Based on Charge
+#### A. Neutral Ligands
 
-#### Neutral Ligands
-
-These ligands have zero charge.
-
-Examples:
-
-|Ligand|Name|
+|Formula|Ligand name|
 |---|---|
-|$NH_3$|Ammine|
 |$H_2O$|Aqua|
+|$NH_3$|Ammine|
 |$CO$|Carbonyl|
 |$NO$|Nitrosyl|
-|$C_5H_5N$|Pyridine|
+|$C_6H_6$|Benzene|
+|$P(C_6H_5)_3$|Triphenylphosphine|
+|$Py$|Pyridine|
+|$bpy$|2,2'-Bipyridine|
+|$en$|Ethylenediamine|
 
-#### Anionic Ligands
+#### B. Anionic Ligands
 
-These ligands carry a negative charge.
+| Formula                   | Ligand name                 |
+| ------------------------- | --------------------------- |
+| $Cl^-$                    | Chlorido (Chloro)           |
+| $Br^-$                    | Bromido (Bromo)             |
+| $I^-$                     | Iodido (Iodo)               |
+| $OH^-$                    | Hydroxido (Hydroxo)         |
+| $H^-$                     | Hydrido                     |
+| $CH_3COO^-$               | Acetato                     |
+| $NH_2^-$                  | Amido                       |
+| $NH$                      | Imido                       |
+| $SO_4$                    | Sulphato                    |
+| $CO_3$                    | Carbonato                   |
+| $C_2O_4$                  | Oxalato                     |
+| $CN^-$                    | Cyanido                     |
+| $NO_2^-$                  | Nitrito                     |
+| $O$                       | Oxido                       |
+| $gly^-$ ($NH_2CH_2COO^-$) | Glycinato                   |
+| $dmgH^-$                  | Dimethylglyoximato          |
+| $EDTA$                    | Ethylenediaminetetraacetato |
 
-|Ligand|Name|
-|---|---|
-|$Cl^-$|Chlorido|
-|$Br^-$|Bromido|
-|$F^-$|Fluorido|
-|$OH^-$|Hydroxido|
-|$CN^-$|Cyanido|
-|$O^{2-}$|Oxido|
-|$C_2O_4^{2-}$|Oxalato|
-|$SCN^-$|Thiocyanato|
+#### C. Cationic Ligands
 
-#### Cationic Ligands
+| Formula      | Ligand name |
+| ------------ | ----------- |
+| $NH_2NH_3^+$ | Hydrazinium |
+| $NO^+$       | Nitrosylium |
+| $NO_{2}^+$   | Nitronium   |
+| $Cl^+$       | Chlorinium  |
 
-These ligands carry a positive charge.
+### 2.2 Classification Based on Denticity
 
-Examples:
+| Denticity   | Ligand             | Example  |
+| ----------- | ------------------ | -------- |
+| Monodentate | Ammine             | $NH_3$   |
+| Monodentate | Aqua               | $H_2O$   |
+| Monodentate | Chlorido           | $Cl^-$   |
+| Bidentate   | Ethylenediamine    | $en$     |
+| Bidentate   | Oxalato            | $C_2O_4$ |
+| Bidentate   | Glycinato          | $gly^-$  |
+| Bidentate   | Dimethylglyoximato | $dmgH^-$ |
+| Bidentate   | Bipyridine         | $bpy$    |
+| Hexadentate | EDTA               | $EDTA$   |
 
-- $NO^+$: Nitrosyl (when coordinated as $NO^+$).
-    
-- $NH_2NH_3^+$: Hydrazinium.
-    
 
-### 2.2 Based on Denticity
-
-**Denticity** is the number of donor atoms through which a ligand attaches to the central metal ion.
-
-#### 1. Monodentate Ligands
-
-Ligands that attach through only one donor atom.
-
-Examples:
-
-- $NH_3$
-    
-- $H_2O$
-    
-- $Cl^-$
-    
-- $CN^-$
-    
-
-#### 2. Bidentate Ligands
-
-Ligands that attach through two donor atoms.
-
-Examples:
-
-- Ethane-1,2-diamine (en): $H_2NCH_2CH_2NH_2$
-    
-- Oxalato: $C_2O_4^{2-}$
-    
-
-#### 3. Tridentate Ligands
-
-Ligands that attach through three donor atoms.
-
-Example:
-
-- Diethylenetriamine (dien).
-    
-
-#### 4. Tetradentate Ligands
-
-Ligands that attach through four donor atoms.
-
-Example:
-
-- Triethylenetetramine (trien).
-    
-
-#### 5. Hexadentate Ligands
-
-Ligands that attach through six donor atoms.
-
-Example:
-
-- EDTA$^{4-}$.
-    
 
 ### 2.3 Chelating Ligands
 
@@ -256,7 +218,7 @@ The complexes formed are called chelate complexes.
 
 ### 2.4 Ambidentate Ligands
 
-Ambidentate ligands contain two different possible donor atoms but coordinate through only one donor atom at a time.
+Ambidentate ligands contain two different possible donor atoms but coordinate through only **one donor atom at a time**.
 
 Examples:
 
@@ -283,7 +245,9 @@ Can coordinate through:
     
 
 **Important:** Ambidentate ligands can produce linkage isomerism.
-
+### 2.41 Flexidentate Ligands
+ligands having flexible denticity which depends on the nautre of the metal
+Ex: EDTA^4-,Co3^2-,SO4^2- 
 ### 2.5 Bridging Ligands
 
 Ligands that connect two or more metal centres are called bridging ligands.
@@ -298,7 +262,51 @@ Examples:
     
 
 They are represented using the prefix $\mu$.
+## 2.51 Classical and Non-Classical Ligands
 
+### 1. Classical Ligands
+
+Classical ligands are ligands that donate a lone pair of electrons from a donor atom to the central metal ion, forming a coordinate bond.
+
+They generally act as Lewis bases.
+
+Examples:
+
+| Ligand   | Donor atom |
+| -------- | ---------- |
+| $NH_3$   | N          |
+| $H_2O$   | O          |
+| $Cl^-$   | Cl         |
+| $CN^-$   | C or N     |
+| $OH^-$   | O          |
+| $en$     | N          |
+| $C_2O_4$ | O          |
+
+### 2. Non-Classical Ligands
+
+Non-classical ligands are ligands that form coordinate bonds through their delocalised electrons, usually involving π-electron systems or multiple bonds.
+
+They can coordinate through their π-electron clouds rather than only through a lone pair on a single donor atom.
+
+Examples:
+
+|Ligand|Name|Type of bonding|
+|---|---|---|
+|$C_2H_4$|Ethylene|π-bond coordination|
+|$C_6H_6$|Benzene|π-electron coordination|
+|$C_5H_5^-$|Cyclopentadienyl|π-electron coordination|
+|$C_3H_5^-$|Allyl|π-electron coordination|
+|$CO$|Carbon monoxide|σ-donation and π-back bonding|
+
+### 3. Important Difference
+
+|Classical ligands|Non-classical ligands|
+|---|---|
+|Usually donate a lone pair from a donor atom|Coordinate through delocalised π-electrons or π systems|
+|Generally form coordinate σ-bonds|Often involve π interactions|
+|Examples: $NH_3$, $H_2O$, $Cl^-$|Examples: $C_2H_4$, $C_6H_6$, $C_5H_5^-$|
+
+Note: CO is a special case: it coordinates through carbon by σ-donation and also accepts electron density through π-back bonding. Its bonding is not simply a π-electron-cloud coordination like ethylene or benzene.
 ## 3. Werner's Theory of Coordination Compounds
 
 ### 3.1 Introduction
