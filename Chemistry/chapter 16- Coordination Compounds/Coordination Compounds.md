@@ -186,6 +186,7 @@ Examples:
 | $Cl^+$       | Chlorinium  |
 
 ### 2.2 Classification Based on Denticity
+the number of donor atoms in a single ligand that form coordinate covalent bonds with a central metal ion
 
 | Denticity   | Ligand             | Example  |
 | ----------- | ------------------ | -------- |
@@ -248,6 +249,7 @@ Can coordinate through:
 ### 2.41 Flexidentate Ligands
 ligands having flexible denticity which depends on the nautre of the metal
 Ex: EDTA^4-,Co3^2-,SO4^2- 
+
 ### 2.5 Bridging Ligands
 
 Ligands that connect two or more metal centres are called bridging ligands.
@@ -306,7 +308,7 @@ Examples:
 |Generally form coordinate σ-bonds|Often involve π interactions|
 |Examples: $NH_3$, $H_2O$, $Cl^-$|Examples: $C_2H_4$, $C_6H_6$, $C_5H_5^-$|
 
-Note: CO is a special case: it coordinates through carbon by σ-donation and also accepts electron density through π-back bonding. Its bonding is not simply a π-electron-cloud coordination like ethylene or benzene.
+Note: CO is a special case: it coordinates through carbon by σ-donation and also accepts electron density through π-back bonding. Its bonding is not simply a π-electron-cloud coordination like ethylene or benzene. IT is a sigma donor and pi acceptor
 ## 3. Werner's Theory of Coordination Compounds
 
 ### 3.1 Introduction
