@@ -1073,6 +1073,10 @@ Magnetic nature: Paramagnetic with five unpaired electrons.
     
 #Exception 
 ![[Pasted image 20261108201821.png]]
+- Reasons: (from CFT)
+-1) As Zeff is high in 4d,5d series, field splitting energy is larger and hence pairing takes place
+-2)As Zeff decreases, field splitting decreases and so for the 3d series the first four (cr,mn,fe,co) have generally less Zeff than the others and hence  NH3 acts as weak field ligand (PE>$\Delta$) [Note: NH3 isnt a WFL only for those it is because their own Zeff is less]
+-3) For oxygen donors they have higher Zeff in 3d series and so the Splitting energy is larger and so they are SFL ($\Delta>PE$)
 ## 7. Crystal Field Theory (CFT)
 
 ### 7.1 Introduction
@@ -1261,16 +1265,7 @@ Examples:
 ![[Pasted image 20261108214939.png]]
 ![[Pasted image 20261108215110.png]]
 
-### 7.92 Formation of low spin and high spin complexes
-![[Pasted image 20261108215439.png]]
 
-IN WFL:
-the pairing energy is more than the field splitting energy and hence the fourth electron to be filled can go to the next orbital (no pairing takes place)
-
-IN SFL
-the pairing energy is less than the field splitting energy hence pairing takes place
-
-this is the reason for the outer /inner orbital differences of low / high spin
 ### 7.10 Spectrochemical Series
 
 The spectrochemical series arranges ligands in increasing order of crystal field splitting strength.
@@ -1321,7 +1316,7 @@ Properties:
     
 - Common with strong-field ligands.
     
-
+-> this is the reason for the outer /inner orbital differences of low / high spin
 ### 7.12 Electron Configuration in Octahedral Complexes
 
 For a $d^4$ metal ion:
@@ -1358,7 +1353,8 @@ CFSE is the lowering in energy of d-electrons due to crystal field splitting rel
 
 For an octahedral complex:
 
-$CFSE=(-0.4n_{t_{2g}}+0.6n_{e_g})\Delta_o$
+$CFSE=(-0.4n_{t_{2g}}+0.6n_{e_g})\Delta_{o}+xP.E$
+
 
 Where:
 
@@ -1366,7 +1362,7 @@ Where:
     
 - $n_{e_g}$ = number of electrons in higher orbitals.
     
-
+- x= no of extra electron pair formed
 #### Examples
 
 **$d^1$ configuration**
@@ -1400,7 +1396,8 @@ $t_{2g}^4e_g^2$
 $CFSE=-0.4\Delta_o$
 
 Pairing energy must also be considered when comparing configurations.
-
+ex: for $d^4$ in SFL:
+	CFSE= -$0.4*4 +1*PE$
 ### 7.14 CFSE in Tetrahedral Complexes
 
 For tetrahedral complexes:
