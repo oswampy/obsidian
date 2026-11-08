@@ -72,7 +72,7 @@ $[Co(NH_3)_6]Cl_3$
 
 Coordination sphere: $[Co(NH_3)_6]^{3+}$
 
-#### 4. Coordination Number
+#### 4. Coordination Number⭐
 
 The coordination number is the total number of donor atoms directly bonded to the central metal atom or ion.
 
@@ -1208,7 +1208,7 @@ In square planar complexes, four ligands approach the central metal ion along th
 
 The typical order of d-orbital energies from highest to lowest is:
 
-$ d_{x^2-y^2}>d_{xy}>d_{z^2}>d_{xz}=d_{yz}$
+$d_{x^2-y^2}>d_{xy}>d_{z^2}>d_{xz}=d_{yz}$
 
 The exact splitting depends on the metal ion and ligands.
 
@@ -1217,6 +1217,10 @@ Square planar complexes are commonly associated with $d^8$ metal ions.
 Example:
 
 $[Ni(CN)_4]^{2-}$
+![[Pasted image 20261108213558.png]]
+$\Delta_{1}>\Delta_{2}>\Delta_{3}$
+
+![[Pasted image 20261108213737.png]]
 
 ### 7.9 Strong-Field and Weak-Field Ligands
 
@@ -1250,8 +1254,23 @@ Examples:
 - $F^-$
     
 - $H_2O$
-    
+### 7.91 Factors Affecting Splitting Energy
+1. Distance between Central Metal and Ligand
+	As distance decreases, splitting increases (repulsion increases)
+![[Pasted image 20261108214206.png]]
+![[Pasted image 20261108214939.png]]
+![[Pasted image 20261108215110.png]]
 
+### 7.92 Formation of low spin and high spin complexes
+![[Pasted image 20261108215439.png]]
+
+IN WFL:
+the pairing energy is more than the field splitting energy and hence the fourth electron to be filled can go to the next orbital (no pairing takes place)
+
+IN SFL
+the pairing energy is less than the field splitting energy hence pairing takes place
+
+this is the reason for the outer /inner orbital differences of low / high spin
 ### 7.10 Spectrochemical Series
 
 The spectrochemical series arranges ligands in increasing order of crystal field splitting strength.
