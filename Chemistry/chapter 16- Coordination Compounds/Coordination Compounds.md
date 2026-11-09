@@ -1326,7 +1326,7 @@ Examples:
 - $Cu^+$: $d^{10}$
     
 
-Some compounds can still show colour due to charge-transfer transitions.
+Some compounds can still show colour due to charge-transfer transitions.(ex: permanganate and dichromate)
 
 ### 9.4 Charge Transfer Transitions
 
@@ -1401,6 +1401,32 @@ Examples:
 	    direct relation to no of chelate rings
 - Steric effects.
 	    inverse relation
+
+
+## 11. Jahn Teller Distortions
+![[Pasted image 20261109164820.png]]
+
+Due to unsymmetrical filling of d orbitals in OCTAHEDRAL complexes
+![[Pasted image 20261109164949.png]]
+
+unsymmetrical filling of eg orbitals -> strong JTD
+unsymmetrical filling of t2g orbitals -> weak JTD
+
+![[Pasted image 20261109165435.png|531]]
+
+First case: the electrons are are in dx2y2 so along axis and when ligand approaches there is major repulsion there so it gets compressed
+
+second case:if ligands appraoch in same dirn as first case then the repulsion experienced by z will be least and it will be elongated
+#### Examples
+![[Pasted image 20261109170013.png|602]]
+
+
+## 12. Synergic Bonding
+
+If a ligand donates an electron pair to central metal and accepts electron pair from d orbital of central metal, then it is called synergic bonding and the ligands are called pi acid ligands
+
+**Between Metal and Carbonyl**
+![[Pasted image 20261109170518.png|407]]
 
 
 
