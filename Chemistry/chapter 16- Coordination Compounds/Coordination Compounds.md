@@ -1428,8 +1428,13 @@ If a ligand donates an electron pair to central metal and accepts electron pair 
 **Between Metal and Carbonyl**
 ![[Pasted image 20261109170518.png|407]]
 
+![[Pasted image 20261109171118.png|520]]
 
+Reason it is inversely prop to BO of c-o bond is bc when it accepts a pi electron pair it goes into its vacant pi* orbital and so Nb increases, BO decreases.
+#### Examples
+![[Pasted image 20261109171329.png|582]]
 
+Like this we can make multiple proportionalities
 ## 13. Important Formula Sheet
 
 ### Oxidation State

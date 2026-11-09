@@ -28,8 +28,8 @@ Types:
 
 ### 5.3 Ionisation Isomerism
 
-Ionisation isomerism occurs when an ion inside the coordination sphere exchanges places with an ion outside the coordination sphere.
-
+Ionisation isomerism occurs when a **simple anion** inside the coordination sphere exchanges places with a **simple anion** outside the coordination sphere.
+CN and oxidation state should remain same
 Example:
 
 $[Co(NH_3)_5Br]SO_4$
@@ -39,7 +39,7 @@ and
 $[Co(NH_3)_5SO_4]Br$
 
 The first produces sulphate ions in solution, whereas the second produces bromide ions.
-
+![[Pasted image 20261109173231.png|633]]
 ### 5.4 Hydrate Isomerism
 
 Hydrate isomerism occurs when water molecules inside and outside the coordination sphere exchange positions.
