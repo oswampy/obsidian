@@ -1413,6 +1413,14 @@ Where:
 
 Most tetrahedral complexes are high spin because $\Delta_t$ is generally smaller than pairing energy.
 
+## Transference (only with SFL)
+
+![[Pasted image 20261108230310.png]]
+
+FOR CN=6 
+when the configuration of the metal is d7 then the special case arises where when the electron reaches the eg orbital it doesnt stay there but goes to another orbital of higher energy (since in SFL the $\Delta$ is huge) and so the orbital is empy giving us a hybridisation of dsp3
+
+ same reason with cn=4
 ## 8. Magnetic Properties of Coordination Compounds
 
 ### 8.1 Paramagnetic Complexes
