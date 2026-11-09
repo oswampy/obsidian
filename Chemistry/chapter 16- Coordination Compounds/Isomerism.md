@@ -40,6 +40,10 @@ $[Co(NH_3)_5SO_4]Br$
 
 The first produces sulphate ions in solution, whereas the second produces bromide ions.
 ![[Pasted image 20261109173231.png|633]]
+
+![[Pasted image 20261109174617.png]]
+
+in 3 and 4, the CN of cr is 6 (1 no2 and 4 from en in (3)) and whne replacing with the counterion the CN and OS remains same
 ### 5.4 Hydrate Isomerism
 
 Hydrate isomerism occurs when water molecules inside and outside the coordination sphere exchange positions.
@@ -52,11 +56,11 @@ $[Cr(H_2O)_5Cl]Cl_2\cdot H_2O$
 
 $[Cr(H_2O)_4Cl_2]Cl\cdot2H_2O$
 
-These compounds contain the same overall composition but differ in the distribution of water molecules.
+These compounds contain the same overall composition(CN,OS) but differ in the distribution of water molecules.
 
 ### 5.5 Linkage Isomerism
 
-Linkage isomerism occurs when an ambidentate ligand coordinates through different donor atoms.
+Linkage isomerism occurs when an **ambidentate** ligand coordinates through different donor atoms.
 
 Example:
 
@@ -67,7 +71,8 @@ Possible forms:
 - Nitro form: Coordination through nitrogen.
     
 - Nitrito form: Coordination through oxygen.
-    
+
+![[Pasted image 20261109174818.png]]
 
 ### 5.6 Coordination Isomerism
 
@@ -81,6 +86,10 @@ and
 
 $[Cr(NH_3)_6][Co(CN)_6]$
 
+![[Pasted image 20261109175133.png]]
+
+## 5.61 Coordination- Position Isomerism
+![[Pasted image 20261109175535.png]]
 ### 5.7 Stereoisomerism
 
 Stereoisomers have the same connectivity but different spatial arrangements.
@@ -109,6 +118,10 @@ Similar ligands are opposite to each other.
 Example:
 
 $[Pt(NH_3)_2Cl_2]$
+
+
+ **NOTE: Tetrahedral complexes do not show GI because even if u change the position of any of the groups their distance from eachother is same (second defn of GI)
+**
 
 <ins>Square planar geometry</ins>
 
@@ -204,6 +217,7 @@ $[Cr(ox)_3]^{3-}$
 
 This complex also exhibits optical isomerism.
 
+- M(AB)2 shoes OI because both MAB rings are in diff planes and no pos
 #### Important Points
 
 - Optical isomers are non-superimposable mirror images.
@@ -211,4 +225,9 @@ This complex also exhibits optical isomerism.
 - They have identical physical properties in an achiral environment except for their optical rotation.
     
 - A racemic mixture contains equal amounts of both enantiomers and is optically inactive.
-    
+---
+
+Notes:
+Tetrahedral Complexes do not show GI but show OI
+Octahedral complexes can show both GI and OI
+Square planar complexes can show GI but do not show OI (because of POS)

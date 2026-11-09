@@ -168,13 +168,13 @@ Examples:
 | $NH$                      | Imido                       |
 | $SO_4$                    | Sulphato                    |
 | $CO_3$                    | Carbonato                   |
-| $C_2O_4$                  | Oxalato                     |
+| $C_2O_4^{2-}$ (ox)        | Oxalato                     |
 | $CN^-$                    | Cyanido                     |
 | $NO_2^-$                  | Nitrito                     |
 | $O$                       | Oxido                       |
 | $gly^-$ ($NH_2CH_2COO^-$) | Glycinato                   |
 | $dmgH^-$                  | Dimethylglyoximato          |
-| $EDTA$                    | Ethylenediaminetetraacetato |
+| $EDTA^{4-}$               | Ethylenediaminetetraacetato |
 
 #### C. Cationic Ligands
 
