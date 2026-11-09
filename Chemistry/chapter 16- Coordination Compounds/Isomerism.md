@@ -246,6 +246,22 @@ others:
 
 ## GI  in octahedral Complexes 
 
-trick for OI:
-if both trans arrangements come out same (like (a,a)(b,a)(a,a))
+
+
 ![[Pasted image 20261109183907.png]]
+
+- trick for OI:
+	if any two trans arrangements come out same (like (a,a)(b,a)(a,a)) then it will def have a POS and not show OI, or even if two ligands in one group are same (like (a,a)) it will have a pos and now show OI
+
+![[Pasted image 20261109184425.png]]
+
+![[Pasted image 20261109184829.png]]
+
+Remember:
+![[Pasted image 20261109185044.png]]
+![[Pasted image 20261109190320.png]]
+
+
+#### Imp Example
+
+![[Pasted image 20261109190230.png]]
