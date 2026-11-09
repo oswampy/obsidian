@@ -205,10 +205,7 @@ They rotate plane-polarised light in opposite directions.
 - Dextrorotatory: Rotates light clockwise.
     
 - Laevorotatory: Rotates light anticlockwise.
-    
-
 #### Examples
-
 $[Co(en)_3]^{3+}$
 
 This complex exists as two optical isomers.
@@ -217,7 +214,7 @@ $[Cr(ox)_3]^{3-}$
 
 This complex also exhibits optical isomerism.
 
-- M(AB)2 shoes OI because both MAB rings are in diff planes and no pos
+- M(AB)2 shoes OI because both MAB rings are in diff planes and no pos and also both trans arrangements are diff
 #### Important Points
 
 - Optical isomers are non-superimposable mirror images.
@@ -231,3 +228,24 @@ Notes:
 Tetrahedral Complexes do not show GI but show OI
 Octahedral complexes can show both GI and OI
 Square planar complexes can show GI but do not show OI (because of POS)
+
+### GI in tetrahedral complexes
+trick for tetrahedral complexes:
+![[Pasted image 20261109181130.png]] 
+IN M(AB)2 A and B are both Unsymmetrical
+
+
+### GI in Square planar complexes
+![[Pasted image 20261109182613.png]]
+
+only if we find a trans position which is different from the original one then we can say that it shows GI
+![[Pasted image 20261109182925.png]]
+
+others:
+![[Pasted image 20261109183204.png]]
+
+## GI  in octahedral Complexes 
+
+trick for OI:
+if both trans arrangements come out same (like (a,a)(b,a)(a,a))
+![[Pasted image 20261109183907.png]]
