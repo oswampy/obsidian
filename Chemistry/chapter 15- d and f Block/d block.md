@@ -509,7 +509,7 @@ Potassium manganate is converted into potassium permanganate by oxidation, commo
 $MnO_{2} +KOH+O_{2}\to MnO_{4}^{2-}$
 and also:
 $3MnO_4^{2-}+4H^+\rightarrow 2MnO_4^-+MnO_{2}+2H_{2}O$
-(disproportionation)
+(disproportionation[not done industrially because we lose 1/3 of Mn in forming MnO2])
 The oxidation state of manganese increases from $+6$ to $+7$.
 ![[Pasted image 20261030160758.png]]
 
