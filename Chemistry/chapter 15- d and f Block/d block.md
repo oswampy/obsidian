@@ -517,6 +517,20 @@ Note: $MnO_{4}^{-}$ is Isostructural with $KClO_{4}$
 
 **action of strong alkali**
 ![[Pasted image 20261030161546.png]]
+
+**Note: Kmno4 and k2cr2o7 both have d0 electrons so d-d transition is not possible for the reason of the color:**
+the reason is LMCT (ligand metal charge transfer)
+ LMCT: the oxygen polarizes the metal and increases its energy, so the wavelength decreases and it shows color
+
+in other compounds d-d charge transfer can be a reason for color
+
+for halogens the color is from HOMO LUMO
+when electrons transfer from their HOMO to LUMO they show color
+
+In the prussian blue compound, the color comes from MMCT, where the inner iron has a +2 charge and outer is +3
+
+⁠
+
 ## Oxidising Action in Different Media
 
 **Acidic medium**
