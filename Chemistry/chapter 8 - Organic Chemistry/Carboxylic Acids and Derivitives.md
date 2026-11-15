@@ -322,7 +322,6 @@ resonance of R-COO- is a lot more stable than then resonance of Ph-COO-
 
 now since the COO- twists out of the plane there is no involvement of its resonance with the phenyl ring and so it is more acidic
 
-Based on your uploaded image, here is the clear text and chemical notation transcription:
 
 $$\rightarrow -\text{NO}_2, -\text{R}, -\text{CHO}, -\text{X, etc.} \xrightarrow{\text{show SH (Steric Hindrance)}} \text{Ortho effect } \checkmark$$
 
