@@ -604,3 +604,9 @@ permanganate is **diamagnetic** but it has a weakly temperature dependant parama
 Q:
 
 ![[Pasted image 20261115130204.png]]
+
+
+--
+
+
+![[Pasted image 20261115133006.png]]
