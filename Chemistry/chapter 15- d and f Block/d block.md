@@ -495,7 +495,7 @@ Potassium permanganate is a deep purple-coloured compound and a powerful oxidisi
  
 #### Preparation
 
-It is prepared from pyrolusite ore, $MnO_2$.
+It is prepared from pyrolusite ore, $MnO_2$. (brown ore)
 
 **Step 1: Formation of potassium manganate**
 
