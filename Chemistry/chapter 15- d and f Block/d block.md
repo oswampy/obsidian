@@ -529,7 +529,12 @@ when electrons transfer from their HOMO to LUMO they show color
 
 In the prussian blue compound, the color comes from MMCT, where the inner iron has a +2 charge and outer is +3
 
-⁠
+Peroxides are generally colourless or white
+
+Some common Ion Colors
+⁠![[Pasted image 20261115123930.png]]
+
+Trick: if any element has d^n and d^10-n config, MOST of the time they have the same color
 
 ## Oxidising Action in Different Media
 
@@ -591,3 +596,11 @@ $2MnO_4^-+6H^++5SO_3^{2-}\rightarrow2Mn^{2+}+3H_2O+5SO_4^{2-}$
 
 Notes:
 permanganate is **diamagnetic** but it has a weakly temperature dependant paramagnetism
+
+
+
+
+---
+Q:
+
+![[Pasted image 20261115130204.png]]
