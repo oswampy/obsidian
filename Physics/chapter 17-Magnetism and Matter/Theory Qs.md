@@ -60,4 +60,15 @@ does not depend on source frequency
 
 ---
 
-#
+## Semiconductors
+
+![[Pasted image 20261116183432.png]]
+
+---
+
+
+![[Pasted image 20261116185527.png]]
+in n type conductor the electrons are major carriers as donor atoms so DE level is near the CB and so Fermi level shifts up
+
+## Modern Physics
+![[Pasted image 20261116190256.png]]
