@@ -72,3 +72,19 @@ in n type conductor the electrons are major carriers as donor atoms so DE level 
 
 ## Modern Physics
 ![[Pasted image 20261116190256.png]]
+
+---
+
+![[Pasted image 20261116190610.png]]
+
+---
+
+![[Pasted image 20261116190805.png]]
+
+---
+
+![[Pasted image 20261116191859.png]]
+
+---
+
+![[Pasted image 20261116193336.png]]
