@@ -1,3 +1,4 @@
+## magnetism and matter
 ![[Pasted image 20261116173913.png]]
 
 ---
@@ -30,6 +31,33 @@ because of the earths mag field, there will be an induced e field in the conduct
 ![[Pasted image 20261116175855.png]]
 
 
-AC
+## AC
 
 ![[Pasted image 20261116180401.png]]
+
+![[Pasted image 20261116180616.png]]
+
+---
+
+![[Pasted image 20261116180718.png]]
+does not depend on source frequency
+
+
+
+ ## RAY OPTICS
+ 
+![[Pasted image 20261116181709.png]]
+
+
+---
+
+![[Pasted image 20261116181958.png]]
+
+---
+## EM WAVES
+![[Pasted image 20261116182745.png]]
+
+
+---
+
+#
