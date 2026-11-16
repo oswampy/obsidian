@@ -129,3 +129,8 @@ $\Delta x_{cm} = \frac{Mx + m(x-L)}{M+m}$ (Change of CM)
 **We know $\sum F_{ext} = 0$ so $\Delta x_{cm}$ has to be 0**
 
 $Mx + mx - mL = 0$ $x = \frac{mL}{M+m}$
+
+
+
+
+
