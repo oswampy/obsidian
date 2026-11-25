@@ -1202,6 +1202,10 @@ Where:
 
 Most tetrahedral complexes are high spin because $\Delta_t$ is generally smaller than pairing energy.
 
+Note:
+
+![[Pasted image 20261125194234.png|608]]
+![[Pasted image 20261125194146.png|607]]
 ## Transference (only with SFL)
 
 ![[Pasted image 20261108230310.png]]
