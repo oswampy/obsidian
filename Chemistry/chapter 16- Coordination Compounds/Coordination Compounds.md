@@ -1059,7 +1059,10 @@ The spectrochemical series arranges ligands in increasing order of crystal field
 $I^-<Br^-<SCN^-<Cl^-<S^{2-}<F^-<OH^-<C_2O_4^{2-}<H_2O<NCS^-<CH_3CN<NH_3<en<CN^-<CO$
 
 **Important:** The position of an ambidentate ligand depends on the donor atom.
-
+![[Pasted image 20261125183853.png]]
+ 
+for 4d/5d series all ligands are SFL
+ 
 ### 7.11 High-Spin and Low-Spin Complexes
 
 The distribution of electrons depends on the competition between:
