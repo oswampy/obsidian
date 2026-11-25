@@ -1214,6 +1214,17 @@ FOR CN=6
 when the configuration of the metal is d7 then the special case arises where when the electron reaches the eg orbital it doesnt stay there but goes to another orbital of higher energy (since in SFL the $\Delta$ is huge) and so the orbital is empy giving us a hybridisation of dsp3
 
  same reason with cn=4
+
+** some cases to note **
+1. **[Ni(CO)₄]:** 4s → 3d transfer, sp³.
+    
+2. **[Ni(CN)₄]²⁻ vs [NiCl₄]²⁻:** dsp² vs sp³.
+    
+3. **[PdCl₄]²⁻ and [PtCl₄]²⁻:** Square planar despite Cl⁻.
+    
+4. **[Co(NH₃)₆]³⁺:** NH₃ causes pairing because of Co³⁺.
+    
+5. **[Fe(CN)₆]⁴⁻ vs [FeF₆]⁴⁻:** d²sp³ vs sp³d².
 ## 8. Magnetic Properties of Coordination Compounds
 
 ### 8.1 Paramagnetic Complexes
