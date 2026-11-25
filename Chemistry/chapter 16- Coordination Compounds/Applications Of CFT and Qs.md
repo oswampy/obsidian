@@ -101,8 +101,5 @@ For example:
 
 $[Fe(C_2O_4)_3]^{3-}$
 
-There are three ligands, but each oxalate ligand is bidentate.
-
-Coordination number:
-
-$3\times2=6$
+## More uses
+![[Pasted image 20261125212450.png]]
