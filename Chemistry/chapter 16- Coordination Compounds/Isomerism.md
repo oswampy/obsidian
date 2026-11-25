@@ -172,6 +172,9 @@ Three identical ligands occupy one triangular face of the octahedron. All three 
 
 Three identical ligands lie along a meridian plane. Two of the identical ligands are trans.
 
+![[Pasted image 20261125205341.png]]
+
+fac- has only 90 whereas mer has both 90 and 180
 #### Type 3: $MA_2B_4$
 
 Two geometrical isomers are possible:

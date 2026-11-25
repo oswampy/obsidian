@@ -72,25 +72,7 @@ Examples:
 ### 12.1 Why Are Coordination Compounds Coloured?
 
 Due to electronic transitions between split d-orbitals, which absorb certain wavelengths of visible light.
-
-### 12.2 Why Are Most Coordination Compounds of Transition Metals Coloured?
-
-Transition-metal ions often contain partially filled d-orbitals, allowing electronic transitions.
-
-### 12.3 Why Are $[Ni(CN)_4]^{2-}$ and $[NiCl_4]^{2-}$ Different in Geometry?
-
-$CN^-$ is a strong-field ligand and causes pairing, resulting in $dsp^2$ hybridisation and square planar geometry.
-
-$Cl^-$ is a weak-field ligand and does not cause pairing, resulting in $sp^3$ hybridisation and tetrahedral geometry.
-
-### 12.4 Why Is $[Ni(CN)_4]^{2-}$ Diamagnetic?
-
-$Ni^{2+}$ has a $3d^8$ configuration. The strong-field ligand $CN^-$ causes electron pairing, leaving no unpaired electrons.
-
-### 12.5 Why Is $[NiCl_4]^{2-}$ Paramagnetic?
-
-$Cl^-$ is a weak-field ligand. The two unpaired electrons in the $3d^8$ configuration remain unpaired.
-
+ 
 ### 12.6 Why Do Coordination Compounds Show Isomerism?
 
 Ligands can be arranged in different ways around the central metal ion, producing different connectivity or spatial arrangements.
